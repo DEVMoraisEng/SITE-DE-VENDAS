@@ -93,6 +93,7 @@ def normalize_venda(page):
         "fotos":    get_prop(page, "FOTOS") or "",
         "layout":   get_prop(page, "LAYOUT") or "",
         "comissao":  get_prop(page, "COMISSÃO") or get_prop(page, "COMISSAO"),
+        "valorVenda": get_prop(page, "VALOR DE COMPRA E VENDA NO CONTRATO (VENDIDA)"),
     }
 
 def normalize_disp(page):
