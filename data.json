@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T20:40:59Z",
+  "updated_at": "2026-04-27T20:50:25Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -5113,7 +5113,7 @@
       "setor": "RAVENA",
       "tipo": 1,
       "modelo": "",
-      "cliente": "JOAO MARCOS ",
+      "cliente": "",
       "avaliacao": 348000,
       "valorMao": 285000,
       "entregou": "NÃO",
@@ -5225,7 +5225,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "https://drive.google.com/drive/folders/12adKm5Q4nbcSF5RgqQgsNtRUCjVSE3zG?usp=drive_link",
       "obs": "",
-      "qtd": 0
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
