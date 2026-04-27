@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T19:30:24Z",
+  "updated_at": "2026-04-27T20:32:56Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -14,7 +14,8 @@
       "valorMao": 266000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8000-a63d-ec3df1375977",
@@ -29,7 +30,8 @@
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8000-b24f-ed9c1931c6af",
@@ -44,7 +46,8 @@
       "valorMao": 242250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8001-a5c0-fc9b581282e0",
@@ -59,7 +62,8 @@
       "valorMao": 242250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8004-81cf-d558f8cf141c",
@@ -74,7 +78,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8005-8d18-c27523fa9794",
@@ -89,7 +94,8 @@
       "valorMao": 239400,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8006-a161-d05ed1359207",
@@ -104,7 +110,8 @@
       "valorMao": 225000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8007-bdf8-e2fe0b64abe4",
@@ -119,7 +126,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8007-bf79-f44de956bfc8",
@@ -134,7 +142,8 @@
       "valorMao": 240000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8008-a102-cf3703bc0795",
@@ -149,7 +158,8 @@
       "valorMao": 247000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8008-b2de-fbcac3dade2a",
@@ -164,7 +174,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8009-90b5-e4d9a59cc82d",
@@ -179,7 +190,8 @@
       "valorMao": 235000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-800a-a8c5-e32f23488530",
@@ -194,7 +206,8 @@
       "valorMao": 280000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-800b-8cd6-c3785f673553",
@@ -209,7 +222,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-800c-a85a-edfe58b433e0",
@@ -224,7 +238,8 @@
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-800d-baa7-c5f480b7c4e1",
@@ -239,7 +254,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-800e-9064-d9a86ec7c54c",
@@ -254,7 +270,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-800e-b6d5-f8f734455c3f",
@@ -269,7 +286,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8010-8483-e1c199bf9dc8",
@@ -284,7 +302,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8012-9078-d7a8b6a29186",
@@ -299,7 +318,8 @@
       "valorMao": 240000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8012-9f91-f0a6b369f671",
@@ -314,7 +334,8 @@
       "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8013-9556-c2cefc314e18",
@@ -329,7 +350,8 @@
       "valorMao": 255000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8013-a083-ec105d2318a6",
@@ -344,7 +366,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8013-bc4c-f18ad847e13e",
@@ -359,7 +382,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8014-9d6d-e61f47aec013",
@@ -374,7 +398,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8016-8903-d752e7dcae3d",
@@ -389,7 +414,8 @@
       "valorMao": 220000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8016-b0de-e43f34d040d1",
@@ -404,7 +430,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8017-b241-e2deb964a1d6",
@@ -419,7 +446,8 @@
       "valorMao": 275000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8018-8af3-c354ba421c76",
@@ -434,7 +462,8 @@
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8019-b5bc-f02b0ff5c521",
@@ -449,7 +478,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-801a-9134-ea12d389a398",
@@ -464,7 +494,8 @@
       "valorMao": 261250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-801a-bbe3-f5b52ab7acea",
@@ -479,7 +510,8 @@
       "valorMao": 235000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-801b-91b1-e37a3528c848",
@@ -494,7 +526,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-801f-a266-cf9ce99cb750",
@@ -509,7 +542,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1CidyUVQaEiYpZSsiPCJ_uMF1M6VTt7bq?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/11JEDEddSl7FJu2pIadDDoddEN_RNzW5d/view?usp=drive_link"
+      "layout": "https://drive.google.com/file/d/11JEDEddSl7FJu2pIadDDoddEN_RNzW5d/view?usp=drive_link",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-801f-a35e-eb198afdcd94",
@@ -524,7 +558,8 @@
       "valorMao": 230000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8020-8a2d-de26c3b7925d",
@@ -539,7 +574,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8020-9363-fef3e428a981",
@@ -554,7 +590,8 @@
       "valorMao": 240000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8021-b493-d326b7189fd1",
@@ -569,7 +606,8 @@
       "valorMao": 278000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8022-8bd5-fdd31c9f9379",
@@ -584,7 +622,8 @@
       "valorMao": 245000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8022-a375-fbff3dc4cd7f",
@@ -599,7 +638,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8023-b2df-c42262bb5601",
@@ -614,7 +654,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8023-b8e7-d22a4d3e49a9",
@@ -629,7 +670,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8024-a2ef-f76755a563bb",
@@ -644,7 +686,8 @@
       "valorMao": 255000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8025-9b92-d2c23860977f",
@@ -659,7 +702,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8025-bd6b-cb77a53c9235",
@@ -674,7 +718,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8027-9438-c66b0681c4f7",
@@ -689,7 +734,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8029-94b7-c4a4f0a37bd7",
@@ -704,7 +750,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8029-b35f-d40bc264f058",
@@ -719,7 +766,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802a-985d-f1221cf64071",
@@ -734,7 +782,8 @@
       "valorMao": 255000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802a-a2df-cab311dab305",
@@ -749,7 +798,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802a-b339-c58ddf914a50",
@@ -764,7 +814,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802a-bcd8-c2550282380f",
@@ -779,7 +830,8 @@
       "valorMao": 255000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802b-94a6-c4cac6f8d98a",
@@ -794,7 +846,8 @@
       "valorMao": 220000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802b-a306-c08647e76774",
@@ -809,7 +862,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802c-9d60-d044e496c260",
@@ -824,7 +878,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802c-b65a-dd6f88683070",
@@ -839,7 +894,8 @@
       "valorMao": 219000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-802d-a8e6-e162bb1a680d",
@@ -854,7 +910,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8032-9c8f-eb81fd8c6e54",
@@ -869,7 +926,8 @@
       "valorMao": 195000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8034-8cf0-fd4c3299e6f9",
@@ -884,7 +942,8 @@
       "valorMao": 255000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8034-bc48-feb628c45e03",
@@ -899,7 +958,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8035-84c8-e1a2b4682ea4",
@@ -914,7 +974,8 @@
       "valorMao": 237500,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8036-b2a0-db71d50fccb9",
@@ -929,7 +990,8 @@
       "valorMao": 220000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8037-82fa-d0f7c6ee6748",
@@ -944,7 +1006,8 @@
       "valorMao": 259000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803a-8595-d3ff2fae0adf",
@@ -959,7 +1022,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803a-aec3-fbedd0aa783f",
@@ -974,7 +1038,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1DaX7ZfzU0kOvDgaMJsTaQKne4x1xDM1O?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/1J_7506E1ynN9FvNIHlPdfI2J0upMvYOW/view?usp=drive_link"
+      "layout": "https://drive.google.com/file/d/1J_7506E1ynN9FvNIHlPdfI2J0upMvYOW/view?usp=drive_link",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803b-8543-fa962aa80593",
@@ -989,7 +1054,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803b-9f2e-fded702d6b87",
@@ -1004,7 +1070,8 @@
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803b-b9c8-e777b3f4280d",
@@ -1019,7 +1086,8 @@
       "valorMao": 200000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803c-9cc3-fc613fa970da",
@@ -1034,7 +1102,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803c-a6d8-fa6c5fceeec3",
@@ -1049,7 +1118,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803d-a747-da275afce491",
@@ -1064,7 +1134,8 @@
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803f-830a-c350bf487725",
@@ -1079,7 +1150,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803f-8587-f42746dc0946",
@@ -1094,7 +1166,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-803f-8ac3-e1f2a14b22bd",
@@ -1109,7 +1182,8 @@
       "valorMao": 271700,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8040-b8eb-d9f971e3bf20",
@@ -1124,7 +1198,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8043-9c0b-d24344550665",
@@ -1139,7 +1214,8 @@
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8045-878c-c8296b353270",
@@ -1154,7 +1230,8 @@
       "valorMao": 230000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8045-a32f-f03d9cb07458",
@@ -1169,7 +1246,8 @@
       "valorMao": 270750,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8046-9fc0-e39894dc4bb6",
@@ -1184,7 +1262,8 @@
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1KVoEYZgOTL3KP0S-hOIymL-tYkuPqcFc?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link"
+      "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8047-a369-e568c58d8f39",
@@ -1199,7 +1278,8 @@
       "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8047-ac26-e602dde6bd96",
@@ -1214,7 +1294,8 @@
       "valorMao": 240000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8047-b193-d854ee5fb76b",
@@ -1229,7 +1310,8 @@
       "valorMao": 259250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8048-b834-fc4297a11424",
@@ -1244,7 +1326,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8049-8c4f-d5016683beb4",
@@ -1259,7 +1342,8 @@
       "valorMao": 237500,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804a-8dfd-d78402ca7d51",
@@ -1274,7 +1358,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804a-b502-de06cf4b826e",
@@ -1289,7 +1374,8 @@
       "valorMao": 218500,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804b-9a0a-dc8fbbfc1eda",
@@ -1304,7 +1390,8 @@
       "valorMao": 255000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804c-817d-d03585003a4c",
@@ -1319,7 +1406,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804c-b10a-c4387ad4fc81",
@@ -1334,7 +1422,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804d-ae82-ccf3898c1754",
@@ -1349,7 +1438,8 @@
       "valorMao": 256500,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804e-a90e-da1630675a7d",
@@ -1364,7 +1454,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804e-bec2-cc0a7c854177",
@@ -1379,7 +1470,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-804f-9045-e5b1db78db9a",
@@ -1394,7 +1486,8 @@
       "valorMao": 236550,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8050-a1d2-d903bdf2cf4d",
@@ -1409,7 +1502,8 @@
       "valorMao": 255000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8050-b7ed-e5657c11aa10",
@@ -1424,7 +1518,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8051-a3d7-e36f8c097d9d",
@@ -1439,7 +1534,8 @@
       "valorMao": 255000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8052-80b8-c459d14fcd8f",
@@ -1454,7 +1550,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8052-9475-c38fdffd5076",
@@ -1469,7 +1566,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8052-a0bf-e784045922d3",
@@ -1484,7 +1582,8 @@
       "valorMao": 255000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1KVoEYZgOTL3KP0S-hOIymL-tYkuPqcFc?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link"
+      "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8053-87ea-fa36e5eaaf88",
@@ -1499,7 +1598,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8053-8f00-d82fea7d80a1",
@@ -1514,7 +1614,8 @@
       "valorMao": 256000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8053-96e5-d56628457972",
@@ -1529,7 +1630,8 @@
       "valorMao": 235000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8054-85e9-d9bf1edfa028",
@@ -1544,7 +1646,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8054-9eb5-fbf983cd2fb8",
@@ -1559,7 +1662,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8055-8a5e-d16f7cf1e4b0",
@@ -1574,7 +1678,8 @@
       "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8055-9f1d-c72dea82af90",
@@ -1589,7 +1694,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8055-b1cb-dac09574e9de",
@@ -1604,7 +1710,8 @@
       "valorMao": 270750,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8056-859a-dbffa3ab660a",
@@ -1619,7 +1726,8 @@
       "valorMao": 255000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8057-b445-e10bd46882c3",
@@ -1634,7 +1742,8 @@
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8057-b883-dcc7acaf0680",
@@ -1649,7 +1758,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8058-9e60-f104dd2d48f5",
@@ -1664,7 +1774,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8058-a863-f154e3bf76f5",
@@ -1679,7 +1790,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-805a-9005-fec0349bc3f9",
@@ -1694,7 +1806,8 @@
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-805a-bdef-f339f0088a73",
@@ -1709,7 +1822,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-805b-884a-f3002639bc46",
@@ -1724,7 +1838,8 @@
       "valorMao": 210000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-805c-b1d1-cf04d41dacf8",
@@ -1739,7 +1854,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-805d-88e0-f77096e4b12e",
@@ -1754,7 +1870,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-805e-9457-e8cbc8a5a127",
@@ -1769,7 +1886,8 @@
       "valorMao": 242250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-805e-b80c-eb64950f119a",
@@ -1784,7 +1902,8 @@
       "valorMao": 280000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-805e-bf9d-fddad8029e22",
@@ -1799,7 +1918,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8060-83f9-ea7081ce630c",
@@ -1814,7 +1934,8 @@
       "valorMao": 229900,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8060-8868-f13be2992618",
@@ -1829,7 +1950,8 @@
       "valorMao": 256500,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8060-ad68-f34d1d02bcfd",
@@ -1844,7 +1966,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8062-bb3d-ecd5e88f464e",
@@ -1859,7 +1982,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8063-935c-f5f7ffdef64c",
@@ -1874,7 +1998,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8064-8a36-f9368e7cad55",
@@ -1889,7 +2014,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8064-a0f7-ecde692b0140",
@@ -1904,7 +2030,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8064-b2a7-c1db187c4d91",
@@ -1919,7 +2046,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8065-86f7-d5900b6c1d5b",
@@ -1934,7 +2062,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8066-a221-ca02f36e13f5",
@@ -1949,7 +2078,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8066-b40b-e1116ad75d34",
@@ -1964,7 +2094,8 @@
       "valorMao": 266000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8067-8a13-d129e20f5556",
@@ -1979,7 +2110,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8067-a630-e5ae3a193c92",
@@ -1994,7 +2126,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8067-b4b7-da5e5b9b3d30",
@@ -2009,7 +2142,8 @@
       "valorMao": 242250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-806a-8660-ccdf23c79128",
@@ -2024,7 +2158,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-806a-9a44-e7c70949c686",
@@ -2039,7 +2174,8 @@
       "valorMao": 280000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-806b-b2aa-ea30e2da9552",
@@ -2054,7 +2190,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-806d-8762-eb0b9dc12b9d",
@@ -2069,7 +2206,8 @@
       "valorMao": 235000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-806f-b240-fadde01e2f62",
@@ -2084,7 +2222,8 @@
       "valorMao": 242250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-806f-bfc7-e45ea6b2193b",
@@ -2099,7 +2238,8 @@
       "valorMao": 237500,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8070-be03-e858e1214435",
@@ -2114,7 +2254,8 @@
       "valorMao": 268000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8071-97a7-d18e82d27416",
@@ -2129,7 +2270,8 @@
       "valorMao": 232750,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8073-a0db-ee953f476216",
@@ -2144,7 +2286,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8074-a51d-d8031fbcc304",
@@ -2159,7 +2302,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8076-834b-f832356f270f",
@@ -2174,7 +2318,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8077-99ce-fdd236f851a5",
@@ -2189,7 +2334,8 @@
       "valorMao": 315000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8077-abc9-f8a0fe5dde04",
@@ -2204,7 +2350,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8078-b846-c2eba774eb8b",
@@ -2219,7 +2366,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807a-9df8-c4df467068d6",
@@ -2234,7 +2382,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807a-bb84-d91a883d8914",
@@ -2249,7 +2398,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807b-82d3-f0cd6227cfdb",
@@ -2264,7 +2414,8 @@
       "valorMao": 259250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807b-a0c4-ca965307901a",
@@ -2279,7 +2430,8 @@
       "valorMao": 240000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807b-bc10-c3d1fbf21f33",
@@ -2294,7 +2446,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807d-9cec-cba61d5fc1f3",
@@ -2309,7 +2462,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807e-85d7-c2399896d5d4",
@@ -2324,7 +2478,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807e-a74c-e50fbe794e16",
@@ -2339,7 +2494,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-807f-abc0-e93e2978b750",
@@ -2354,7 +2510,8 @@
       "valorMao": 235000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8080-9e24-d109944da54c",
@@ -2369,7 +2526,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8080-b2e7-d957956f2fe4",
@@ -2384,7 +2542,8 @@
       "valorMao": 280000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8080-b3cb-f4ad48a6415e",
@@ -2399,7 +2558,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8082-8465-f7e7431b8a1b",
@@ -2414,7 +2574,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8082-a998-e034053f25e5",
@@ -2429,7 +2590,8 @@
       "valorMao": 215000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8083-b91e-cbcafc9d36b4",
@@ -2444,7 +2606,8 @@
       "valorMao": 270750,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8084-8b44-ff714d15f711",
@@ -2459,7 +2622,8 @@
       "valorMao": 210000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8084-a309-e9314c5cca01",
@@ -2474,7 +2638,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8086-8661-fb2498345a39",
@@ -2489,7 +2654,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8086-9bcd-d7e27080b9f8",
@@ -2504,7 +2670,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8087-978c-ccdb507f4aa7",
@@ -2519,7 +2686,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8087-97e3-e65826fc70d6",
@@ -2534,7 +2702,8 @@
       "valorMao": 240000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8087-ba3c-ccdc4de7d39a",
@@ -2549,7 +2718,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8088-aca1-ecbef3d4d7f1",
@@ -2564,7 +2734,8 @@
       "valorMao": 247000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8089-a0fa-d802836c470d",
@@ -2579,7 +2750,8 @@
       "valorMao": 324900,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8089-a166-d341f822921a",
@@ -2594,7 +2766,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8089-bc3f-fc7bf476c133",
@@ -2609,7 +2782,8 @@
       "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808c-a373-d7743273419d",
@@ -2624,7 +2798,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808c-ba1f-c22fbc11337b",
@@ -2639,7 +2814,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808e-879c-fd73ecebe1a2",
@@ -2654,7 +2830,8 @@
       "valorMao": 230000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808e-8c6a-f59237789ad4",
@@ -2669,7 +2846,8 @@
       "valorMao": 220000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808e-9702-e3e5047f3448",
@@ -2684,7 +2862,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808e-a4e1-e71592562e31",
@@ -2699,7 +2878,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808e-bac6-e4266d656cf3",
@@ -2714,7 +2894,8 @@
       "valorMao": 215000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808f-8e8f-de98151459a9",
@@ -2729,7 +2910,8 @@
       "valorMao": 230000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808f-9dfa-d41ccbf1ef9f",
@@ -2744,7 +2926,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808f-a147-f6129e127cca",
@@ -2759,7 +2942,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-808f-bf21-f6a9c7c56957",
@@ -2774,7 +2958,8 @@
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8090-81cd-c2038936688d",
@@ -2789,7 +2974,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8091-94b7-d41e1f018bf7",
@@ -2804,7 +2990,8 @@
       "valorMao": 266000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8091-a107-d142d1a38e55",
@@ -2819,7 +3006,8 @@
       "valorMao": 320000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8092-a2e5-dcae131e2dd7",
@@ -2834,7 +3022,8 @@
       "valorMao": 275000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8093-998b-de2a81db10aa",
@@ -2849,7 +3038,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8094-81ef-e99a810c18a0",
@@ -2864,7 +3054,8 @@
       "valorMao": 218500,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8094-8906-ddd7c668d2e2",
@@ -2879,7 +3070,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8096-bd69-ff4377a26d1d",
@@ -2894,7 +3086,8 @@
       "valorMao": 240000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8096-be49-faaaf82dc092",
@@ -2909,7 +3102,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8097-a67e-df7cb575303a",
@@ -2924,7 +3118,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8097-bc63-d595ecd39ca8",
@@ -2939,7 +3134,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8098-9a59-cd015b786e3b",
@@ -2954,7 +3150,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8098-a516-ef2b70791e2d",
@@ -2969,7 +3166,8 @@
       "valorMao": 229900,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8098-b3ed-d7949b2f3133",
@@ -2984,7 +3182,8 @@
       "valorMao": 285000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-8099-a30f-e6eb19602e13",
@@ -2999,7 +3198,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809a-8757-e04aa2970ee0",
@@ -3014,7 +3214,8 @@
       "valorMao": 200000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809b-877c-d3228bcdb72d",
@@ -3029,7 +3230,8 @@
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809b-8e68-c1cf43c4c4be",
@@ -3044,7 +3246,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809b-ac77-f7b29ee07d4b",
@@ -3059,7 +3262,8 @@
       "valorMao": 255000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809b-bdb6-c8cd60a0d58f",
@@ -3074,7 +3278,8 @@
       "valorMao": 219000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809c-9293-c728c3b513d4",
@@ -3089,7 +3294,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809c-9b4a-f6928a412991",
@@ -3104,7 +3310,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809d-9332-c39a65d94f46",
@@ -3119,7 +3326,8 @@
       "valorMao": 268000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809d-a6ca-cad683689432",
@@ -3134,7 +3342,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809f-9a41-caa693b1007f",
@@ -3149,7 +3358,8 @@
       "valorMao": 275500,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-809f-a766-d27da5515dbd",
@@ -3164,7 +3374,8 @@
       "valorMao": 266000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a0-88cc-e399ff3c2ec0",
@@ -3179,7 +3390,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a0-9e98-c71579eaec21",
@@ -3194,7 +3406,8 @@
       "valorMao": 270750,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a0-a5de-fc1f48ae61d8",
@@ -3209,7 +3422,8 @@
       "valorMao": 235000,
       "entregou": "ÁGIO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a1-8726-e5009e5ad789",
@@ -3224,7 +3438,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a1-8d68-f4f717ea1f8d",
@@ -3239,7 +3454,8 @@
       "valorMao": 240000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a1-a116-e6b3385f349a",
@@ -3254,7 +3470,8 @@
       "valorMao": 205000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a1-b04d-f0863ea2fcb1",
@@ -3269,7 +3486,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a2-8f4b-ec3b2c4406b7",
@@ -3284,7 +3502,8 @@
       "valorMao": 280000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a2-bb56-e88b0205154d",
@@ -3299,7 +3518,8 @@
       "valorMao": 239400,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a3-820d-efae46ac0030",
@@ -3314,7 +3534,8 @@
       "valorMao": 270750,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a3-8f34-f131bfd1c588",
@@ -3329,7 +3550,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a3-9d28-dfa1a830ae26",
@@ -3344,7 +3566,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a5-8b3b-d9e8ed761688",
@@ -3359,7 +3582,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a5-9667-cc3c23d398d2",
@@ -3374,7 +3598,8 @@
       "valorMao": 255000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a6-811e-e83e89555554",
@@ -3389,7 +3614,8 @@
       "valorMao": 255000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a6-ad41-e71ddae68117",
@@ -3404,7 +3630,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a8-afb2-fc974ce6aad9",
@@ -3419,7 +3646,8 @@
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a8-bc27-d75e2182621f",
@@ -3434,7 +3662,8 @@
       "valorMao": 259350,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80a9-8d05-c937137307f6",
@@ -3449,7 +3678,8 @@
       "valorMao": 256500,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80aa-a6ef-d374fd93ca0e",
@@ -3464,7 +3694,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ac-b22c-e8fa43d84188",
@@ -3479,7 +3710,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ad-86b7-fd3696fe6712",
@@ -3494,7 +3726,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ae-83f4-ff4598cd40c9",
@@ -3509,7 +3742,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ae-bcaf-cd78115d868b",
@@ -3524,7 +3758,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b0-b893-ed0511db9903",
@@ -3539,7 +3774,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b1-82ba-c76a4451acca",
@@ -3554,7 +3790,8 @@
       "valorMao": 270750,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1jChGmRE9h-ybGLC8AN1KBp2l7taI1aqw?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/1GZgKcc39Oj09boXsOzWrgb-NqNM2wIxn/view?usp=drive_link"
+      "layout": "https://drive.google.com/file/d/1GZgKcc39Oj09boXsOzWrgb-NqNM2wIxn/view?usp=drive_link",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b1-b5ac-c2d3197e99dd",
@@ -3569,7 +3806,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b3-9184-c98920dffcdf",
@@ -3584,7 +3822,8 @@
       "valorMao": 242250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b4-b3eb-cb44eb0c0941",
@@ -3594,12 +3833,13 @@
       "setor": "RAVENA",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "karla",
+      "cliente": "SUZANE DOS SANTOS OLIVEIRA S NASCIMENTO ",
       "avaliacao": 342932,
       "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1or-kLRPnDi2Zqg9WS1GMDuvaGJ8bFxwy?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/1rIpTH6OvvAGQ8Dbfha2ObHP7YwOE4iab/view?usp=drive_link"
+      "layout": "https://drive.google.com/file/d/1rIpTH6OvvAGQ8Dbfha2ObHP7YwOE4iab/view?usp=drive_link",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b5-95f8-d1677aaf41b1",
@@ -3614,7 +3854,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b5-9934-ef18a59fe89b",
@@ -3629,7 +3870,8 @@
       "valorMao": 210000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b6-9719-cf7bf0c3f856",
@@ -3644,7 +3886,8 @@
       "valorMao": 254000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b6-baa0-e7020c352eb8",
@@ -3659,7 +3902,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b7-9543-f0500f15f8d0",
@@ -3674,7 +3918,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b7-be1e-fc791fde0c82",
@@ -3689,7 +3934,8 @@
       "valorMao": 263000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b8-8d2d-e9a5c6c4a199",
@@ -3704,7 +3950,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b9-81b8-e54e4d04d915",
@@ -3719,7 +3966,8 @@
       "valorMao": 256500,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80b9-89d1-c0d2d38e6362",
@@ -3734,7 +3982,8 @@
       "valorMao": 235000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ba-812e-dbbf5be79f33",
@@ -3749,7 +3998,8 @@
       "valorMao": 247000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ba-b32b-de51425600e0",
@@ -3764,7 +4014,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80bb-9b28-f4637f93f30f",
@@ -3779,7 +4030,8 @@
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80bc-8628-c48a55cfe3a8",
@@ -3794,7 +4046,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80bc-8c95-c837632b22f9",
@@ -3809,7 +4062,8 @@
       "valorMao": 230000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80bc-b603-d0b1b2340562",
@@ -3824,7 +4078,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80bd-9b8e-f39f05a11712",
@@ -3839,7 +4094,8 @@
       "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80bd-9f0b-fa6bf200ff6a",
@@ -3854,7 +4110,8 @@
       "valorMao": 229900,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80be-a41f-fef0dffe617b",
@@ -3869,7 +4126,8 @@
       "valorMao": 242250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80be-b29c-ce9eb19312ac",
@@ -3884,7 +4142,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80bf-b8bf-df2d461c41e8",
@@ -3899,7 +4158,8 @@
       "valorMao": 225000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c1-9182-ca3571bb581c",
@@ -3914,7 +4174,8 @@
       "valorMao": 250000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c1-bda6-c20f5627c7bb",
@@ -3929,7 +4190,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c2-a585-ead6869fa4e1",
@@ -3944,7 +4206,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c3-92fc-db507351bd00",
@@ -3959,7 +4222,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c4-97a2-c24b80f7dc85",
@@ -3974,7 +4238,8 @@
       "valorMao": 225000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c6-a8e1-f336e5373326",
@@ -3989,7 +4254,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c7-83e3-d73527611b00",
@@ -4004,7 +4270,8 @@
       "valorMao": 213750,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c7-bed0-ced9ee78990f",
@@ -4019,7 +4286,8 @@
       "valorMao": 265000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c9-9de4-d2259b7420d8",
@@ -4034,7 +4302,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80c9-ae81-daae1f6aec1e",
@@ -4049,7 +4318,8 @@
       "valorMao": 225000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ca-ae74-ead248671349",
@@ -4064,7 +4334,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80cc-845c-db4d860733a4",
@@ -4079,7 +4350,8 @@
       "valorMao": 260000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80cd-8fa3-caacea6025d2",
@@ -4094,7 +4366,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80cf-b132-da616c96ebdc",
@@ -4109,7 +4382,8 @@
       "valorMao": 268000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d1-9b56-ddef4a5781e3",
@@ -4124,7 +4398,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d1-a6b0-f0ae96deb125",
@@ -4139,7 +4414,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d1-b377-f433bd3e9460",
@@ -4154,7 +4430,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d2-a69b-d9f25f5a67b5",
@@ -4169,7 +4446,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d3-91a2-f53b2510662a",
@@ -4184,7 +4462,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d3-a62a-f248c08d3c8e",
@@ -4199,7 +4478,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d6-834b-e696dfc24e4d",
@@ -4214,7 +4494,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d6-b7d0-e035d889da32",
@@ -4229,7 +4510,8 @@
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80d8-8813-c2b839f4f32c",
@@ -4244,7 +4526,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80da-a548-ddafac49e67e",
@@ -4259,7 +4542,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80dc-993a-ea5109aa9748",
@@ -4274,7 +4558,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80de-af8e-ce9f53392015",
@@ -4289,7 +4574,8 @@
       "valorMao": 195000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80de-b288-f5f480b17b36",
@@ -4304,7 +4590,8 @@
       "valorMao": 251750,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80df-bfac-fae2613329eb",
@@ -4319,7 +4606,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e2-9e88-ffcafda172f8",
@@ -4334,7 +4622,8 @@
       "valorMao": 240000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-b37a-d0c8cecf0812",
@@ -4349,7 +4638,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-b4cf-e1c98e5075bc",
@@ -4364,7 +4654,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-b855-c19ceeb51f4b",
@@ -4379,7 +4670,8 @@
       "valorMao": 245000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1KVoEYZgOTL3KP0S-hOIymL-tYkuPqcFc?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link"
+      "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-bc35-eed67f58c242",
@@ -4394,7 +4686,8 @@
       "valorMao": 205000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-bd19-fcde062878f2",
@@ -4409,7 +4702,8 @@
       "valorMao": 266000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e5-bc8d-e6b97ad403ed",
@@ -4424,7 +4718,8 @@
       "valorMao": 275500,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e6-8682-e8de7e7d60bf",
@@ -4439,7 +4734,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e6-8da4-dc9f1b95dbd9",
@@ -4454,7 +4750,8 @@
       "valorMao": 245000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e6-a2c5-f744c0e8891a",
@@ -4469,7 +4766,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e7-86b5-cee15ec8e240",
@@ -4484,7 +4782,8 @@
       "valorMao": 263500,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e8-b383-cf90d4d0d2ab",
@@ -4499,7 +4798,8 @@
       "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80e9-a9ed-ed0f7c7a8a09",
@@ -4514,7 +4814,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ea-832d-faedec19b215",
@@ -4529,7 +4830,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ea-8f33-f6db2d5f458e",
@@ -4544,7 +4846,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ea-bc57-eceef247bc1c",
@@ -4559,7 +4862,8 @@
       "valorMao": 218500,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1af19mGniOrKBhOaqnwzOcmnnY5GCh7X2?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/13SIQpuHt2LcsQ0dMEWUVKPZ7C6EpfBWJ/view?usp=sharing"
+      "layout": "https://drive.google.com/file/d/13SIQpuHt2LcsQ0dMEWUVKPZ7C6EpfBWJ/view?usp=sharing",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ed-95b2-cd486f23c4ca",
@@ -4574,7 +4878,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ed-a61b-f93cc10bf6f0",
@@ -4589,7 +4894,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ed-ab7e-e3cf69a64a43",
@@ -4604,7 +4910,8 @@
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80ee-8b76-fc081a0eedd9",
@@ -4619,7 +4926,8 @@
       "valorMao": 256500,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1SDtI8FLU3TNmDgjGOA9nBip6P2sOmwKj?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/1RSCzHYXxM9vVZzX1ORz6UwQqGEm27TBd/view?usp=drive_link"
+      "layout": "https://drive.google.com/file/d/1RSCzHYXxM9vVZzX1ORz6UwQqGEm27TBd/view?usp=drive_link",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f2-92b6-f1896dda2974",
@@ -4634,7 +4942,8 @@
       "valorMao": 252000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f2-bf77-e75b014fd539",
@@ -4649,7 +4958,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f3-9c46-f1a9d460f417",
@@ -4664,7 +4974,8 @@
       "valorMao": 242250,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f3-b6b8-cfb7ae2738c3",
@@ -4679,7 +4990,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f4-b363-c396a821525d",
@@ -4694,7 +5006,8 @@
       "valorMao": 235000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f5-8f3d-e7b299be6a19",
@@ -4709,7 +5022,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f5-933b-e0892a300de0",
@@ -4724,7 +5038,8 @@
       "valorMao": 228900,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f5-b8c5-ce960e18bca8",
@@ -4739,7 +5054,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f6-a2ea-cf9c971a04d0",
@@ -4754,7 +5070,8 @@
       "valorMao": 245000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f6-a6a3-c44ce8c16955",
@@ -4769,7 +5086,8 @@
       "valorMao": 230000,
       "entregou": "ÁGIO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80f7-9019-e7a7a0fdfd2d",
@@ -4784,7 +5102,8 @@
       "valorMao": null,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80fa-8245-db0d0b7edd98",
@@ -4794,12 +5113,13 @@
       "setor": "RAVENA",
       "tipo": 1,
       "modelo": "",
-      "cliente": "JOAO",
+      "cliente": "JOAO MARCOS ",
       "avaliacao": 348000,
       "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80fb-8d74-eab82c3c1590",
@@ -4814,7 +5134,8 @@
       "valorMao": 275000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80fb-9d5d-d4dde5ebfd21",
@@ -4829,7 +5150,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80fc-b6ec-dc8be9a271f8",
@@ -4844,7 +5166,8 @@
       "valorMao": 280000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80fd-a5b5-c90803c9308f",
@@ -4859,7 +5182,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80fe-8e3f-c193a5029a33",
@@ -4874,7 +5198,8 @@
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     },
     {
       "id": "33cc5ab5-32d3-80fe-b894-c0b55d94f3f1",
@@ -4889,7 +5214,8 @@
       "valorMao": 270000,
       "entregou": "SIM",
       "fotos": "",
-      "layout": ""
+      "layout": "",
+      "comissao": null
     }
   ],
   "disponibilidades": [
