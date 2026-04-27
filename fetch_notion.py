@@ -107,7 +107,6 @@ def normalize_disp(page):
     return {
         "id":     page["id"],
         "setor":  gp("SETOR", "Setor", "setor"),
-        "setorPBI": gp("SETOR PBI", "Setor PBI", "SETOR"),
         "cidade": gp("CIDADE", "Cidade", "cidade"),
         "link":   gp("LINK", "Link", "link"),
         "obs":    gp("OBSERVAÇÕES", "Observações", "OBSERVACOES", "observacoes"),
@@ -140,16 +139,15 @@ if __name__ == "__main__":
         setor = r.get("setor", "")
         if not setor:
             continue
-        tem_valor  = bool(r.get("valorMao"))
+        tem_valor   = bool(r.get("valorMao"))
         sem_cliente = not bool(r.get("cliente", "").strip())
         if tem_valor and sem_cliente:
             contagem[setor] = contagem.get(setor, 0) + 1
 
-    # 4. Enriquece disponibilidades com contagem
+    # 4. Enriquece disponibilidades com contagem usando SETOR diretamente
     for d in rows_disp:
-        setor_pbi = d.get("setorPBI") or d.get("setor", "")
-        setor     = d.get("setor", "")
-        d["qtd"]  = contagem.get(setor_pbi, contagem.get(setor, 0))
+        setor = d.get("setor", "")
+        d["qtd"] = contagem.get(setor, 0)
 
     # 5. Salva JSON
     output = {
