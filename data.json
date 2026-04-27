@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T20:32:56Z",
+  "updated_at": "2026-04-27T20:40:59Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -5222,7 +5222,6 @@
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
       "setor": "RAVENA",
-      "setorPBI": "RAVENA",
       "cidade": "SENADOR CANEDO",
       "link": "https://drive.google.com/drive/folders/12adKm5Q4nbcSF5RgqQgsNtRUCjVSE3zG?usp=drive_link",
       "obs": "",
@@ -5231,7 +5230,6 @@
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
       "setor": "TERRABELA DO CERRADO",
-      "setorPBI": "TERRABELA",
       "cidade": "SENADOR CANEDO",
       "link": "https://drive.google.com/drive/folders/1sDWhpankW3tmkNz04ooJB9Xz4ntMzsSQ?usp=drive_link",
       "obs": "",
@@ -5240,7 +5238,6 @@
     {
       "id": "33dc5ab5-32d3-8013-a270-e359f7890d18",
       "setor": "ITAIPU",
-      "setorPBI": "ITAIPU",
       "cidade": "GOIÂNIA",
       "link": "",
       "obs": "",
@@ -5249,7 +5246,6 @@
     {
       "id": "33dc5ab5-32d3-8022-a1d6-c1e88f65f049",
       "setor": "ST FÉ",
-      "setorPBI": "ST FÉ",
       "cidade": "GOIÂNIA",
       "link": "",
       "obs": "",
@@ -5258,7 +5254,6 @@
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
       "setor": "IPANEMA",
-      "setorPBI": "IPANEMA",
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1--pEEj1g77Yk-h3sL_16QrB5aaRdHQ07?usp=drive_link",
       "obs": "",
@@ -5267,7 +5262,6 @@
     {
       "id": "33dc5ab5-32d3-803c-a53c-e3d3bf3d28c3",
       "setor": "JOÃO BRAZ 2",
-      "setorPBI": "JOÃO BRAZ",
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1gKfPgQKrC82aMJCRo1Oweg07K13STPUL?usp=drive_link",
       "obs": "",
@@ -5276,7 +5270,6 @@
     {
       "id": "33dc5ab5-32d3-806e-ad9f-e33ae0973484",
       "setor": "SOLAR VILLE",
-      "setorPBI": "SOLAR VILLE",
       "cidade": "GOIÂNIA",
       "link": "",
       "obs": "",
@@ -5285,7 +5278,6 @@
     {
       "id": "33dc5ab5-32d3-8084-900c-ed48a39af1a4",
       "setor": "ACROPOLE",
-      "setorPBI": "ACROPOLE",
       "cidade": "GOIÂNIA",
       "link": "",
       "obs": "",
@@ -5294,7 +5286,6 @@
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
       "setor": "PORTO SEGURO",
-      "setorPBI": "PORTO SEGURO",
       "cidade": "SENADOR CANEDO",
       "link": "",
       "obs": "",
@@ -5303,7 +5294,6 @@
     {
       "id": "33dc5ab5-32d3-809f-9e34-f448e7805037",
       "setor": "MARQUES DE ABREU",
-      "setorPBI": "MARQUES DE ABREU",
       "cidade": "GOIÂNIA",
       "link": "",
       "obs": "",
@@ -5312,7 +5302,6 @@
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
       "setor": "PQ DOS BURITIS",
-      "setorPBI": "PQ DOS BURITIS",
       "cidade": "SENADOR CANEDO",
       "link": "https://drive.google.com/drive/folders/1WAaJGkHsrv03WyJpzPutp3Ki19BBy8nc?usp=drive_link",
       "obs": "",
@@ -5321,7 +5310,6 @@
     {
       "id": "33dc5ab5-32d3-80e1-a843-f1ca9bc63a6c",
       "setor": "ST EFIGÊNIA",
-      "setorPBI": "ST EFIGÊNIA",
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1Jee-e0mWDaSIP_wdGlLJCGSSiUGg39Z_?usp=drive_link",
       "obs": "",
