@@ -5,18 +5,24 @@ on:
     branches: [main]
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
+# Ignora commits do bot para não criar loop infinito
+# O fetch_notion.yml faz push do data.json → sem esse filtro,
+# cada atualização do Notion dispara um deploy desnecessário
 jobs:
   deploy:
+    # Não roda se o commit vier do github-actions[bot]
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    concurrency:
+      group: pages
+      cancel-in-progress: true   # cancela deploy anterior se vier novo — evita fila
+
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -31,7 +37,7 @@ jobs:
       - name: Upload artefato
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'           # raiz do repositório = tudo que está aqui
+          path: '.'
 
       - name: Deploy
         id: deploy
