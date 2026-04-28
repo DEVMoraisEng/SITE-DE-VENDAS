@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T15:56:26Z",
+  "updated_at": "2026-04-28T17:17:35Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -734,7 +734,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8025-9b92-d2c23860977f",
-      "endereco": "TB 6 QD 49 LT 35",
+      "endereco": "TB 18 QD 49 LT 35",
       "casa": 1,
       "ref": "TB84",
       "setor": "TERRABELA DO CERRADO",
@@ -1909,7 +1909,7 @@
       "id": "33cc5ab5-32d3-805a-9005-fec0349bc3f9",
       "endereco": "TB 5 QD 40 LT 01",
       "casa": 1,
-      "ref": "TB84",
+      "ref": "TB01",
       "setor": "TERRABELA DO CERRADO",
       "tipo": 4,
       "modelo": "SIM",
@@ -2118,8 +2118,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": 1,
-      "valorMao": 1,
+      "avaliacao": null,
+      "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -2502,7 +2502,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8078-b846-c2eba774eb8b",
-      "endereco": "TB 6 QD 49 LT 35",
+      "endereco": "TB 18 QD 49 LT 35",
       "casa": 2,
       "ref": "TB85",
       "setor": "TERRABELA DO CERRADO",
@@ -2883,8 +2883,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": 1,
-      "valorMao": 1,
+      "avaliacao": null,
+      "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -4072,7 +4072,7 @@
       "setor": "RAVENA",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "SUZANE DOS SANTOS OLIVEIRA S NASCIMENTO",
       "avaliacao": 342932,
       "valorMao": 285000,
       "entregou": "NÃO",
@@ -4423,7 +4423,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80c1-bda6-c20f5627c7bb",
-      "endereco": "TB 1 QD 39 LT 01",
+      "endereco": "TB 1 QD 39 LT 0",
       "casa": 2,
       "ref": "TB22",
       "setor": "TERRABELA DO CERRADO",
@@ -5207,7 +5207,7 @@
       "id": "33cc5ab5-32d3-80f2-92b6-f1896dda2974",
       "endereco": "TB 5 QD 40 LT 01",
       "casa": 2,
-      "ref": "TB85",
+      "ref": "TB01",
       "setor": "TERRABELA DO CERRADO",
       "tipo": 10,
       "modelo": "",
@@ -5517,7 +5517,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "ravena.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
@@ -5573,7 +5573,7 @@
       "cidade": "GOIÂNIA",
       "link": "acropole.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
@@ -5589,7 +5589,7 @@
       "cidade": "GOIÂNIA",
       "link": "marquesdeabreu.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     },
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
