@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T12:52:55Z",
+  "updated_at": "2026-04-28T13:04:27Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -5136,23 +5136,6 @@
       "valorVenda": null
     },
     {
-      "id": "33cc5ab5-32d3-80ea-8f33-f6db2d5f458e",
-      "endereco": "GYN 23 QD 86 LT 36",
-      "casa": 1,
-      "ref": "-",
-      "setor": "ST FÉ",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "GUILHERME HALAX PONCIANO DO VALE",
-      "avaliacao": 270000,
-      "valorMao": null,
-      "entregou": "SIM",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": 255000
-    },
-    {
       "id": "33cc5ab5-32d3-80ea-bc57-eceef247bc1c",
       "endereco": "AV. GERCINA BORGES QD 02 LT 03",
       "casa": 2,
@@ -5432,7 +5415,7 @@
       "setor": "RAVENA",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "JOÃO MARCOS",
       "avaliacao": 348000,
       "valorMao": 285000,
       "entregou": "NÃO",
@@ -5551,7 +5534,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "https://drive.google.com/drive/folders/12adKm5Q4nbcSF5RgqQgsNtRUCjVSE3zG?usp=drive_link",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
