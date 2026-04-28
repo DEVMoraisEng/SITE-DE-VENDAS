@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T23:00:33Z",
+  "updated_at": "2026-04-28T23:16:43Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -1335,7 +1335,7 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "TESTE",
       "avaliacao": 306000,
       "valorMao": 270000,
       "entregou": "NÃO",
@@ -1675,7 +1675,7 @@
       "setor": "TERRABELA DO CERRADO",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "TESTE",
+      "cliente": "",
       "avaliacao": 290000,
       "valorMao": 255000,
       "entregou": "NÃO",
@@ -5525,7 +5525,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 4
     },
     {
       "id": "33dc5ab5-32d3-8013-a270-e359f7890d18",
@@ -5597,7 +5597,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-80e1-a843-f1ca9bc63a6c",
