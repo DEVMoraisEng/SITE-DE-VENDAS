@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T19:00:33Z",
+  "updated_at": "2026-04-28T22:44:11Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -1675,7 +1675,7 @@
       "setor": "TERRABELA DO CERRADO",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "TESTE",
       "avaliacao": 290000,
       "valorMao": 255000,
       "entregou": "NÃO",
@@ -5525,7 +5525,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 4
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8013-a270-e359f7890d18",
