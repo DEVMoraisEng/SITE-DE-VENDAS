@@ -97,11 +97,12 @@ td.qtd.zero{color:#bbb}
 
   /* Tabela: layout fluido, sem scroll horizontal */
   .tabela-card table{table-layout:fixed;width:100%;min-width:0}
-  .tabela-card colgroup col:nth-child(1){width:55%}
-  .tabela-card colgroup col:nth-child(2){width:20%}
-  .tabela-card colgroup col:nth-child(3){width:25%}
+  .tabela-card colgroup col:nth-child(1){width:45%}
+  .tabela-card colgroup col:nth-child(2){width:25%}
+  .tabela-card colgroup col:nth-child(3){width:30%}
 
-  thead th{padding:8px 10px;font-size:11px;letter-spacing:.05em;white-space:normal;overflow:visible}
+  thead th{padding:8px 6px;font-size:10px;letter-spacing:.02em;white-space:normal;overflow:visible;vertical-align:middle}
+  thead th.center{text-align:center}
   tbody td{padding:10px 10px;font-size:13px;vertical-align:middle}
   td.qtd{font-size:20px;font-weight:700}
   td:first-child,th:first-child{white-space:normal;word-break:break-word}
@@ -114,11 +115,12 @@ td.qtd.zero{color:#bbb}
   .rodape-tel{font-size:11px;padding:7px 11px}
 }
 @media(max-width:400px){
-  .tabela-card colgroup col:nth-child(1){width:52%}
-  .tabela-card colgroup col:nth-child(2){width:18%}
-  .tabela-card colgroup col:nth-child(3){width:33%}
+  .tabela-card colgroup col:nth-child(1){width:42%}
+  .tabela-card colgroup col:nth-child(2){width:24%}
+  .tabela-card colgroup col:nth-child(3){width:34%}
   .tabela-titulo{font-size:13px;padding:10px 14px}
-  thead th{font-size:10px;padding:6px 8px;letter-spacing:.03em}
+  thead th{font-size:9px;padding:5px 4px;letter-spacing:.01em;white-space:normal}
+  thead th.center{text-align:center}
   tbody td{padding:8px 8px;font-size:12px}
   td.qtd{font-size:16px}
   .link-drive{font-size:9px;padding:3px 7px;gap:3px}
@@ -144,12 +146,12 @@ td.qtd.zero{color:#bbb}
     <div class="status-bar"><div class="dot"></div><span id="statusDetalhe">Carregando dados…</span></div>
     <div class="tabela-card">
       <div class="tabela-header"><div class="tabela-titulo">Disponibilidades <span>Senador Canedo</span></div></div>
-      <table style="table-layout:fixed"><colgroup><col style="width:50%"><col style="width:20%"><col style="width:30%"></colgroup><thead><tr><th>Setor</th><th class="center">Casas<br>Disp.</th><th>Mapa do Setor</th></tr></thead>
+      <table style="table-layout:fixed"><colgroup><col style="width:50%"><col style="width:20%"><col style="width:30%"></colgroup><thead><tr><th>Setor</th><th class="center">Casas Disponíveis</th><th class="center">Mapa do Setor</th></tr></thead>
       <tbody id="tbody-canedo"><tr><td colspan="4" style="text-align:center;padding:30px;color:#aaa">Carregando…</td></tr></tbody></table>
     </div>
     <div class="tabela-card">
       <div class="tabela-header"><div class="tabela-titulo">Disponibilidades <span>Goiânia</span></div></div>
-      <table style="table-layout:fixed"><colgroup><col style="width:50%"><col style="width:20%"><col style="width:30%"></colgroup><thead><tr><th>Setor</th><th class="center">Casas<br>Disp.</th><th>Mapa do Setor</th></tr></thead>
+      <table style="table-layout:fixed"><colgroup><col style="width:50%"><col style="width:20%"><col style="width:30%"></colgroup><thead><tr><th>Setor</th><th class="center">Casas Disponíveis</th><th class="center">Mapa do Setor</th></tr></thead>
       <tbody id="tbody-goiania"><tr><td colspan="4" style="text-align:center;padding:30px;color:#aaa">Carregando…</td></tr></tbody></table>
     </div>
   </main>
@@ -182,7 +184,7 @@ function renderTabela(tbodyId, setores){
     <tr>
       <td style="font-weight:600">${s.setor}</td>
       <td class="qtd ${s.qtd===0?'zero':''}">${s.qtd}</td>
-      <td>${s.link?`<a class="link-drive" href="${s.link}" target="_blank">${iconeSeta()} Clicar para ir ao Mapa</a>`:'<span style="color:#bbb;font-size:12px">—</span>'}</td>
+      <td style="text-align:center">${s.link?`<a class="link-drive" href="${s.link}" target="_blank">${iconeSeta()} Clicar para ir ao Mapa</a>`:'<span style="color:#bbb;font-size:12px">—</span>'}</td>
     </tr>`).join('');
 }
 
