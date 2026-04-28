@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T13:04:27Z",
+  "updated_at": "2026-04-28T15:48:14Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -570,14 +570,14 @@
       "setor": "TERRABELA DO CERRADO",
       "tipo": 2,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "WANDERSON GOMES DE FREITAS  OLIVEIRA ",
       "avaliacao": 310000,
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1CidyUVQaEiYpZSsiPCJ_uMF1M6VTt7bq?usp=drive_link",
       "layout": "https://drive.google.com/file/d/11JEDEddSl7FJu2pIadDDoddEN_RNzW5d/view?usp=drive_link",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-801f-a35e-eb198afdcd94",
@@ -1501,7 +1501,7 @@
       "id": "33cc5ab5-32d3-804c-b10a-c4387ad4fc81",
       "endereco": "DONA MORENA QD 18 LT B1",
       "casa": 2,
-      "ref": "J20",
+      "ref": "M2",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
       "modelo": "",
@@ -1552,7 +1552,7 @@
       "id": "33cc5ab5-32d3-804e-bec2-cc0a7c854177",
       "endereco": "DONA MORENA QD 18 LT B1",
       "casa": 3,
-      "ref": "J21",
+      "ref": "M3",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
       "modelo": "",
@@ -1858,7 +1858,7 @@
       "id": "33cc5ab5-32d3-8057-b883-dcc7acaf0680",
       "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B3",
       "casa": 1,
-      "ref": "J27",
+      "ref": "M8",
       "setor": "MARQUES DE ABREU",
       "tipo": 4,
       "modelo": "",
@@ -1913,14 +1913,14 @@
       "setor": "TERRABELA DO CERRADO",
       "tipo": 4,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "DIOGO BATISTA DOS SANTOS",
       "avaliacao": 315000,
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 262000
     },
     {
       "id": "33cc5ab5-32d3-805a-bdef-f339f0088a73",
@@ -2118,8 +2118,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 1,
+      "valorMao": 1,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -2453,7 +2453,7 @@
       "id": "33cc5ab5-32d3-8076-834b-f832356f270f",
       "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B2",
       "casa": 1,
-      "ref": "J23",
+      "ref": "M5",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
       "modelo": "",
@@ -2878,13 +2878,13 @@
       "id": "33cc5ab5-32d3-8087-ba3c-ccdc4de7d39a",
       "endereco": "DONA MORENA QD 18 LT B1",
       "casa": 1,
-      "ref": "J19",
+      "ref": "M1",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 1,
+      "valorMao": 1,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -3218,7 +3218,7 @@
       "id": "33cc5ab5-32d3-8093-998b-de2a81db10aa",
       "endereco": "DONA MORENA QD 18 LT B1",
       "casa": 4,
-      "ref": "J22",
+      "ref": "M4",
       "setor": "MARQUES DE ABREU",
       "tipo": 2,
       "modelo": "",
@@ -3439,7 +3439,7 @@
       "id": "33cc5ab5-32d3-809b-8e68-c1cf43c4c4be",
       "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B3",
       "casa": 3,
-      "ref": "J29",
+      "ref": "M10",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
       "modelo": "",
@@ -3983,7 +3983,7 @@
       "id": "33cc5ab5-32d3-80ae-bcaf-cd78115d868b",
       "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B2",
       "casa": 2,
-      "ref": "J24",
+      "ref": "M6",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
       "modelo": "",
@@ -4072,7 +4072,7 @@
       "setor": "RAVENA",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "SUZANE DOS SANTOS OLIVEIRA S NASCIMENTO ",
+      "cliente": "",
       "avaliacao": 342932,
       "valorMao": 285000,
       "entregou": "NÃO",
@@ -4318,23 +4318,6 @@
       "layout": "",
       "comissao": null,
       "valorVenda": 250000
-    },
-    {
-      "id": "33cc5ab5-32d3-80bc-b603-d0b1b2340562",
-      "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B2",
-      "casa": 4,
-      "ref": "J26",
-      "setor": "MARQUES DE ABREU",
-      "tipo": 4,
-      "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
-      "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": null
     },
     {
       "id": "33cc5ab5-32d3-80bd-9b8e-f39f05a11712",
@@ -4833,7 +4816,7 @@
       "id": "33cc5ab5-32d3-80dc-993a-ea5109aa9748",
       "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B3",
       "casa": 2,
-      "ref": "J28",
+      "ref": "M9",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
       "modelo": "",
@@ -5445,7 +5428,7 @@
       "id": "33cc5ab5-32d3-80fb-9d5d-d4dde5ebfd21",
       "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B2",
       "casa": 3,
-      "ref": "J25",
+      "ref": "M7",
       "setor": "MARQUES DE ABREU",
       "tipo": 3,
       "modelo": "",
@@ -5496,7 +5479,7 @@
       "id": "33cc5ab5-32d3-80fe-8e3f-c193a5029a33",
       "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B3",
       "casa": 4,
-      "ref": "J30",
+      "ref": "M11",
       "setor": "MARQUES DE ABREU",
       "tipo": 5,
       "modelo": "",
@@ -5534,7 +5517,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "https://drive.google.com/drive/folders/12adKm5Q4nbcSF5RgqQgsNtRUCjVSE3zG?usp=drive_link",
       "obs": "",
-      "qtd": 0
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
@@ -5542,7 +5525,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "https://drive.google.com/drive/folders/1sDWhpankW3tmkNz04ooJB9Xz4ntMzsSQ?usp=drive_link",
       "obs": "",
-      "qtd": 6
+      "qtd": 4
     },
     {
       "id": "33dc5ab5-32d3-8013-a270-e359f7890d18",
@@ -5590,7 +5573,7 @@
       "cidade": "GOIÂNIA",
       "link": "",
       "obs": "",
-      "qtd": 0
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
@@ -5606,7 +5589,7 @@
       "cidade": "GOIÂNIA",
       "link": "",
       "obs": "",
-      "qtd": 0
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
