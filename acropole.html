@@ -296,14 +296,7 @@ function isDisponivelTabela(row, all){
   if(setor !== alvo) return false;
   const temValor    = row.valorVenda != null || row.valorMao != null;
   const clienteVazio= !(row.cliente && row.cliente.trim());
-  const ehModelo    = (row.modelo||'').trim().toUpperCase() === 'SIM';
-  const naoEntregue = (row.entregou||'').trim().toUpperCase() === 'NÃO';
-  const existeOutra = all.some(r =>
-    (r.setor||'').trim().toUpperCase() === alvo &&
-    r.tipo === row.tipo && r.endereco !== row.endereco &&
-    (r.valorVenda != null || r.valorMao != null) && !(r.cliente && r.cliente.trim())
-  );
-  return temValor && (clienteVazio || (ehModelo && !clienteVazio && naoEntregue && existeOutra));
+  return temValor && clienteVazio;
 }
 
 function buildTable(rows){

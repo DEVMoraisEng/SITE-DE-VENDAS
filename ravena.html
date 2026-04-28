@@ -299,16 +299,9 @@ function isDisponivelTabela(row, all){
   const setor = (row.setor||'').trim().toUpperCase();
   const alvo  = 'RAVENA';
   if(setor !== alvo) return false;
-  const temAval    = row.avaliacao != null;
+  const temValor    = row.avaliacao != null;
   const clienteVazio= !(row.cliente && row.cliente.trim());
-  const ehModelo    = (row.modelo||'').trim().toUpperCase() === 'SIM';
-  const naoEntregue = (row.entregou||'').trim().toUpperCase() === 'NÃO';
-  const existeOutra = all.some(r =>
-    (r.setor||'').trim().toUpperCase() === alvo &&
-    r.tipo === row.tipo && r.endereco !== row.endereco &&
-    r.avaliacao != null && !(r.cliente && r.cliente.trim())
-  );
-  return temAval && (clienteVazio || (ehModelo && !clienteVazio && naoEntregue && existeOutra));
+  return temValor && clienteVazio;
 }
 
 function buildTable(rows){
