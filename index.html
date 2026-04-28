@@ -202,14 +202,7 @@ async function main(){
       if(qtd === 0) continue;
       const cidade=(d.cidade||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase();
       // Mapeia setor → página interna (sobrepõe link do Drive)
-      const mapaLinks = {
-        'RAVENA': 'ravena.html',
-        'JOÃO BRAZ 2': 'joaobraz2.html',
-        'ST EFIGÊNIA': 'stefigenia.html',
-        'JOÃO BRAZ': 'joaobraz2.html',
-      };
-      const setorUp = (d.setor||'').toUpperCase().trim();
-      const linkMapa = mapaLinks[setorUp] || d.link || '';
+      const linkMapa = d.link || '';
       const obj={setor:d.setor,link:linkMapa,obs:d.obs,qtd};
       if(cidade.includes('CANEDO')||cidade.includes('SENADOR')) canedo.push(obj);
       else if(cidade.includes('GOIANIA')) goiania.push(obj);
