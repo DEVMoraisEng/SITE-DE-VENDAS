@@ -186,8 +186,7 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
         <tr>
           <th>Endereço</th>
           <th>Avaliação</th>
-          <th style="text-align:center">Valor de Venda<br>(c/ 5% de Comissão)</th>
-          <th>Comissão</th>
+          <th style="text-align:center">Valor de Venda<br>(c/ 5% de Comissão Incluso)</th>
           <th>Casa Modelo</th>
           <th>Drive Fotos</th>
           <th>Descrição</th>
@@ -328,13 +327,11 @@ function buildTable(rows){
     const label=r.endereco+(r.casa?' — C'+r.casa:'');
     const cm=modeloPorTipo[r.tipo]||'—';
     const fo=linkFotos(r), la=linkLayout(r);
-    const comissao   = r.comissao  != null ? r.comissao  : null;
     const valorVenda = r.valorVenda != null ? r.valorVenda : null;
     return `<tr class="${ehM?'rmodelo':''}">
       <td><strong>${label}</strong>${ehM?'<span class="badge">Casa Modelo</span>':''}</td>
       <td>${r.avaliacao?fmt(r.avaliacao):'—'}</td>
       <td class="valor">${valorVenda!=null?fmt(valorVenda):'—'}</td>
-      <td>${comissao!=null?fmt(comissao):'—'}</td>
       <td style="font-size:12px">${cm}</td>
       <td>${fo?`<a class="btn verde" href="${fo}" target="_blank">📷 Fotos</a>`:'—'}</td>
       <td>${la?`<a class="btn" href="${la}" target="_blank">↗ Ver</a>`:'—'}</td>
