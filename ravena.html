@@ -256,14 +256,7 @@ function calcStatus(row, all){
   const entregou  = ['SIM','ÁGIO','AGIO'].includes((row.entregou||'').trim().toUpperCase());
   if(!temAval) return 'embreve';
   if(!temCliente) return ehModelo ? 'modelo' : 'disponivel';
-  if(ehModelo && !entregou){
-    const haOutro = all.some(r=>
-      (r.setor||'').trim().toUpperCase()==='RAVENA' &&
-      r.tipo==row.tipo && r.endereco!==row.endereco &&
-      r.avaliacao!=null && !(r.cliente&&r.cliente.trim())
-    );
-    return haOutro ? 'modvend' : 'vendida';
-  }
+  if(ehModelo && !entregou) return 'modvend';
   return 'vendida';
 }
 

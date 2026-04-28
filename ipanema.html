@@ -250,7 +250,8 @@ function calcStatus(row, all){
   const entregou  = ['SIM','ÁGIO','AGIO'].includes((row.entregou||'').trim().toUpperCase());
   if(!temValor) return 'embreve';
   if(entregou)  return 'vendida';
-  if(temCliente)return 'vendida';
+  if(temCliente && ehModelo) return 'modvend';
+  if(temCliente) return 'vendida';
   if(ehModelo)  return 'modelo';
   return 'disponivel';
 }
@@ -273,7 +274,7 @@ function paintMap(rows){
       lotes.forEach(l=>{
         h+=l.endereco+(l.casa?' — C'+l.casa:'')+'<br>';
         if(l.avaliacao) h+='Aval: '+fmt(l.avaliacao)+'<br>';
-        if(l.valorMao)  h+='Vlr: '+fmt(l.valorMao)+'<br>';
+        if(l.valorVenda)  h+='Vlr: '+fmt(l.valorVenda)+'<br>';
         if(l.cliente)   h+='<em>Vendido</em><br>';
       });
       tip.innerHTML=h; tip.classList.add('on');
