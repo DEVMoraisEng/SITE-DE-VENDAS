@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T12:48:41Z",
+  "updated_at": "2026-04-28T12:52:55Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -3903,7 +3903,7 @@
       "tipo": null,
       "modelo": "",
       "cliente": "TATYANNE ROCHA DOS SANTOS DIAS",
-      "avaliacao": null,
+      "avaliacao": 345000,
       "valorMao": 256500,
       "entregou": "SIM",
       "fotos": "",
