@@ -252,6 +252,7 @@ function isDisponivelTabela(row, all){
 function buildTable(rows){
   const tbody = document.getElementById('tbody');
   const disp = rows.filter(r => isDisponivelTabela(r, rows));
+  disp.sort((a,b) => (a.endereco||'').trim().localeCompare((b.endereco||'').trim(), 'pt-BR'));
   if(!disp.length){
     tbody.innerHTML='<tr><td colspan="7" style="text-align:center;padding:20px;color:#aaa">Nenhuma casa disponível.</td></tr>';
     return;
