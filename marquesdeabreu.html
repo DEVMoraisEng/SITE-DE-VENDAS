@@ -301,7 +301,14 @@ function isDisponivelTabela(row, all){
 function buildTable(rows){
   const tbody = document.getElementById('tbody');
   const disp = rows.filter(r => isDisponivelTabela(r, rows));
-  disp.sort((a,b) => (a.endereco||'').trim().localeCompare((b.endereco||'').trim(), 'pt-BR'));
+  disp.sort((a,b) => {
+    const num = (s, key) => { const m = (s||'').match(new RegExp(key+'\\s*(\\d+)', 'i')); return m ? parseInt(m[1],10) : 0; };
+    const dQD = num(a.endereco,'QD') - num(b.endereco,'QD');
+    if(dQD !== 0) return dQD;
+    const dLT = num(a.endereco,'LT') - num(b.endereco,'LT');
+    if(dLT !== 0) return dLT;
+    return parseInt(a.casa||0,10) - parseInt(b.casa||0,10);
+  });
   if(!disp.length){
     tbody.innerHTML='<tr><td colspan="7" style="text-align:center;padding:20px;color:#aaa">Nenhuma casa disponível.</td></tr>';
     return;
