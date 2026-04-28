@@ -126,6 +126,19 @@ td.qtd.zero{color:#bbb}
   .link-drive{font-size:9px;padding:3px 7px;gap:3px}
   .link-drive svg{display:none}
 }
+
+/* Texto do botão: versão curta no mobile */
+.btn-texto-curto{display:none}
+.btn-texto-full{display:inline}
+@media(max-width:768px){
+  .btn-texto-curto{display:inline}
+  .btn-texto-full{display:none}
+  .link-drive{font-size:10px;padding:5px 8px;gap:3px;white-space:nowrap}
+  .link-drive svg{width:10px;height:10px}
+}
+@media(max-width:400px){
+  .link-drive{font-size:9px;padding:4px 6px}
+}
 </style>
 </head>
 <body>
@@ -184,7 +197,7 @@ function renderTabela(tbodyId, setores){
     <tr>
       <td style="font-weight:600">${s.setor}</td>
       <td class="qtd ${s.qtd===0?'zero':''}">${s.qtd}</td>
-      <td style="text-align:center">${s.link?`<a class="link-drive" href="${s.link}" target="_blank">${iconeSeta()} Clicar para ir ao Mapa</a>`:'<span style="color:#bbb;font-size:12px">—</span>'}</td>
+      <td style="text-align:center">${s.link?`<a class="link-drive" href="${s.link}" target="_blank">${iconeSeta()} <span class="btn-texto-full">Clicar para ir ao Mapa</span><span class="btn-texto-curto">Ver Mapa</span></a>`:'<span style="color:#bbb;font-size:12px">—</span>'}</td>
     </tr>`).join('');
 }
 
