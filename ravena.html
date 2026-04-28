@@ -250,13 +250,20 @@ async function loadData(){
 function calcStatus(row, all){
   const s = (row.setor||'').trim().toUpperCase();
   if(s !== 'RAVENA') return null;
-  const temAval   = row.avaliacao != null;
+  const temValor  = row.valorMao != null;
   const temCliente= !!(row.cliente && row.cliente.trim());
   const ehModelo  = (row.modelo||'').trim().toUpperCase()==='SIM';
   const entregou  = ['SIM','ÁGIO','AGIO'].includes((row.entregou||'').trim().toUpperCase());
-  if(!temAval) return 'embreve';
+  if(!temValor) return 'embreve';
   if(!temCliente) return ehModelo ? 'modelo' : 'disponivel';
-  if(ehModelo && !entregou) return 'modvend';
+  if(ehModelo && !entregou){
+    const haOutro = all.some(r=>
+      (r.setor||'').trim().toUpperCase()==='RAVENA' &&
+      r.tipo===row.tipo && r.endereco!==row.endereco &&
+      r.valorMao!=null && !(r.cliente&&r.cliente.trim())
+    );
+    return haOutro ? 'modvend' : 'vendida';
+  }
   return 'vendida';
 }
 
@@ -289,26 +296,19 @@ function paintMap(rows){
 }
 
 function isDisponivelTabela(row, all){
-  // Replica exatamente o DAX RAVENA DISPONÍVEIS
-  const setor      = (row.setor||'').trim().toUpperCase();
+  const setor = (row.setor||'').trim().toUpperCase();
+  const alvo  = 'RAVENA';
+  if(setor !== alvo) return false;
   const temAval    = row.avaliacao != null;
-  const clienteVazio = !(row.cliente && row.cliente.trim());
-  const ehModelo   = (row.modelo||'').trim().toUpperCase() === 'SIM';
-  const naoEntregue= (row.entregou||'').trim().toUpperCase() === 'NÃO';
-
-  if(setor !== 'RAVENA') return false;
-  if(!temAval) return false;
-
-  // ExisteOutraMesmoTipo: outro endereço do mesmo tipo, RAVENA, com avaliação, sem cliente
+  const clienteVazio= !(row.cliente && row.cliente.trim());
+  const ehModelo    = (row.modelo||'').trim().toUpperCase() === 'SIM';
+  const naoEntregue = (row.entregou||'').trim().toUpperCase() === 'NÃO';
   const existeOutra = all.some(r =>
-    (r.setor||'').trim().toUpperCase() === 'RAVENA' &&
-    r.tipo === row.tipo &&
-    r.endereco !== row.endereco &&
-    r.avaliacao != null &&
-    !(r.cliente && r.cliente.trim())
+    (r.setor||'').trim().toUpperCase() === alvo &&
+    r.tipo === row.tipo && r.endereco !== row.endereco &&
+    r.avaliacao != null && !(r.cliente && r.cliente.trim())
   );
-
-  return clienteVazio || (ehModelo && !clienteVazio && naoEntregue && existeOutra);
+  return temAval && (clienteVazio || (ehModelo && !clienteVazio && naoEntregue && existeOutra));
 }
 
 function buildTable(rows){

@@ -244,16 +244,21 @@ async function loadData(){
 function calcStatus(row, all){
   const s = (row.setor||'').trim().toUpperCase();
   if(s !== 'SOLAR VILLE') return null;
-  const temValor  = row.valorMao != null;
+  const temValor  = row.valorVenda != null || row.valorMao != null;
   const temCliente= !!(row.cliente && row.cliente.trim());
   const ehModelo  = (row.modelo||'').trim().toUpperCase()==='SIM';
   const entregou  = ['SIM','ÁGIO','AGIO'].includes((row.entregou||'').trim().toUpperCase());
   if(!temValor) return 'embreve';
-  if(entregou)  return 'vendida';
-  if(temCliente && ehModelo) return 'modvend';
-  if(temCliente) return 'vendida';
-  if(ehModelo)  return 'modelo';
-  return 'disponivel';
+  if(!temCliente) return ehModelo ? 'modelo' : 'disponivel';
+  if(ehModelo && !entregou){
+    const haOutro = all.some(r=>
+      (r.setor||'').trim().toUpperCase()==='SOLAR VILLE' &&
+      r.tipo===row.tipo && r.endereco!==row.endereco &&
+      (r.valorVenda!=null||r.valorMao!=null) && !(r.cliente&&r.cliente.trim())
+    );
+    return haOutro ? 'modvend' : 'vendida';
+  }
+  return 'vendida';
 }
 
 function paintMap(rows){
@@ -288,14 +293,14 @@ function isDisponivelTabela(row, all){
   const setor = (row.setor||'').trim().toUpperCase();
   const alvo  = 'SOLAR VILLE';
   if(setor !== alvo) return false;
-  const temValor    = row.valorMao != null;
+  const temValor    = row.valorVenda != null || row.valorMao != null;
   const clienteVazio= !(row.cliente && row.cliente.trim());
   const ehModelo    = (row.modelo||'').trim().toUpperCase() === 'SIM';
   const naoEntregue = (row.entregou||'').trim().toUpperCase() === 'NÃO';
   const existeOutra = all.some(r =>
     (r.setor||'').trim().toUpperCase() === alvo &&
     r.tipo === row.tipo && r.endereco !== row.endereco &&
-    r.valorMao != null && !(r.cliente && r.cliente.trim())
+    (r.valorVenda != null || r.valorMao != null) && !(r.cliente && r.cliente.trim())
   );
   return temValor && (clienteVazio || (ehModelo && !clienteVazio && naoEntregue && existeOutra));
 }
