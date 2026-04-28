@@ -197,7 +197,7 @@ function renderTabela(tbodyId, setores){
     <tr>
       <td style="font-weight:600">${s.setor}</td>
       <td class="qtd ${s.qtd===0?'zero':''}">${s.qtd}</td>
-      <td style="text-align:center">${s.link?`<a class="link-drive" href="${s.link}" target="_blank">${iconeSeta()} <span class="btn-texto-full">Clicar para ir ao Mapa</span><span class="btn-texto-curto">Ver Mapa</span></a>`:'<span style="color:#bbb;font-size:12px">—</span>'}</td>
+      <td style="text-align:center">${s.link?`<a class="link-drive" href="${s.link}">${iconeSeta()} <span class="btn-texto-full">Clicar para ir ao Mapa</span><span class="btn-texto-curto">Ver Mapa</span></a>`:'<span style="color:#bbb;font-size:12px">—</span>'}</td>
     </tr>`).join('');
 }
 
