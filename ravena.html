@@ -347,7 +347,7 @@ function buildTable(rows){
     const cm=modeloPorTipo[r.tipo]||'—';
     const fo=linkFotos(r), la=linkLayout(r);
     return `<tr class="${ehM?'rmodelo':''}">
-      <td><strong>${label}</strong>${ehM?'<span class="badge">modelo</span>':''}</td>
+      <td><strong>${label}</strong>${ehM?'<span class="badge">Casa Modelo</span>':''}</td>
       <td>${r.avaliacao?fmt(r.avaliacao):'—'}</td>
       <td class="valor">${r.valorMao?fmt(r.valorMao):'—'}</td>
       <td style="font-size:12px">${cm}</td>

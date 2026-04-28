@@ -182,7 +182,7 @@ function renderTabela(tbodyId, setores){
     <tr>
       <td style="font-weight:600">${s.setor}</td>
       <td class="qtd ${s.qtd===0?'zero':''}">${s.qtd}</td>
-      <td>${s.link?`<a class="link-drive" href="${s.link}" target="_blank">${iconeSeta()} Mapa do Setor</a>`:'<span style="color:#bbb;font-size:12px">—</span>'}</td>
+      <td>${s.link?`<a class="link-drive" href="${s.link}" target="_blank">${iconeSeta()} Clicar para ir ao Mapa</a>`:'<span style="color:#bbb;font-size:12px">—</span>'}</td>
     </tr>`).join('');
 }
 

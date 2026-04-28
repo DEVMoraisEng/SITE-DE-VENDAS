@@ -280,7 +280,7 @@ function buildTable(rows){
     const valorVenda = r.valorVenda != null ? r.valorVenda : null;
     const comissao   = r.comissao  != null ? r.comissao  : null;
     return `<tr class="${ehM?'rmodelo':''}">
-      <td><strong>${label}</strong>${ehM?'<span class="badge">modelo</span>':''}</td>
+      <td><strong>${label}</strong>${ehM?'<span class="badge">Casa Modelo</span>':''}</td>
       <td>${r.avaliacao?fmt(r.avaliacao):'—'}</td>
       <td class="valor">${valorVenda!=null?fmt(valorVenda):'—'}</td>
       <td>${comissao!=null?fmt(comissao):'—'}</td>
