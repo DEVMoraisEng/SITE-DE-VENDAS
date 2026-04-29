@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T15:00:30Z",
+  "updated_at": "2026-04-29T16:22:28Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -784,23 +784,6 @@
       "valorVenda": null
     },
     {
-      "id": "33cc5ab5-32d3-8029-94b7-c4a4f0a37bd7",
-      "endereco": "RPB 18 QD 21 LT 02",
-      "casa": 2,
-      "ref": "-",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "WELLINGTON SOUSA DOS SANTOS",
-      "avaliacao": 295000,
-      "valorMao": null,
-      "entregou": "SIM",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": 245000
-    },
-    {
       "id": "33cc5ab5-32d3-8029-b35f-d40bc264f058",
       "endereco": "RPB 24 QD 26A LT 09",
       "casa": 2,
@@ -1156,23 +1139,6 @@
       "layout": "",
       "comissao": null,
       "valorVenda": 214000
-    },
-    {
-      "id": "33cc5ab5-32d3-803c-9cc3-fc613fa970da",
-      "endereco": "RBP 18 QD 21 LT 02",
-      "casa": 1,
-      "ref": "-",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "RAFAEL GARCEZ TEIXEIRA DOS SANTOS",
-      "avaliacao": 290000,
-      "valorMao": null,
-      "entregou": "SIM",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": 253000
     },
     {
       "id": "33cc5ab5-32d3-803c-a6d8-fa6c5fceeec3",
@@ -1794,14 +1760,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "MARIA DE FÁTIMA SANTOS SILVA",
-      "avaliacao": null,
-      "valorMao": 265000,
+      "cliente": "",
+      "avaliacao": 306000,
+      "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": null
     },
     {
       "id": "33cc5ab5-32d3-8055-b1cb-dac09574e9de",
@@ -3147,23 +3113,6 @@
       "valorVenda": 273000
     },
     {
-      "id": "33cc5ab5-32d3-8090-81cd-c2038936688d",
-      "endereco": "IVO RODRIGUES QD 33 LT 06",
-      "casa": 4,
-      "ref": "-",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "JEAN MARCOS DOS SANTOS PANTOJA",
-      "avaliacao": 289000,
-      "valorMao": null,
-      "entregou": "SIM",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": 235000
-    },
-    {
       "id": "33cc5ab5-32d3-8091-94b7-d41e1f018bf7",
       "endereco": "FERROVIARIOS QD 01 LT 13",
       "casa": 2,
@@ -3332,23 +3281,6 @@
       "layout": "",
       "comissao": null,
       "valorVenda": 280000
-    },
-    {
-      "id": "33cc5ab5-32d3-8098-9a59-cd015b786e3b",
-      "endereco": "IVO RODRIGUES QD 33 LT 06",
-      "casa": 2,
-      "ref": "-",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "MARIA JOSÉ RODRIGUES DA SILVA",
-      "avaliacao": 300000,
-      "valorMao": null,
-      "entregou": "SIM",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": 245000
     },
     {
       "id": "33cc5ab5-32d3-8098-a516-ef2b70791e2d",
@@ -3947,7 +3879,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80ad-86b7-fd3696fe6712",
-      "endereco": "RPB 24 QD 26A LT 016",
+      "endereco": "RPB 24 QD 26A LT 16",
       "casa": 2,
       "ref": "RPB9",
       "setor": "PQ DOS BURITIS",
@@ -4573,23 +4505,6 @@
       "layout": "",
       "comissao": null,
       "valorVenda": 235000
-    },
-    {
-      "id": "33cc5ab5-32d3-80ca-ae74-ead248671349",
-      "endereco": "IVO RODRIGUES QD 33 LT 07",
-      "casa": 1,
-      "ref": "-",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "LIDIANE FRANÇA ROCHA",
-      "avaliacao": 315000,
-      "valorMao": null,
-      "entregou": "SIM",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": 245000
     },
     {
       "id": "33cc5ab5-32d3-80cc-845c-db4d860733a4",
@@ -5289,23 +5204,6 @@
       "valorVenda": 245000
     },
     {
-      "id": "33cc5ab5-32d3-80f5-8f3d-e7b299be6a19",
-      "endereco": "IVO RODRIGUES QD 33 LT 06",
-      "casa": 3,
-      "ref": "-",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "JEFFERSON PEREIRA NERES",
-      "avaliacao": 279000,
-      "valorMao": null,
-      "entregou": "SIM",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": 225000
-    },
-    {
       "id": "33cc5ab5-32d3-80f5-933b-e0892a300de0",
       "endereco": "I-3 QD 04 LT 17",
       "casa": 2,
@@ -5372,23 +5270,6 @@
       "layout": "",
       "comissao": null,
       "valorVenda": 241500
-    },
-    {
-      "id": "33cc5ab5-32d3-80f7-9019-e7a7a0fdfd2d",
-      "endereco": "IVO RODRIGUES QD 33 LT 07",
-      "casa": 2,
-      "ref": "-",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "CAROLINE DE BRITO BARELLI",
-      "avaliacao": 315000,
-      "valorMao": null,
-      "entregou": "SIM",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": 252000
     },
     {
       "id": "33cc5ab5-32d3-80fa-8245-db0d0b7edd98",
@@ -5508,6 +5389,23 @@
       "layout": "",
       "comissao": null,
       "valorVenda": 284000
+    },
+    {
+      "id": "351c5ab5-32d3-8005-a919-f12be85fb6e2",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "PQ DOS BURITIS",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
     }
   ],
   "disponibilidades": [
