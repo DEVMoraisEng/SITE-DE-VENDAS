@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T23:17:21Z",
+  "updated_at": "2026-04-29T03:00:28Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -1335,7 +1335,7 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "TESTE",
+      "cliente": "",
       "avaliacao": 306000,
       "valorMao": 270000,
       "entregou": "NÃO",
@@ -5194,7 +5194,7 @@
       "setor": "JOÃO BRAZ 2",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "TESTE",
+      "cliente": "",
       "avaliacao": 290000,
       "valorMao": 256500,
       "entregou": "NÃO",
@@ -5557,7 +5557,7 @@
       "cidade": "GOIÂNIA",
       "link": "joaobraz2.html",
       "obs": "",
-      "qtd": 4
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-806e-ad9f-e33ae0973484",
@@ -5597,7 +5597,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 2
     },
     {
       "id": "33dc5ab5-32d3-80e1-a843-f1ca9bc63a6c",
