@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T21:00:27Z",
+  "updated_at": "2026-04-29T23:00:38Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -1762,7 +1762,7 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 306000,
-      "valorMao": null,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -5478,7 +5478,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-80e1-a843-f1ca9bc63a6c",
