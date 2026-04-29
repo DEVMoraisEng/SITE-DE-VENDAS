@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T16:23:44Z",
+  "updated_at": "2026-04-29T16:50:37Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -3876,23 +3876,6 @@
       "layout": "",
       "comissao": null,
       "valorVenda": 265000
-    },
-    {
-      "id": "33cc5ab5-32d3-80ad-86b7-fd3696fe6712",
-      "endereco": "RPB 24 QD 26A LT 16",
-      "casa": 2,
-      "ref": "RPB9",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
-      "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": null
     },
     {
       "id": "33cc5ab5-32d3-80ae-83f4-ff4598cd40c9",
