@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pages: write
-      id-token: write
+    outputs:
+      data_changed: ${{ steps.check.outputs.changed }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,12 +27,36 @@ jobs:
         run: python fetch_notion.py
 
       - name: Commit e push do data.json
+        id: check
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git diff --staged --quiet || git commit -m "chore: atualiza data.json"
-          git push
+          if git diff --staged --quiet; then
+            echo "Sem alterações no data.json — deploy ignorado."
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "chore: atualiza data.json"
+            git push
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+  deploy:
+    needs: fetch
+    if: needs.fetch.outputs.data_changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main  # garante que pega o commit novo com o data.json atualizado
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -43,4 +67,5 @@ jobs:
           path: '.'
 
       - name: Deploy Pages
+        id: deployment
         uses: actions/deploy-pages@v4
