@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T16:22:28Z",
+  "updated_at": "2026-04-29T16:23:44Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -1758,7 +1758,7 @@
       "casa": 2,
       "ref": "RPB34",
       "setor": "PQ DOS BURITIS",
-      "tipo": null,
+      "tipo": 1,
       "modelo": "",
       "cliente": "",
       "avaliacao": 306000,
