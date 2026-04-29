@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T17:00:34Z",
+  "updated_at": "2026-04-29T19:00:25Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -309,7 +309,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8010-8483-e1c199bf9dc8",
-      "endereco": "TB 6 QDv 40 LT 33",
+      "endereco": "TB 6 QD 40 LT 33",
       "casa": 2,
       "ref": "TB01",
       "setor": "TERRABELA DO CERRADO",
@@ -1879,14 +1879,14 @@
       "setor": "TERRABELA DO CERRADO",
       "tipo": 4,
       "modelo": "SIM",
-      "cliente": "DIOGO BATISTA DOS SANTOS",
+      "cliente": "ANA LUCIA MACEDO DA CONC SILVA",
       "avaliacao": 315000,
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 262000
+      "valorVenda": 265000
     },
     {
       "id": "33cc5ab5-32d3-805a-bdef-f339f0088a73",
@@ -4338,7 +4338,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80c1-bda6-c20f5627c7bb",
-      "endereco": "TB 1 QD 39 LT 0",
+      "endereco": "TB 1 QD 39 LT 01",
       "casa": 2,
       "ref": "TB22",
       "setor": "TERRABELA DO CERRADO",
