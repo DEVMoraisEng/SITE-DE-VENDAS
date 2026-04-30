@@ -143,6 +143,25 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
   td{padding:8px 8px;font-size:12px}
 }
 </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script>
+  function gerarPDF(){
+    var btn=document.getElementById('btnPdf');
+    btn.disabled=true; btn.textContent='Gerando…';
+    html2canvas(document.body,{scale:1.5,useCORS:true,logging:false}).then(function(canvas){
+      var {jsPDF}=window.jspdf;
+      var pdf=new jsPDF({orientation:'landscape',unit:'mm',format:'a4'});
+      var pw=pdf.internal.pageSize.getWidth(), ph=pdf.internal.pageSize.getHeight();
+      var ratio=Math.min(pw/canvas.width,ph/canvas.height);
+      var iw=canvas.width*ratio, ih=canvas.height*ratio;
+      pdf.addImage(canvas.toDataURL('image/jpeg',0.85),'JPEG',(pw-iw)/2,(ph-ih)/2,iw,ih);
+      var titulo=document.querySelector('.hdr-title');
+      pdf.save((titulo?titulo.textContent.trim().replace(/[^a-z0-9]/gi,'_'):'mapa')+'.pdf');
+      btn.disabled=false; btn.innerHTML='&#128196; PDF';
+    }).catch(function(e){alert('Erro: '+e.message);btn.disabled=false;btn.innerHTML='&#128196; PDF';});
+  }
+  </script>
 </head>
 <body>
 
@@ -159,6 +178,7 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
       <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M9 2L4 7l5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
       Voltar
     </a>
+    <button id="btnPdf" class="btn-voltar" onclick="gerarPDF()" style="cursor:pointer;background:transparent;border:1.5px solid rgba(255,255,255,.2);">&#128196; PDF</button>
     <div class="hdr-status"><div class="dot"></div><span id="stTxt">Carregando…</span></div>
   </div>
 </header>
