@@ -168,7 +168,7 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
     btn.textContent = 'Gerando…';
     try {
       const { jsPDF } = window.jspdf;
-      const el = document.getElementById('conteudo-pdf');
+      const el = document.body;
       const canvas = await html2canvas(el, {
         scale: 1.5,
         useCORS: true,
@@ -222,7 +222,7 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
 
 <div class="aviso">⚠ É proibida a criação de anúncios em sites de terceiros (OLX, ZAP, Viva Real). Divulgação apenas em canais pessoais dos corretores.</div>
 
-<main id="conteudo-pdf">
+<main>
   <div class="sec-title">Casas Disponíveis</div>
   <div class="tbl-card">
     <table>
