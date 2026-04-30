@@ -142,6 +142,23 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
   thead th{font-size:10px;padding:7px 8px}
   td{padding:8px 8px;font-size:12px}
 }
+
+/* ===== IMPRESSÃO / PDF ===== */
+@media print {
+  body { background: #fff !important; color: #000 !important; }
+  header, .aviso, .btn-voltar, .hdr-status, .btn-pdf { display: none !important; }
+  .mapa-card { box-shadow: none !important; border: none !important; page-break-after: avoid; }
+  .mapa-svg-wrap svg { width: 100% !important; max-width: 100% !important; }
+  .legenda { background: #eef2f7 !important; border: 1px solid #ccc; page-break-after: avoid; }
+  .leg-item { color: #000 !important; }
+  .tbl-card { box-shadow: none !important; border: 1px solid #ccc; }
+  table { width: 100% !important; font-size: 10px !important; }
+  th { background: #1e2a3a !important; color: #fff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  tr:nth-child(even) td { background: #f5f7fa !important; }
+  a[href]:after { content: none !important; }
+  .btn-fotos, .btn-ver { display: none !important; }
+  @page { margin: 15mm; size: A4 landscape; }
+}
 </style>
 </head>
 <body>
@@ -161,6 +178,10 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
     </a>
     <div class="hdr-status"><div class="dot"></div><span id="stTxt">Carregando…</span></div>
   </div>
+<button class="btn-pdf btn-voltar" onclick="window.print()" style="cursor:pointer;border:1.5px solid rgba(255,255,255,.2);background:transparent;" title="Exportar PDF">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="18" x2="12" y2="12"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
+      PDF
+    </button>
 </header>
 
 <div class="aviso">⚠ É proibida a criação de anúncios em sites de terceiros (OLX, ZAP, Viva Real). Divulgação apenas em canais pessoais dos corretores.</div>
