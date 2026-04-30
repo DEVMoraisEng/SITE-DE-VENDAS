@@ -321,12 +321,12 @@ function buildTable(rows){
   function linkFotos(r){
     if((r.modelo||'').trim().toUpperCase()==='SIM') return r.fotos;
     const m=rows.find(x=>(x.modelo||'').trim().toUpperCase()==='SIM'&&x.tipo===r.tipo&&(x.setor||'').trim().toUpperCase()==='MARQUES DE ABREU'&&x.fotos);
-    return m?.fotos||r.fotos;
+    return (m ? m.fotos : null)||r.fotos;
   }
   function linkLayout(r){
     if((r.modelo||'').trim().toUpperCase()==='SIM') return r.layout;
     const m=rows.find(x=>(x.modelo||'').trim().toUpperCase()==='SIM'&&x.tipo===r.tipo&&(x.setor||'').trim().toUpperCase()==='MARQUES DE ABREU'&&x.layout);
-    return m?.layout||r.layout;
+    return (m ? m.layout : null)||r.layout;
   }
   tbody.innerHTML=disp.map(r=>{
     const ehM=(r.modelo||'').trim().toUpperCase()==='SIM';
