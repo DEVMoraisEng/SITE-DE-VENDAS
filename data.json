@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T15:00:35Z",
+  "updated_at": "2026-05-04T17:00:26Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -4980,7 +4980,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 295000
     },
     {
       "id": "33cc5ab5-32d3-80e9-a9ed-ed0f7c7a8a09",
@@ -5409,6 +5409,40 @@
     },
     {
       "id": "356c5ab5-32d3-8038-bd2c-e483d37e93ea",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "356c5ab5-32d3-80d2-8c89-c0914456bc41",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "356c5ab5-32d3-80d8-886a-eb2e51b0f8b9",
       "endereco": "",
       "casa": "",
       "ref": "",
