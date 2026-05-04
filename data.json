@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T19:00:26Z",
+  "updated_at": "2026-05-04T21:00:26Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -5092,7 +5092,7 @@
       "setor": "JOÃO BRAZ 2",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "JOHNY RIBEIRO DA SILVA ",
       "avaliacao": 290000,
       "valorMao": 256500,
       "entregou": "NÃO",
@@ -5506,7 +5506,7 @@
       "cidade": "GOIÂNIA",
       "link": "joaobraz2.html",
       "obs": "",
-      "qtd": 5
+      "qtd": 4
     },
     {
       "id": "33dc5ab5-32d3-806e-ad9f-e33ae0973484",
