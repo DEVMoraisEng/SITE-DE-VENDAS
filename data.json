@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T13:00:24Z",
+  "updated_at": "2026-05-04T15:00:35Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -156,7 +156,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8008-a102-cf3703bc0795",
-      "endereco": "W-6 QD 17 LT 06",
+      "endereco": "W 6 QD 17 LT 06",
       "casa": 2,
       "ref": "IT2",
       "setor": "ITAIPU",
@@ -1380,7 +1380,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8049-8c4f-d5016683beb4",
-      "endereco": "BELO HORIZONTE QD 17 LT 06",
+      "endereco": "W 6 QD 17 LT 06",
       "casa": 4,
       "ref": "IT4",
       "setor": "ITAIPU",
@@ -1414,7 +1414,7 @@
     },
     {
       "id": "33cc5ab5-32d3-804a-b502-de06cf4b826e",
-      "endereco": "AV. GERCINA BORGES QD 02 LT 03",
+      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 03",
       "casa": 1,
       "ref": "EF7",
       "setor": "ST EFIGÊNIA",
@@ -1465,7 +1465,7 @@
     },
     {
       "id": "33cc5ab5-32d3-804c-b10a-c4387ad4fc81",
-      "endereco": "DONA MORENA QD 18 LT B1",
+      "endereco": "DONA MORENA QD 18 LT 8-11 B1",
       "casa": 2,
       "ref": "M2",
       "setor": "MARQUES DE ABREU",
@@ -1516,7 +1516,7 @@
     },
     {
       "id": "33cc5ab5-32d3-804e-bec2-cc0a7c854177",
-      "endereco": "DONA MORENA QD 18 LT B1",
+      "endereco": "DONA MORENA QD 18 LT 8-11 B1",
       "casa": 3,
       "ref": "M3",
       "setor": "MARQUES DE ABREU",
@@ -1822,7 +1822,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8057-b883-dcc7acaf0680",
-      "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B3",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B3",
       "casa": 1,
       "ref": "M8",
       "setor": "MARQUES DE ABREU",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8066-b40b-e1116ad75d34",
-      "endereco": "W-6 QD 17 LT 06",
+      "endereco": "W 6 QD 17 LT 06",
       "casa": 1,
       "ref": "IT1",
       "setor": "ITAIPU",
@@ -2417,7 +2417,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8076-834b-f832356f270f",
-      "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B2",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B2",
       "casa": 1,
       "ref": "M5",
       "setor": "MARQUES DE ABREU",
@@ -2842,7 +2842,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8087-ba3c-ccdc4de7d39a",
-      "endereco": "DONA MORENA QD 18 LT B1",
+      "endereco": "DONA MORENA QD 18 LT 8-11 B1",
       "casa": 1,
       "ref": "M1",
       "setor": "MARQUES DE ABREU",
@@ -3165,7 +3165,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8093-998b-de2a81db10aa",
-      "endereco": "DONA MORENA QD 18 LT B1",
+      "endereco": "DONA MORENA QD 18 LT 8-11 B1",
       "casa": 4,
       "ref": "M4",
       "setor": "MARQUES DE ABREU",
@@ -3182,7 +3182,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8094-81ef-e99a810c18a0",
-      "endereco": "AV. GERCINA BORGES QD 02 LT 02",
+      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 02",
       "casa": 1,
       "ref": "EF5",
       "setor": "ST EFIGÊNIA",
@@ -3369,7 +3369,7 @@
     },
     {
       "id": "33cc5ab5-32d3-809b-8e68-c1cf43c4c4be",
-      "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B3",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B3",
       "casa": 3,
       "ref": "M10",
       "setor": "MARQUES DE ABREU",
@@ -3896,7 +3896,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80ae-bcaf-cd78115d868b",
-      "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B2",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B2",
       "casa": 2,
       "ref": "M6",
       "setor": "MARQUES DE ABREU",
@@ -4423,7 +4423,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80c7-83e3-d73527611b00",
-      "endereco": "AV. GERCINA BORGES QD 02 LT 02",
+      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 02",
       "casa": 2,
       "ref": "EF6",
       "setor": "ST EFIGÊNIA",
@@ -4712,7 +4712,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80dc-993a-ea5109aa9748",
-      "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B3",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B3",
       "casa": 2,
       "ref": "M9",
       "setor": "MARQUES DE ABREU",
@@ -4746,7 +4746,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80de-b288-f5f480b17b36",
-      "endereco": "BELO HORIZONTE QD 17 LT 06",
+      "endereco": "W 6 QD 17 LT 06",
       "casa": 3,
       "ref": "IT3",
       "setor": "ITAIPU",
@@ -5018,7 +5018,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80ea-bc57-eceef247bc1c",
-      "endereco": "AV. GERCINA BORGES QD 02 LT 03",
+      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 03",
       "casa": 2,
       "ref": "EF8",
       "setor": "ST EFIGÊNIA",
@@ -5290,7 +5290,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80fb-9d5d-d4dde5ebfd21",
-      "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B2",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B2",
       "casa": 3,
       "ref": "M7",
       "setor": "MARQUES DE ABREU",
@@ -5341,7 +5341,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80fe-8e3f-c193a5029a33",
-      "endereco": "AV. CASEMIRO J. AMRQUES DE ABREU QD 18 LT B3",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B3",
       "casa": 4,
       "ref": "M11",
       "setor": "MARQUES DE ABREU",
@@ -5385,6 +5385,40 @@
       "avaliacao": null,
       "valorMao": null,
       "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "356c5ab5-32d3-8004-abf6-f98fe3ffa209",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "356c5ab5-32d3-8038-bd2c-e483d37e93ea",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
