@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T17:00:55Z",
+  "updated_at": "2026-05-05T19:00:27Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -250,7 +250,7 @@
       "cliente": "LUCIANO DE JESUS E SILVA",
       "avaliacao": 320000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
