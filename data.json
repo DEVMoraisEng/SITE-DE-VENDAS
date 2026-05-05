@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T11:00:27Z",
+  "updated_at": "2026-05-05T13:00:26Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -570,14 +570,14 @@
       "setor": "TERRABELA DO CERRADO",
       "tipo": 2,
       "modelo": "SIM",
-      "cliente": "WANDERSON GOMES DE FREITAS  OLIVEIRA ",
-      "avaliacao": 310000,
-      "valorMao": 265000,
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1CidyUVQaEiYpZSsiPCJ_uMF1M6VTt7bq?usp=drive_link",
       "layout": "https://drive.google.com/file/d/11JEDEddSl7FJu2pIadDDoddEN_RNzW5d/view?usp=drive_link",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": null
     },
     {
       "id": "33cc5ab5-32d3-801f-a35e-eb198afdcd94",
@@ -1080,14 +1080,14 @@
       "setor": "TERRABELA DO CERRADO",
       "tipo": 3,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "WANDERSON GOMES DE FREITAS ",
       "avaliacao": 310000,
       "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1DaX7ZfzU0kOvDgaMJsTaQKne4x1xDM1O?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1J_7506E1ynN9FvNIHlPdfI2J0upMvYOW/view?usp=drive_link",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-803b-8543-fa962aa80593",
@@ -3250,7 +3250,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8097-a67e-df7cb575303a",
-      "endereco": "F 11 QD 37 LT 17",
+      "endereco": "TB 20 QD 37 LT 17",
       "casa": 2,
       "ref": "TB2",
       "setor": "TERRABELA DO CERRADO",
@@ -3437,7 +3437,7 @@
     },
     {
       "id": "33cc5ab5-32d3-809c-9b4a-f6928a412991",
-      "endereco": "F 11 QD 37 LT 17",
+      "endereco": "TB 20 QD 37 LT 17",
       "casa": 3,
       "ref": "TB3",
       "setor": "TERRABELA DO CERRADO",
@@ -4236,7 +4236,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80bd-9b8e-f39f05a11712",
-      "endereco": "F 11 QD 37 LT 17",
+      "endereco": "TB 20 QD 37 LT 17",
       "casa": 1,
       "ref": "TB1",
       "setor": "TERRABELA DO CERRADO",
@@ -5457,6 +5457,23 @@
       "layout": "",
       "comissao": null,
       "valorVenda": null
+    },
+    {
+      "id": "357c5ab5-32d3-8072-921c-f29ded0efdd0",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "ITAIPU",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
     }
   ],
   "disponibilidades": [
@@ -5474,7 +5491,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 4
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8013-a270-e359f7890d18",
