@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T19:00:35Z",
+  "updated_at": "2026-05-06T21:00:32Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -2049,9 +2049,9 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "MARIA DE  FÁTIMA  SANTOS  SILVA",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
