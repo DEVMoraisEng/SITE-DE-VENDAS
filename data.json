@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T17:00:38Z",
+  "updated_at": "2026-05-07T19:00:31Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -3803,7 +3803,7 @@
       "cliente": "FERNANDO DE JESUS ARAUJO",
       "avaliacao": 330000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -5464,6 +5464,23 @@
       "casa": "",
       "ref": "",
       "setor": "ITAIPU",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "359c5ab5-32d3-8028-8ac3-d40b0122aadb",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "RAVENA",
       "tipo": null,
       "modelo": "",
       "cliente": "",
