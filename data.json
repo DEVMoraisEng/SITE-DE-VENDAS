@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T21:00:33Z",
+  "updated_at": "2026-05-08T23:00:32Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -165,7 +165,7 @@
       "cliente": "GABRIEL MENEZES ALVES",
       "avaliacao": 280000,
       "valorMao": 247000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -4092,7 +4092,7 @@
       "cliente": "HARMESON RIBEIRO ABREU",
       "avaliacao": 335000,
       "valorMao": 263000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
