@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T15:00:31Z",
+  "updated_at": "2026-05-08T17:00:26Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -3936,14 +3936,14 @@
       "setor": "IPANEMA",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "PEDRO  ELEOMAR  MENDONÇA  DA SILVA  JÚNIOR ",
       "avaliacao": 300000,
-      "valorMao": 270750,
+      "valorMao": 266000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1jChGmRE9h-ybGLC8AN1KBp2l7taI1aqw?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1GZgKcc39Oj09boXsOzWrgb-NqNM2wIxn/view?usp=drive_link",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 280000
     },
     {
       "id": "33cc5ab5-32d3-80b1-b5ac-c2d3197e99dd",
@@ -5532,7 +5532,7 @@
       "cidade": "GOIÂNIA",
       "link": "ipanema.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     },
     {
       "id": "33dc5ab5-32d3-803c-a53c-e3d3bf3d28c3",
