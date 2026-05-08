@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T17:00:26Z",
+  "updated_at": "2026-05-08T19:00:29Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -4191,7 +4191,7 @@
       "setor": "TERRABELA DO CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "MARCIA CRISTINA DA  COSTA",
+      "cliente": "MARCIA CRISTINA DA  COSTA ",
       "avaliacao": 330600,
       "valorMao": 270000,
       "entregou": "NÃO",
@@ -5093,7 +5093,7 @@
       "tipo": 1,
       "modelo": "SIM",
       "cliente": "JOHNY RIBEIRO DA SILVA ",
-      "avaliacao": 290000,
+      "avaliacao": 296000,
       "valorMao": 256500,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1SDtI8FLU3TNmDgjGOA9nBip6P2sOmwKj?usp=drive_link",
