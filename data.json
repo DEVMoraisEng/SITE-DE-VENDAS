@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T17:00:37Z",
+  "updated_at": "2026-05-11T19:00:26Z",
   "rows": [
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -3392,14 +3392,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "KEYSON CARLOS SILVA DE SOUSA",
+      "cliente": " MARIA EDUARDA ARAÚJO MELO",
       "avaliacao": 370000,
-      "valorMao": 255000,
+      "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 305000
     },
     {
       "id": "33cc5ab5-32d3-809b-bdb6-c8cd60a0d58f",
@@ -4973,7 +4973,7 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "MARIA EDUARDA ARAÚJO  MELO",
+      "cliente": "GABRIEL PORFIRIO MENCONÇA VECCI",
       "avaliacao": 370000,
       "valorMao": 280000,
       "entregou": "NÃO",
