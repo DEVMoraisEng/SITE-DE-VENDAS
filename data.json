@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T19:46:09Z",
+  "updated_at": "2026-05-12T20:00:41Z",
   "rows": [
     {
       "id": "35dc5ab5-32d3-80a8-8e55-df8b5adce209",
@@ -5593,11 +5593,11 @@
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
-      "setor": "TERRABELA DO CERRADO",
+      "setor": "TERRABELA CERRADO",
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 0
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
