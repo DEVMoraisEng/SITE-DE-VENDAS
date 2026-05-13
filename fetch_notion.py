@@ -133,19 +133,44 @@ if __name__ == "__main__":
         print(f"  AVISO: falha ao buscar disponibilidades: {e}")
         rows_disp = []
 
-    # 3. Calcula contagem de disponíveis por setor
-    # Regra: valorMao preenchido E cliente vazio
+    # 3. Deduz setor pelo prefixo do REF (campo SETOR vem vazio do Notion de vendas)
+    REF_PARA_SETOR = {
+        "TB":  "TERRABELA CERRADO",
+        "RR":  "RAVENA",
+        "RPB": "PQ DOS BURITIS",
+        "J":   "JOÃO BRAZ 2",
+        "I":   "IPANEMA",
+        "IT":  "ITAIPU",
+        "A":   "ACROPOLE",
+        "M":   "MARQUES DE ABREU",
+        "EF":  "ST EFIGÊNIA",
+        "FE":  "ST FÉ",
+        "PS":  "PORTO SEGURO",
+    }
+
+    def setor_por_ref(ref):
+        if not ref or ref == "-":
+            return ""
+        prefixo = "".join(c for c in ref if not c.isdigit())
+        return REF_PARA_SETOR.get(prefixo, "")
+
+    # Enriquece cada venda com o setor deduzido
+    for r in rows_vendas:
+        if not r.get("setor"):
+            r["setor"] = setor_por_ref(r.get("ref", ""))
+
+    # 4. Calcula contagem de disponíveis por setor
+    # Regra: sem cliente (independente de ter valor)
     contagem = {}
     for r in rows_vendas:
         setor = r.get("setor", "")
         if not setor:
             continue
-        tem_valor   = bool(r.get("valorMao"))
         sem_cliente = not bool(r.get("cliente", "").strip())
-        if tem_valor and sem_cliente:
+        if sem_cliente:
             contagem[setor] = contagem.get(setor, 0) + 1
 
-    # 4. Enriquece disponibilidades com contagem usando SETOR diretamente
+    # 5. Enriquece disponibilidades com contagem
     for d in rows_disp:
         setor = d.get("setor", "")
         d["qtd"] = contagem.get(setor, 0)
