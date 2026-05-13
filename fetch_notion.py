@@ -160,14 +160,20 @@ if __name__ == "__main__":
             r["setor"] = setor_por_ref(r.get("ref", ""))
 
     # 4. Calcula contagem de disponíveis por setor
-    # Regra: sem cliente (independente de ter valor)
+    # Regra: sem cliente E com valor (valorMao para Canedo, valorVenda para Goiânia)
+    SETORES_CANEDO = {"TERRABELA CERRADO", "RAVENA", "PQ DOS BURITIS", "PORTO SEGURO"}
+
     contagem = {}
     for r in rows_vendas:
         setor = r.get("setor", "")
         if not setor:
             continue
         sem_cliente = not bool(r.get("cliente", "").strip())
-        if sem_cliente:
+        if setor in SETORES_CANEDO:
+            tem_valor = bool(r.get("valorMao"))
+        else:
+            tem_valor = bool(r.get("valorVenda")) or bool(r.get("valorMao"))
+        if sem_cliente and tem_valor:
             contagem[setor] = contagem.get(setor, 0) + 1
 
     # 5. Enriquece disponibilidades com contagem
