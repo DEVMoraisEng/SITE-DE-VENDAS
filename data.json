@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T01:00:35Z",
+  "updated_at": "2026-05-14T03:00:27Z",
   "rows": [
     {
       "id": "35fc5ab5-32d3-8084-9f41-e24ace133831",
@@ -1131,14 +1131,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "cliente": "ROSILEIDE MARTINS DOS SANTOS",
+      "avaliacao": 341000,
+      "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-8013-bc4c-f18ad847e13e",
@@ -3443,14 +3443,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "JOAO MARIA DE ALBUQUERQUE ",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-80d1-9b56-ddef4a5781e3",
@@ -4551,7 +4551,7 @@
       "cliente": "KIRIA KAROLINE FERREIRA DA CONCEIÇAO",
       "avaliacao": 275000,
       "valorMao": 237500,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
