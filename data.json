@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T15:00:37Z",
+  "updated_at": "2026-05-18T17:00:33Z",
   "rows": [
     {
       "id": "364c5ab5-32d3-801d-8ec9-f1fde81d7aff",
@@ -1406,7 +1406,7 @@
       "cliente": "GEOVANA MARQUES DA SILVA",
       "avaliacao": 315000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -4670,7 +4670,7 @@
       "cliente": "ARIANE SOUZA DE MEDEIROS",
       "avaliacao": 360000,
       "valorMao": 266000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
