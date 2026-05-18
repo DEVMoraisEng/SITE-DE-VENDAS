@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T21:00:26Z",
+  "updated_at": "2026-05-18T23:00:27Z",
   "rows": [
     {
       "id": "364c5ab5-32d3-801d-8ec9-f1fde81d7aff",
@@ -2158,7 +2158,7 @@
       "fotos": "https://drive.google.com/drive/folders/1af19mGniOrKBhOaqnwzOcmnnY5GCh7X2?usp=drive_link",
       "layout": "https://drive.google.com/file/d/13SIQpuHt2LcsQ0dMEWUVKPZ7C6EpfBWJ/view?usp=sharing",
       "comissao": null,
-      "valorVenda": 230000
+      "valorVenda": 225000
     },
     {
       "id": "33cc5ab5-32d3-804a-b502-de06cf4b826e",
@@ -2175,7 +2175,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 230000
+      "valorVenda": 225000
     },
     {
       "id": "33cc5ab5-32d3-80c7-83e3-d73527611b00",
@@ -2209,7 +2209,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 230000
+      "valorVenda": 225000
     },
     {
       "id": "33cc5ab5-32d3-809a-8757-e04aa2970ee0",
@@ -4572,7 +4572,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-804d-ae82-ccf3898c1754",
@@ -4589,7 +4589,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 265000
     },
     {
       "id": "33cc5ab5-32d3-80ee-8b76-fc081a0eedd9",
