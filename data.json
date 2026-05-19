@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T15:00:51Z",
+  "updated_at": "2026-05-19T17:00:27Z",
   "rows": [
     {
       "id": "365c5ab5-32d3-801f-9b4b-f9a9518785b2",
@@ -979,8 +979,8 @@
       "tipo": 2,
       "modelo": "SIM",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 310000,
+      "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1CidyUVQaEiYpZSsiPCJ_uMF1M6VTt7bq?usp=drive_link",
       "layout": "https://drive.google.com/file/d/11JEDEddSl7FJu2pIadDDoddEN_RNzW5d/view?usp=drive_link",
@@ -1369,14 +1369,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "JESSICA CARA SANTOS DA CONCEIÇ",
       "avaliacao": 310000,
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-807e-a74c-e50fbe794e16",
