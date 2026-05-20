@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T17:01:56Z",
+  "updated_at": "2026-05-20T19:00:30Z",
   "rows": [
     {
       "id": "365c5ab5-32d3-801f-9b4b-f9a9518785b2",
@@ -2787,7 +2787,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-8012-9f91-f0a6b369f671",
