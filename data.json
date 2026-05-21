@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T01:00:24Z",
+  "updated_at": "2026-05-21T03:00:26Z",
   "rows": [
     {
       "id": "365c5ab5-32d3-801f-9b4b-f9a9518785b2",
@@ -488,7 +488,7 @@
       "cliente": "ERISNALDO ARAUJO DE SOUSA",
       "avaliacao": 264000,
       "valorMao": 240000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -4565,7 +4565,7 @@
       "setor": "JOÃO BRAZ 2",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "ALESSANDRA DE SOUSA SILVA ",
       "avaliacao": 341000,
       "valorMao": 266000,
       "entregou": "NÃO",
@@ -5180,7 +5180,7 @@
       "cliente": "JOSILENE ALVES DOS SANTOS",
       "avaliacao": 320000,
       "valorMao": 259350,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -5768,7 +5768,7 @@
       "cidade": "GOIÂNIA",
       "link": "joaobraz2.html",
       "obs": "",
-      "qtd": 4
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
