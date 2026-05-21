@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-05-21T13:00:29Z",
+  "updated_at": "2026-05-21T15:00:37Z",
   "rows": [
+    {
+      "id": "367c5ab5-32d3-80a4-92e1-d7f61370be1b",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "367c5ab5-32d3-8084-843b-fa14c151d1ec",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "365c5ab5-32d3-801f-9b4b-f9a9518785b2",
       "endereco": "",
@@ -911,8 +945,8 @@
       "tipo": null,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 295000,
+      "valorMao": 255000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -1217,8 +1251,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 280000,
+      "valorMao": 245000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -5784,7 +5818,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
