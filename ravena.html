@@ -149,14 +149,25 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
   // PDF MAPA — captura visual da página inteira
   function gerarPDF(){
     var btn=document.getElementById('btnPdf');
+    // Captura apenas a regiao do mapa + legenda (.mapa-card)
+    var alvo=document.querySelector('.mapa-card');
+    if(!alvo){alert('Mapa nao encontrado nesta pagina.');return;}
     btn.disabled=true; btn.textContent='Gerando…';
-    html2canvas(document.body,{scale:1.5,useCORS:true,logging:false}).then(function(canvas){
+    // scale alto = alta qualidade. windowWidth fixa o layout do render.
+    html2canvas(alvo,{scale:3,useCORS:true,logging:false,backgroundColor:'#ffffff',
+      width:alvo.scrollWidth,height:alvo.scrollHeight,
+      windowWidth:alvo.scrollWidth,windowHeight:alvo.scrollHeight}).then(function(canvas){
       var {jsPDF}=window.jspdf;
-      var pdf=new jsPDF({orientation:'landscape',unit:'mm',format:'a4'});
+      // Orientacao escolhida conforme proporcao do recorte
+      var paisagem=canvas.width>=canvas.height;
+      var pdf=new jsPDF({orientation:paisagem?'landscape':'portrait',unit:'mm',format:'a4'});
+      var margem=8;
       var pw=pdf.internal.pageSize.getWidth(), ph=pdf.internal.pageSize.getHeight();
-      var ratio=Math.min(pw/canvas.width,ph/canvas.height);
+      var aw=pw-margem*2, ah=ph-margem*2;
+      var ratio=Math.min(aw/canvas.width,ah/canvas.height);
       var iw=canvas.width*ratio, ih=canvas.height*ratio;
-      pdf.addImage(canvas.toDataURL('image/jpeg',0.85),'JPEG',(pw-iw)/2,(ph-ih)/2,iw,ih);
+      // PNG = sem perda de qualidade na compressao
+      pdf.addImage(canvas.toDataURL('image/png'),'PNG',(pw-iw)/2,(ph-ih)/2,iw,ih,'','FAST');
       var titulo=document.querySelector('.hdr-title');
       pdf.save((titulo?titulo.textContent.trim().replace(/[^a-z0-9]/gi,'_'):'mapa')+'_mapa.pdf');
       btn.disabled=false; btn.innerHTML='&#128196; PDF';
@@ -348,7 +359,7 @@ async function loadData(){
       const d = new Date(updatedAt);
       const h = d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'});
       const dia = d.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',timeZone:'America/Sao_Paulo'});
-      document.getElementById('stTxt').textContent = 'Notion atualizado em '+dia+' às '+h;
+      document.getElementById('stTxt').textContent = 'Atualizado em '+dia+' às '+h;
     } else {
       document.getElementById('stTxt').textContent = 'Dados carregados';
     }
