@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T15:00:38Z",
+  "updated_at": "2026-05-25T17:00:27Z",
   "rows": [
     {
       "id": "367c5ab5-32d3-80a4-92e1-d7f61370be1b",
@@ -1269,7 +1269,7 @@
       "modelo": "",
       "cliente": "ROSILEIDE MARTINS DOS SANTOS",
       "avaliacao": 341000,
-      "valorMao": 265000,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -3569,7 +3569,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-80d8-8813-c2b839f4f32c",
