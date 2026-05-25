@@ -403,9 +403,12 @@ function paintMap(rows){
       let h='<strong>'+p.id+'</strong><br>';
       lotes.forEach(l=>{
         h+=l.endereco+(l.casa?' — C'+l.casa:'')+'<br>';
+        if(l.cliente && l.cliente.trim()){
+          h+='<em>Vendido</em><br>';
+        } else {
         if(l.avaliacao) h+='Aval: '+fmt(l.avaliacao)+'<br>';
         if(l.valorMao)  h+='Vlr: '+fmt(l.valorMao)+'<br>';
-        if(l.cliente)   h+='<em>Vendido</em><br>';
+        }
       });
       tip.innerHTML=h; tip.classList.add('on');
       tip.style.left=(e.clientX+14)+'px'; tip.style.top=(e.clientY-10)+'px';
