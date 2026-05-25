@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T13:00:28Z",
+  "updated_at": "2026-05-25T15:00:38Z",
   "rows": [
     {
       "id": "367c5ab5-32d3-80a4-92e1-d7f61370be1b",
@@ -403,7 +403,7 @@
       "cliente": "RAILMA MACARIO DA CRUZ",
       "avaliacao": 315000,
       "valorMao": 255000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -590,7 +590,7 @@
       "cliente": "RAFAEL GONÇALVES DAS NEVES",
       "avaliacao": 315000,
       "valorMao": 252000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
