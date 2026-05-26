@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-05-26T17:00:30Z",
+  "updated_at": "2026-05-26T19:00:32Z",
   "rows": [
+    {
+      "id": "36cc5ab5-32d3-80f2-a65e-dfea04da88eb",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "36cc5ab5-32d3-8069-a791-e967fe129896",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "367c5ab5-32d3-80a4-92e1-d7f61370be1b",
       "endereco": "",
@@ -979,8 +1013,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 330000,
+      "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -5818,7 +5852,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 8
+      "qtd": 9
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
