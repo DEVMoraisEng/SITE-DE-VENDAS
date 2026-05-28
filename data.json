@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T23:00:26Z",
+  "updated_at": "2026-05-28T01:00:29Z",
   "rows": [
     {
       "id": "36cc5ab5-32d3-80f2-a65e-dfea04da88eb",
@@ -1318,14 +1318,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "RAIAN RODRIGUES MOREIRA",
       "avaliacao": 336000,
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-804a-8dfd-d78402ca7d51",
@@ -1335,14 +1335,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "COSME RIBEIRO DA COSTA",
       "avaliacao": 336000,
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-80a5-9667-cc3c23d398d2",
@@ -5852,7 +5852,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 9
+      "qtd": 7
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
