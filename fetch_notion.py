@@ -138,7 +138,7 @@ if __name__ == "__main__":
         "TB":  "TERRABELA CERRADO",
         "RR":  "RAVENA",
         "RPB": "PQ DOS BURITIS",
-        "J":   "JOÃO BRAZ 2",
+        "J":   "JOÃO BRAZ",
         "I":   "IPANEMA",
         "IT":  "ITAIPU",
         "A":   "ACROPOLE",
