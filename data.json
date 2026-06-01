@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T15:00:42Z",
+  "updated_at": "2026-06-01T17:00:41Z",
   "rows": [
     {
       "id": "36fc5ab5-32d3-807b-a35e-fd5ba8604991",
@@ -3514,7 +3514,7 @@
       "cliente": "EULER NASCIMENTO DE SOUZA",
       "avaliacao": 350000,
       "valorMao": 265000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -4109,7 +4109,7 @@
       "cliente": "MARCELO AUGUSTO ALMEIDA COELHO",
       "avaliacao": 378000,
       "valorMao": 278000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
