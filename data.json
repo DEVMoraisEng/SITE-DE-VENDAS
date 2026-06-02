@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-06-02T17:00:41Z",
+  "updated_at": "2026-06-02T19:00:38Z",
   "rows": [
+    {
+      "id": "373c5ab5-32d3-806e-a72b-f71a2a6b084d",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "JOÃO BRAZ",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "36fc5ab5-32d3-807b-a35e-fd5ba8604991",
       "endereco": "",
