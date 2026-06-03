@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T19:00:44Z",
+  "updated_at": "2026-06-03T21:00:39Z",
   "rows": [
     {
       "id": "374c5ab5-32d3-8090-9ead-cb14449394b5",
@@ -3681,7 +3681,7 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "tyiyti",
       "avaliacao": 306000,
       "valorMao": 265000,
       "entregou": "NÃO",
@@ -6065,7 +6065,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 2
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
