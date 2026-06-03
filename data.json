@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T13:00:34Z",
+  "updated_at": "2026-06-03T15:00:36Z",
   "rows": [
     {
       "id": "373c5ab5-32d3-8043-9f83-e1b58f07f3b7",
@@ -1576,7 +1576,7 @@
       "cliente": "ANE KAROLINE LOPES DA SILVA",
       "avaliacao": 350000,
       "valorMao": 280000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
