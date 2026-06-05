@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T19:00:30Z",
+  "updated_at": "2026-06-05T21:00:31Z",
   "rows": [
     {
       "id": "376c5ab5-32d3-80df-8851-cc3f9f7fba81",
@@ -1303,7 +1303,7 @@
       "modelo": "SIM",
       "cliente": "",
       "avaliacao": 310000,
-      "valorMao": 265000,
+      "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1CidyUVQaEiYpZSsiPCJ_uMF1M6VTt7bq?usp=drive_link",
       "layout": "https://drive.google.com/file/d/11JEDEddSl7FJu2pIadDDoddEN_RNzW5d/view?usp=drive_link",
@@ -1626,7 +1626,7 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 298000,
-      "valorMao": 255000,
+      "valorMao": 250000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -1796,7 +1796,7 @@
       "modelo": "SIM",
       "cliente": "",
       "avaliacao": 290000,
-      "valorMao": 255000,
+      "valorMao": 250000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1KVoEYZgOTL3KP0S-hOIymL-tYkuPqcFc?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
@@ -3715,7 +3715,7 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "",
-      "cliente": "tyiyti",
+      "cliente": "",
       "avaliacao": 306000,
       "valorMao": 265000,
       "entregou": "NÃO",
@@ -6099,7 +6099,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
