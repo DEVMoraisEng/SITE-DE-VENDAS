@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-06-05T17:00:32Z",
+  "updated_at": "2026-06-05T19:00:30Z",
   "rows": [
+    {
+      "id": "376c5ab5-32d3-80df-8851-cc3f9f7fba81",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "ITAIPU",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "375c5ab5-32d3-80b9-b5c0-f420d7c7b387",
       "endereco": "",
@@ -1080,14 +1097,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "cliente": "NADIA RAQUEL DO NASCIMENTO PINHEIRO",
+      "avaliacao": 350000,
+      "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-80f3-b6b8-cfb7ae2738c3",
