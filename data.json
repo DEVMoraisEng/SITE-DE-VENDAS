@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-06-04T23:00:34Z",
+  "updated_at": "2026-06-05T01:00:31Z",
   "rows": [
+    {
+      "id": "375c5ab5-32d3-80b9-b5c0-f420d7c7b387",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "RAVENA",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "374c5ab5-32d3-8090-9ead-cb14449394b5",
       "endereco": "",
