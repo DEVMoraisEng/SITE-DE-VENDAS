@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-06-06T15:00:31Z",
+  "updated_at": "2026-06-06T17:00:28Z",
   "rows": [
+    {
+      "id": "377c5ab5-32d3-80d0-84ae-c0e5a70c1010",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "PQ DOS BURITIS",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "376c5ab5-32d3-80df-8851-cc3f9f7fba81",
       "endereco": "",
