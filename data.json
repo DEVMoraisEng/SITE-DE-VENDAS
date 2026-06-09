@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T23:00:33Z",
+  "updated_at": "2026-06-09T01:00:32Z",
   "rows": [
     {
       "id": "377c5ab5-32d3-80d0-84ae-c0e5a70c1010",
@@ -3140,7 +3140,7 @@
       "cliente": "JUSSIARA BARBOSA DA SILVA",
       "avaliacao": 374089.96,
       "valorMao": 285000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -3650,7 +3650,7 @@
       "cliente": "HALANE EDUARA DE OLIVEIRA FEITOSA",
       "avaliacao": 350000,
       "valorMao": 265000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
