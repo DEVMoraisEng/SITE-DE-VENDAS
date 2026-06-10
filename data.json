@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T13:00:40Z",
+  "updated_at": "2026-06-10T15:00:38Z",
   "rows": [
     {
       "id": "377c5ab5-32d3-80d0-84ae-c0e5a70c1010",
@@ -7,23 +7,6 @@
       "casa": "",
       "ref": "",
       "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
-      "entregou": "",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": null
-    },
-    {
-      "id": "376c5ab5-32d3-80df-8851-cc3f9f7fba81",
-      "endereco": "",
-      "casa": "",
-      "ref": "",
-      "setor": "ITAIPU",
       "tipo": null,
       "modelo": "",
       "cliente": "",
