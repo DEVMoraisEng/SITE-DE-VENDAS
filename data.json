@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T09:00:32Z",
+  "updated_at": "2026-06-12T11:00:32Z",
   "rows": [
     {
       "id": "377c5ab5-32d3-80d0-84ae-c0e5a70c1010",
@@ -1131,14 +1131,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "cliente": "PEDRO THALISSON SILVA RODRIGUES",
+      "avaliacao": 350000,
+      "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-808e-9702-e3e5047f3448",
