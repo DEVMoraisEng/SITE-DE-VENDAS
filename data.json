@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T13:00:37Z",
+  "updated_at": "2026-06-13T15:00:37Z",
   "rows": [
     {
       "id": "377c5ab5-32d3-80d0-84ae-c0e5a70c1010",
@@ -896,7 +896,7 @@
       "cliente": "ANA LUCIA MACEDO DA CONCEIÇÃO SILVA",
       "avaliacao": 315000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
