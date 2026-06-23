@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T13:00:39Z",
+  "updated_at": "2026-06-23T15:00:42Z",
   "rows": [
     {
       "id": "387c5ab5-32d3-8003-8049-d2c6175747c1",
@@ -1268,8 +1268,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 350000,
+      "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8013-bc4c-f18ad847e13e",
-      "endereco": "TB 17 QD 48 LT 46",
+      "endereco": "TB 17 QD 48 LT 46t",
       "casa": 2,
       "ref": "TB44",
       "setor": "TERRABELA CERRADO",
@@ -2018,7 +2018,7 @@
       "cliente": "LEANDRO LIMA BERALDO",
       "avaliacao": 330000,
       "valorMao": 265000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -6294,7 +6294,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 5
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
