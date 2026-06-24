@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T15:00:36Z",
+  "updated_at": "2026-06-24T17:00:37Z",
   "rows": [
     {
       "id": "389c5ab5-32d3-8006-bade-f34d6de4a957",
@@ -1301,14 +1301,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "JOAOO VICTOR SANTOS MENDES",
       "avaliacao": 331000,
-      "valorMao": 270000,
+      "valorMao": 267000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-80e9-a9ed-ed0f7c7a8a09",
@@ -6345,7 +6345,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 6
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
