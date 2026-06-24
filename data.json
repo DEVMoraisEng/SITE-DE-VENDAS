@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T17:00:37Z",
+  "updated_at": "2026-06-24T19:00:37Z",
   "rows": [
     {
       "id": "389c5ab5-32d3-8006-bade-f34d6de4a957",
@@ -1125,7 +1125,7 @@
     },
     {
       "id": "33cc5ab5-32d3-805a-9005-fec0349bc3f9",
-      "endereco": "TB 5 QD 40 LT 018",
+      "endereco": "TB 5 QD 40 LT 01",
       "casa": 1,
       "ref": "TB01",
       "setor": "TERRABELA CERRADO",
@@ -1301,7 +1301,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "JOAOO VICTOR SANTOS MENDES",
+      "cliente": "JOAO VICTOR SANTOS MENDES",
       "avaliacao": 331000,
       "valorMao": 267000,
       "entregou": "NÃO",
@@ -1805,7 +1805,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8013-bc4c-f18ad847e13e",
-      "endereco": "TB 17 QD 48 LT 464",
+      "endereco": "TB 17 QD 48 LT 46",
       "casa": 2,
       "ref": "TB44",
       "setor": "TERRABELA CERRADO",
@@ -5059,13 +5059,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": 266000,
+      "avaliacao": 338000,
+      "valorMao": 270750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-80b8-8d2d-e9a5c6c4a199",
@@ -5076,13 +5076,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": 266000,
+      "avaliacao": 338000,
+      "valorMao": 270750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-80ed-95b2-cd486f23c4ca",
@@ -5093,13 +5093,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": 266000,
+      "avaliacao": 338000,
+      "valorMao": 270750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-809f-9a41-caa693b1007f",
