@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T15:00:41Z",
+  "updated_at": "2026-06-25T17:00:31Z",
   "rows": [
     {
       "id": "389c5ab5-32d3-8006-bade-f34d6de4a957",
@@ -5057,7 +5057,7 @@
       "ref": "J9",
       "setor": "JOÃO BRAZ",
       "tipo": 1,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": 338000,
       "valorMao": 270750,
