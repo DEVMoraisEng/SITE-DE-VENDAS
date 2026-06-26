@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T09:00:35Z",
+  "updated_at": "2026-06-26T11:00:30Z",
   "rows": [
     {
       "id": "389c5ab5-32d3-8006-bade-f34d6de4a957",
@@ -3919,14 +3919,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "GLEICIENE RAMOS DE ALMEIDA",
       "avaliacao": 306000,
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1KVoEYZgOTL3KP0S-hOIymL-tYkuPqcFc?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 270000
     },
     {
       "id": "33cc5ab5-32d3-809b-ac77-f7b29ee07d4b",
@@ -6337,7 +6337,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 2
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
