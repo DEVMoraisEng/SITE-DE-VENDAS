@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T17:00:35Z",
+  "updated_at": "2026-06-26T19:00:35Z",
   "rows": [
     {
       "id": "38bc5ab5-32d3-80e8-a80f-d9951afed1ed",
@@ -3970,14 +3970,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "WANDERSON PEREIRA SABOIA",
       "avaliacao": 306000,
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 277000
     },
     {
       "id": "33cc5ab5-32d3-8018-8af3-c354ba421c76",
@@ -6354,7 +6354,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
