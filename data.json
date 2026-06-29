@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T17:00:36Z",
+  "updated_at": "2026-06-29T19:00:38Z",
   "rows": [
     {
       "id": "38bc5ab5-32d3-80e8-a80f-d9951afed1ed",
@@ -1147,7 +1147,7 @@
       "ref": "TB01",
       "setor": "TERRABELA CERRADO",
       "tipo": 4,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "ANA LUCIA MACEDO DA CONCEIÇÃO SILVA",
       "avaliacao": 315000,
       "valorMao": 260000,
