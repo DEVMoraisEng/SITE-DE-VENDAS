@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T13:00:42Z",
+  "updated_at": "2026-06-29T15:00:42Z",
   "rows": [
     {
       "id": "38bc5ab5-32d3-80e8-a80f-d9951afed1ed",
@@ -6062,13 +6062,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 378000,
+      "valorMao": 289750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 305000
     },
     {
       "id": "33cc5ab5-32d3-8007-bdf8-e2fe0b64abe4",
@@ -6079,13 +6079,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 375000,
+      "valorMao": 289750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 305000
     },
     {
       "id": "33cc5ab5-32d3-8053-87ea-fa36e5eaaf88",
@@ -6096,13 +6096,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 375000,
+      "valorMao": 289750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 305000
     },
     {
       "id": "33cc5ab5-32d3-80e6-a2c5-f744c0e8891a",
@@ -6322,7 +6322,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 0
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
