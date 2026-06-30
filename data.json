@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-06-30T14:37:13Z",
+  "updated_at": "2026-06-30T15:00:45Z",
   "rows": [
+    {
+      "id": "38fc5ab5-32d3-8057-82fd-d2523f3afe46",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "38fc5ab5-32d3-80a7-aadb-d4813352596d",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "38bc5ab5-32d3-80e8-a80f-d9951afed1ed",
       "endereco": "",
