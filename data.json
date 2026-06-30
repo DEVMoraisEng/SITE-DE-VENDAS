@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T15:00:45Z",
+  "updated_at": "2026-06-30T17:00:47Z",
   "rows": [
     {
       "id": "38fc5ab5-32d3-8057-82fd-d2523f3afe46",
@@ -1046,7 +1046,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "",
-      "cliente": "NELA JANE DOS SANTOS OLIVEIRA",
+      "cliente": "NEILA JANE DOS SANTOS OLIVEIRA",
       "avaliacao": 325000,
       "valorMao": 260000,
       "entregou": "SIM",
@@ -1576,7 +1576,7 @@
       "cliente": "WANDERSON GOMES DE FREITAS ",
       "avaliacao": 310000,
       "valorMao": 265000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "https://drive.google.com/drive/folders/1DaX7ZfzU0kOvDgaMJsTaQKne4x1xDM1O?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1J_7506E1ynN9FvNIHlPdfI2J0upMvYOW/view?usp=drive_link",
       "comissao": null,
@@ -2596,7 +2596,7 @@
       "cliente": "AUCIONE VIEIRA DE SOUSA",
       "avaliacao": 368000,
       "valorMao": 285000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
