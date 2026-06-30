@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T17:00:47Z",
+  "updated_at": "2026-06-30T19:00:42Z",
   "rows": [
     {
       "id": "38fc5ab5-32d3-8057-82fd-d2523f3afe46",
@@ -5248,7 +5248,7 @@
       "cliente": "JOHNY RIBEIRO DA SILVA ",
       "avaliacao": 296000,
       "valorMao": 256500,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "https://drive.google.com/drive/folders/1SDtI8FLU3TNmDgjGOA9nBip6P2sOmwKj?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1RSCzHYXxM9vVZzX1ORz6UwQqGEm27TBd/view?usp=drive_link",
       "comissao": null,
