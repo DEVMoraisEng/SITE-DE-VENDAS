@@ -190,6 +190,22 @@ td.qtd.zero{color:#bbb}
 <script>
 function iconeSeta(){return`<svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6h8M6 2l4 4-4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>`}
 
+// Mapeia setor → página interna do mapa. Sempre tem prioridade sobre o que vier
+// do Notion (campo LINK), pois esse campo às vezes é preenchido com o link do
+// Drive por engano. O link do Notion só é usado como reserva para setores que
+// ainda não têm página própria.
+const MAPA_SETORES={
+  'ACROPOLE':'acropole.html',
+  'IPANEMA':'ipanema.html',
+  'JOÃO BRAZ':'joaobraz2.html',
+  'MARQUES DE ABREU':'marquesdeabreu.html',
+  'PQ DOS BURITIS':'pqdosburitis.html',
+  'RAVENA':'ravena.html',
+  'SOLAR VILLE':'solarville.html',
+  'ST EFIGÊNIA':'stefigenia.html',
+  'TERRABELA CERRADO':'terrabela.html'
+};
+
 function renderTabela(tbodyId, setores){
   const tbody=document.getElementById(tbodyId);
   if(!setores.length){tbody.innerHTML=`<tr><td colspan="4" style="text-align:center;padding:24px;color:#bbb">Nenhum setor encontrado</td></tr>`;return}
@@ -217,7 +233,7 @@ async function main(){
       if(qtd === 0) continue;
       const cidade=(d.cidade||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase();
       // Mapeia setor → página interna (sobrepõe link do Drive)
-      const linkMapa = d.link || '';
+      const linkMapa = MAPA_SETORES[d.setor] || d.link || '';
       const obj={setor:d.setor,link:linkMapa,obs:d.obs,qtd};
       if(cidade.includes('CANEDO')||cidade.includes('SENADOR')) canedo.push(obj);
       else if(cidade.includes('GOIANIA')) goiania.push(obj);
