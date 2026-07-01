@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-01T17:00:42Z",
+  "updated_at": "2026-07-01T19:00:47Z",
   "rows": [
+    {
+      "id": "390c5ab5-32d3-80e6-b660-ef310585741b",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "38fc5ab5-32d3-8057-82fd-d2523f3afe46",
       "endereco": "",
@@ -5059,13 +5076,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": 266000,
+      "avaliacao": 290000,
+      "valorMao": 261250,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-80d1-a6b0-f0ae96deb125",
@@ -5076,13 +5093,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": 266000,
+      "avaliacao": 290000,
+      "valorMao": 261250,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-80cd-8fa3-caacea6025d2",
@@ -5093,13 +5110,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": 266000,
+      "avaliacao": 290000,
+      "valorMao": 261250,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 275000
     },
     {
       "id": "33cc5ab5-32d3-80ea-832d-faedec19b215",
@@ -6079,7 +6096,7 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
+      "avaliacao": 355000,
       "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
@@ -6267,12 +6284,12 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-80b5-95f8-d1677aaf41b1",
@@ -6283,13 +6300,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 355000,
+      "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-8063-935c-f5f7ffdef64c",
@@ -6300,13 +6317,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 357000,
+      "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     }
   ],
   "disponibilidades": [
@@ -6356,7 +6373,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 3
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
