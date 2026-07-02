@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-02T11:00:48Z",
+  "updated_at": "2026-07-02T13:00:51Z",
   "rows": [
+    {
+      "id": "391c5ab5-32d3-8055-a280-c9aad12f8f57",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "ACROPOLE",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "390c5ab5-32d3-807a-93dd-f9b7faa37036",
       "endereco": "",
@@ -6162,7 +6179,7 @@
       "ref": "A12",
       "setor": "ACROPOLE",
       "tipo": 1,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": 375000,
       "valorMao": 289750,
