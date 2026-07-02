@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T15:00:53Z",
+  "updated_at": "2026-07-02T17:00:50Z",
   "rows": [
     {
       "id": "391c5ab5-32d3-8055-a280-c9aad12f8f57",
@@ -2902,7 +2902,7 @@
       "cliente": "SILVANIA  CALDEIRA DE MOURA",
       "avaliacao": 248000,
       "valorMao": 213750,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
