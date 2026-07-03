@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T15:00:46Z",
+  "updated_at": "2026-07-03T17:00:50Z",
   "rows": [
     {
       "id": "391c5ab5-32d3-8055-a280-c9aad12f8f57",
@@ -6230,13 +6230,13 @@
       "ref": "A9",
       "setor": "ACROPOLE",
       "tipo": 3,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": null,
       "valorMao": null,
       "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
+      "fotos": "https://drive.google.com/drive/folders/1UvCRuxidDbf-soYJFAkE447CY_k3ed_M",
+      "layout": "https://drive.google.com/file/d/1Fn_x0q5MhxOGYNePT_EbJjwP4OQjBVgS/view?usp=drivesdk",
       "comissao": null,
       "valorVenda": null
     },
@@ -6264,13 +6264,13 @@
       "ref": "A7",
       "setor": "ACROPOLE",
       "tipo": 2,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": null,
       "valorMao": null,
       "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
+      "fotos": "https://drive.google.com/drive/folders/1O1tSHsqLncBJi_DnR06lXXTELOIM9hQI",
+      "layout": "https://drive.google.com/file/d/1H__1yfQmRniHieaOr7UtEvBv2iFm3RYT/view?usp=drivesdk",
       "comissao": null,
       "valorVenda": null
     },
