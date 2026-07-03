@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T13:00:49Z",
+  "updated_at": "2026-07-03T15:00:46Z",
   "rows": [
     {
       "id": "391c5ab5-32d3-8055-a280-c9aad12f8f57",
@@ -1916,7 +1916,7 @@
       "cliente": "ROSILEIDE MARTINS DOS SANTOS",
       "avaliacao": 341000,
       "valorMao": 270000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -2052,7 +2052,7 @@
       "cliente": "JESSICA CARA SANTOS DA CONCEIÇ",
       "avaliacao": 310000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
