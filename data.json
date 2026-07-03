@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T11:00:44Z",
+  "updated_at": "2026-07-03T13:00:49Z",
   "rows": [
     {
       "id": "391c5ab5-32d3-8055-a280-c9aad12f8f57",
@@ -6184,8 +6184,8 @@
       "avaliacao": 375000,
       "valorMao": 289750,
       "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
+      "fotos": "https://drive.google.com/drive/folders/1b-eLOY9uStbyIZPK3IENCQgu-eL-bVAB",
+      "layout": "https://drive.google.com/file/d/10FMOR6qYaNL3mm3UkkbJVJQFhoec2wns/view?usp=drivesdk",
       "comissao": null,
       "valorVenda": 305000
     },
