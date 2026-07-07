@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:01:01Z",
+  "updated_at": "2026-07-07T21:01:06Z",
   "rows": [
     {
       "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
@@ -4174,14 +4174,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "MARCELO BATISTA DOS SANTOS",
       "avaliacao": 306000,
       "valorMao": 260000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 270000
     },
     {
       "id": "33cc5ab5-32d3-803d-a747-da275afce491",
@@ -6541,7 +6541,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
