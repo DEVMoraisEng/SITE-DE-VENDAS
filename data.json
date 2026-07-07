@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T11:00:56Z",
+  "updated_at": "2026-07-07T13:01:02Z",
   "rows": [
     {
       "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
@@ -2188,7 +2188,7 @@
       "cliente": "IGOR LOPES DE SOUZA",
       "avaliacao": 315000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
