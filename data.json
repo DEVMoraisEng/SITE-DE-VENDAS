@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-06T23:00:58Z",
+  "updated_at": "2026-07-07T01:01:00Z",
   "rows": [
+    {
+      "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "RAVENA",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "395c5ab5-32d3-8082-bb6c-c7054d7fd856",
       "endereco": "",
@@ -2026,7 +2043,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80a5-9667-cc3c23d398d2",
-      "endereco": "TB 17 QD 48 LT 44",
+      "endereco": "TB 1;;;;;;;;;;;;;;;;;:7; ;Q;",
       "casa": 2,
       "ref": "TB42",
       "setor": "TERRABELA CERRADO",
@@ -3225,7 +3242,7 @@
       "cliente": "JHON WILKER GUESES DE OLIVEIRA",
       "avaliacao": 335000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "ÁGIO",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -3511,7 +3528,7 @@
       "setor": "RAVENA",
       "tipo": 1,
       "modelo": "",
-      "cliente": "JOÃO MARCOS",
+      "cliente": "JOAO BATISTA GALVAO",
       "avaliacao": 348000,
       "valorMao": 285000,
       "entregou": "SIM",
@@ -4412,14 +4429,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "ANDREA DE SOUZA COSTA",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-802d-a8e6-e162bb1a680d",
