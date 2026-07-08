@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T19:00:57Z",
+  "updated_at": "2026-07-08T21:01:00Z",
   "rows": [
     {
       "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
@@ -2120,7 +2120,7 @@
       "cliente": "ANA  PAULA PEIXOTO DOS SANTOS",
       "avaliacao": 310000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
