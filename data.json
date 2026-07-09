@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T23:01:01Z",
+  "updated_at": "2026-07-09T01:00:58Z",
   "rows": [
     {
       "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
@@ -1334,7 +1334,7 @@
       "ref": "TB01",
       "setor": "TERRABELA CERRADO",
       "tipo": 4,
-      "modelo": "NÃO",
+      "modelo": "",
       "cliente": "ANA LUCIA MACEDO DA CONCEIÇÃO SILVA",
       "avaliacao": 315000,
       "valorMao": 260000,
@@ -5367,7 +5367,7 @@
       "cliente": "LUCIANO ROSA DOS SANTOS",
       "avaliacao": 318000,
       "valorMao": 261250,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -5894,7 +5894,7 @@
       "cliente": "PEDRO  ELEOMAR  MENDONÇA  DA SILVA  JÚNIOR ",
       "avaliacao": 300000,
       "valorMao": 266000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "https://drive.google.com/drive/folders/1jChGmRE9h-ybGLC8AN1KBp2l7taI1aqw?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1GZgKcc39Oj09boXsOzWrgb-NqNM2wIxn/view?usp=drive_link",
       "comissao": null,
