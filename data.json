@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T11:00:55Z",
+  "updated_at": "2026-07-10T13:00:59Z",
   "rows": [
     {
       "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
@@ -2052,7 +2052,7 @@
       "cliente": "FABIO CARDOSO DOS SANTOS",
       "avaliacao": 298000,
       "valorMao": 255000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -6282,7 +6282,7 @@
       "setor": "ACROPOLE",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "GUILHERME DA SILVA FALCAO",
       "avaliacao": 375000,
       "valorMao": 289750,
       "entregou": "NÃO",
@@ -6509,7 +6509,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 4
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
