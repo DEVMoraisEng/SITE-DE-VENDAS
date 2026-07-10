@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T13:00:59Z",
+  "updated_at": "2026-07-10T15:00:59Z",
   "rows": [
     {
       "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
@@ -1522,14 +1522,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "DANIE DE SOUSA SIVA",
       "avaliacao": 350000,
       "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 294000
     },
     {
       "id": "33cc5ab5-32d3-80e6-8682-e8de7e7d60bf",
@@ -6549,7 +6549,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 10
+      "qtd": 9
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
