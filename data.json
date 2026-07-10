@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T19:00:54Z",
+  "updated_at": "2026-07-10T21:00:56Z",
   "rows": [
     {
       "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
@@ -2967,7 +2967,7 @@
       "setor": "ST EFIGÊNIA",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "VALMIRA DOS SANTOS OLIVEIRA",
       "avaliacao": 248000,
       "valorMao": 213750,
       "entregou": "NÃO",
@@ -6525,7 +6525,7 @@
       "cidade": "GOIÂNIA",
       "link": "stefigenia.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 2
     },
     {
       "id": "33dc5ab5-32d3-803c-a53c-e3d3bf3d28c3",
