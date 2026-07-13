@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T13:00:59Z",
+  "updated_at": "2026-07-13T15:00:58Z",
   "rows": [
     {
       "id": "39cc5ab5-32d3-801f-b95c-cdc429847fe3",
@@ -2984,14 +2984,14 @@
       "setor": "ST EFIGÊNIA",
       "tipo": 1,
       "modelo": "",
-      "cliente": "VALMIRA DOS SANTOS OLIVEIRA",
+      "cliente": "",
       "avaliacao": 248000,
       "valorMao": 213750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 225000
+      "valorVenda": null
     },
     {
       "id": "33cc5ab5-32d3-80c7-83e3-d73527611b00",
@@ -3018,7 +3018,7 @@
       "setor": "ST EFIGÊNIA",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "VALMIRA DOS SANTOS OLIVEIRA",
       "avaliacao": 241000,
       "valorMao": 213750,
       "entregou": "NÃO",
