@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T19:01:01Z",
+  "updated_at": "2026-07-13T21:01:02Z",
   "rows": [
     {
       "id": "39cc5ab5-32d3-801f-b95c-cdc429847fe3",
@@ -3531,7 +3531,7 @@
       "cliente": "SUZANE DOS SANTOS OLIVEIRA S NASCIMENTO",
       "avaliacao": 342932,
       "valorMao": 285000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "https://drive.google.com/drive/folders/1or-kLRPnDi2Zqg9WS1GMDuvaGJ8bFxwy?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1rIpTH6OvvAGQ8Dbfha2ObHP7YwOE4iab/view?usp=drive_link",
       "comissao": null,
