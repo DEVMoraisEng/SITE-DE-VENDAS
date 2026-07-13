@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-13T03:00:54Z",
+  "updated_at": "2026-07-13T05:00:57Z",
   "rows": [
+    {
+      "id": "39cc5ab5-32d3-801f-b95c-cdc429847fe3",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "IPANEMA",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "396c5ab5-32d3-8081-9da6-ea4c046ca643",
       "endereco": "",
@@ -1522,7 +1539,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "DANIE DE SOUSA SIVA",
+      "cliente": "DANIEL DE SOUSA SIVA",
       "avaliacao": 350000,
       "valorMao": 280000,
       "entregou": "NÃO",
@@ -1899,7 +1916,7 @@
       "cliente": "MARIA FRANCISCA OLIVEIRA DOS ANJOS",
       "avaliacao": 280000,
       "valorMao": 245000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
