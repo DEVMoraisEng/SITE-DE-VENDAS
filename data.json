@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T17:01:03Z",
+  "updated_at": "2026-07-13T19:01:01Z",
   "rows": [
     {
       "id": "39cc5ab5-32d3-801f-b95c-cdc429847fe3",
@@ -4160,7 +4160,7 @@
       "cliente": " MARIA EDUARDA ARAÚJO MELO",
       "avaliacao": 370000,
       "valorMao": 280000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -4429,14 +4429,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "VICTOR AUGUSTO DOURADO ",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 287000
     },
     {
       "id": "33cc5ab5-32d3-8064-a0f7-ecde692b0140",
