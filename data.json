@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T15:00:58Z",
+  "updated_at": "2026-07-13T17:01:03Z",
   "rows": [
     {
       "id": "39cc5ab5-32d3-801f-b95c-cdc429847fe3",
@@ -1831,7 +1831,7 @@
       "cliente": "INGRID VITORIA DOS SANTOS",
       "avaliacao": 335000,
       "valorMao": 265000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -3293,7 +3293,7 @@
       "cliente": "FERNANDO ARAUJO DE SOUZA",
       "avaliacao": 265000,
       "valorMao": 235000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -5347,14 +5347,14 @@
       "setor": "JOÃO BRAZ",
       "tipo": 1,
       "modelo": "",
-      "cliente": "ALESSANDRA DE SOUSA SILVA ",
+      "cliente": "",
       "avaliacao": 341000,
-      "valorMao": 266000,
+      "valorMao": 270750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-80ba-812e-dbbf5be79f33",
@@ -5945,7 +5945,7 @@
       "cliente": "LARA ESTER SOUSA ROCHA",
       "avaliacao": 350000,
       "valorMao": 275500,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -6550,7 +6550,7 @@
       "cidade": "GOIÂNIA",
       "link": "joaobraz2.html",
       "obs": "",
-      "qtd": 12
+      "qtd": 13
     },
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
