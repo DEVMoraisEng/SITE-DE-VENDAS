@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T15:00:46Z",
+  "updated_at": "2026-07-16T17:00:42Z",
   "rows": [
     {
       "id": "39cc5ab5-32d3-801f-b95c-cdc429847fe3",
@@ -2967,7 +2967,7 @@
       "setor": "ST EFIGÊNIA",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "VALQUIRIA FERREIRA DA COSTA",
       "avaliacao": 248000,
       "valorMao": 213750,
       "entregou": "NÃO",
@@ -5313,7 +5313,7 @@
       "setor": "JOÃO BRAZ",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "WIILHAN SANTOS DA SILVA",
       "avaliacao": 338000,
       "valorMao": 270750,
       "entregou": "NÃO",
@@ -6542,7 +6542,7 @@
       "cidade": "GOIÂNIA",
       "link": "stefigenia.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-803c-a53c-e3d3bf3d28c3",
@@ -6550,7 +6550,7 @@
       "cidade": "GOIÂNIA",
       "link": "joaobraz2.html",
       "obs": "",
-      "qtd": 12
+      "qtd": 11
     },
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
