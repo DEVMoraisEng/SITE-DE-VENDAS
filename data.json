@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T23:01:02Z",
+  "updated_at": "2026-07-16T01:00:57Z",
   "rows": [
     {
       "id": "39cc5ab5-32d3-801f-b95c-cdc429847fe3",
@@ -5333,7 +5333,7 @@
       "cliente": "LAILA RODRIGUES DA SILVA ",
       "avaliacao": 368000,
       "valorMao": 275500,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
