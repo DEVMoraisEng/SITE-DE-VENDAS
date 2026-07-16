@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T13:00:58Z",
+  "updated_at": "2026-07-16T15:00:46Z",
   "rows": [
     {
       "id": "39cc5ab5-32d3-801f-b95c-cdc429847fe3",
@@ -2978,7 +2978,7 @@
     },
     {
       "id": "33cc5ab5-32d3-804a-b502-de06cf4b826e",
-      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 03",
+      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 03 ",
       "casa": 1,
       "ref": "EF7",
       "setor": "ST EFIGÊNIA",
