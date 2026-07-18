@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-18T03:00:33Z",
+  "updated_at": "2026-07-18T05:00:33Z",
   "rows": [
+    {
+      "id": "3a1c5ab5-32d3-8025-a531-e743269f6ce4",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "PQ DOS BURITIS",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "3a1c5ab5-32d3-80e0-b007-e53dce840359",
       "endereco": "",
@@ -1801,7 +1818,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 281000
     },
     {
       "id": "33cc5ab5-32d3-804a-8dfd-d78402ca7d51",
@@ -3750,7 +3767,7 @@
       "tipo": null,
       "modelo": "",
       "cliente": "GERDE COSTA SOUSA",
-      "avaliacao": 27500,
+      "avaliacao": 275000,
       "valorMao": 235000,
       "entregou": "SIM",
       "fotos": "",
