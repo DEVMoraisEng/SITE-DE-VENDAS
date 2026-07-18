@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-18T01:00:36Z",
+  "updated_at": "2026-07-18T03:00:33Z",
   "rows": [
+    {
+      "id": "3a1c5ab5-32d3-80e0-b007-e53dce840359",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "ST FÉ",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "395c5ab5-32d3-8082-bb6c-c7054d7fd856",
       "endereco": "SV-26 QD 40 LT 17",
@@ -3310,7 +3327,7 @@
       "cliente": "LIELSON DE SOUSA RIBEIRO",
       "avaliacao": 374070,
       "valorMao": 275000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
