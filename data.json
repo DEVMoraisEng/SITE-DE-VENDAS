@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T17:00:39Z",
+  "updated_at": "2026-07-21T19:00:38Z",
   "rows": [
     {
       "id": "3a3c5ab5-32d3-8032-acb1-eb7b0bdce5d3",
@@ -1163,7 +1163,7 @@
       "casa": 2,
       "ref": "TB01",
       "setor": "TERRABELA CERRADO",
-      "tipo": 10,
+      "tipo": null,
       "modelo": "",
       "cliente": "RAFAEL GONÇALVES DAS NEVES",
       "avaliacao": 315000,
@@ -1180,7 +1180,7 @@
       "casa": 1,
       "ref": "TB01",
       "setor": "TERRABELA CERRADO",
-      "tipo": 4,
+      "tipo": null,
       "modelo": "",
       "cliente": "ANA LUCIA MACEDO DA CONCEIÇÃO SILVA",
       "avaliacao": 315000,
@@ -1571,7 +1571,7 @@
       "casa": 2,
       "ref": "TB61",
       "setor": "TERRABELA CERRADO",
-      "tipo": 3,
+      "tipo": null,
       "modelo": "SIM",
       "cliente": "WANDERSON GOMES DE FREITAS ",
       "avaliacao": 310000,
@@ -1588,7 +1588,7 @@
       "casa": 1,
       "ref": "TB60",
       "setor": "TERRABELA CERRADO",
-      "tipo": 2,
+      "tipo": null,
       "modelo": "SIM",
       "cliente": "ISABELLA RENATA GONÇALVES DE FARIAS",
       "avaliacao": 310000,
