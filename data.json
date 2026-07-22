@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-07-22T13:00:39Z",
+  "updated_at": "2026-07-22T15:00:44Z",
   "rows": [
+    {
+      "id": "3a5c5ab5-32d3-807f-bfe0-ff1277db0af0",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "3a5c5ab5-32d3-80d3-8d51-e2e60309e558",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "3a5c5ab5-32d3-8045-8d4c-e4f525d9ee80",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "3a3c5ab5-32d3-8032-acb1-eb7b0bdce5d3",
       "endereco": "",
@@ -1913,14 +1964,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "FERNANDO ANDRADE PEREIRA",
       "avaliacao": 298000,
       "valorMao": 250000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 270000
     },
     {
       "id": "33cc5ab5-32d3-8089-bc3f-fc7bf476c133",
@@ -6396,7 +6447,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 7
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
