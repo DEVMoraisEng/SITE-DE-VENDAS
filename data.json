@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T17:00:30Z",
+  "updated_at": "2026-07-25T19:00:31Z",
   "rows": [
     {
       "id": "3a7c5ab5-32d3-8014-a74e-e70f9e0cb235",
@@ -1658,14 +1658,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "ALINE DE CAMPOS SILVA",
       "avaliacao": 348500,
       "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 295000
     },
     {
       "id": "33cc5ab5-32d3-803c-a6d8-fa6c5fceeec3",
@@ -6566,7 +6566,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 6
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
