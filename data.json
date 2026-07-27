@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T11:00:41Z",
+  "updated_at": "2026-07-27T13:00:39Z",
   "rows": [
     {
       "id": "3a7c5ab5-32d3-8014-a74e-e70f9e0cb235",
@@ -6436,8 +6436,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 313000,
+      "valorMao": 2,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -6526,7 +6526,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 3
+      "qtd": 4
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
