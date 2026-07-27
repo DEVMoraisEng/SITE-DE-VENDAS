@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T13:00:39Z",
+  "updated_at": "2026-07-27T15:00:42Z",
   "rows": [
     {
       "id": "3a7c5ab5-32d3-8014-a74e-e70f9e0cb235",
@@ -1982,8 +1982,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 277000,
+      "valorMao": 250000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -2034,7 +2034,7 @@
       "modelo": "",
       "cliente": "RAILAN RODRIGUES MOREIRA",
       "avaliacao": 336000,
-      "valorMao": 270000,
+      "valorMao": 266000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -6437,12 +6437,12 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 313000,
-      "valorMao": 2,
+      "valorMao": 275500,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 290000
     },
     {
       "id": "33cc5ab5-32d3-80b5-95f8-d1677aaf41b1",
@@ -6566,7 +6566,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 5
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
