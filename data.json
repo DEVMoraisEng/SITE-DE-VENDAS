@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T13:00:40Z",
+  "updated_at": "2026-07-28T15:00:47Z",
   "rows": [
     {
       "id": "3abc5ab5-32d3-80d2-a63c-c7ff37b32dd5",
@@ -6282,7 +6282,7 @@
       "setor": "ACROPOLE",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "JUCILIANO PEREIRA DE SOUSA",
       "avaliacao": 355000,
       "valorMao": 285000,
       "entregou": "NÃO",
@@ -6560,7 +6560,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 4
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
