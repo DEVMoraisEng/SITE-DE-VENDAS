@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-28T01:00:33Z",
+  "updated_at": "2026-07-28T03:00:38Z",
   "rows": [
+    {
+      "id": "3abc5ab5-32d3-80d2-a63c-c7ff37b32dd5",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "TERRABELA CERRADO",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "3aac5ab5-32d3-800a-b332-d51b4a90f31d",
       "endereco": "",
@@ -4478,16 +4495,16 @@
       "casa": 2,
       "ref": "RPB17",
       "setor": "PQ DOS BURITIS",
-      "tipo": null,
+      "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "ERICA PEREIRA DA COSTA",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 287000
     },
     {
       "id": "33cc5ab5-32d3-8080-9e24-d109944da54c",
