@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T23:00:36Z",
+  "updated_at": "2026-07-28T01:00:33Z",
   "rows": [
     {
       "id": "3aac5ab5-32d3-800a-b332-d51b4a90f31d",
@@ -1437,14 +1437,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "RENITON SILVA OLIVEIRA",
       "avaliacao": 345000,
       "valorMao": 280000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 298000
     },
     {
       "id": "33cc5ab5-32d3-80d2-a69b-d9f25f5a67b5",
@@ -6583,7 +6583,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 6
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
