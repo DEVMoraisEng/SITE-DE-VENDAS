@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T15:00:34Z",
+  "updated_at": "2026-07-29T17:00:35Z",
   "rows": [
     {
       "id": "3abc5ab5-32d3-80d2-a63c-c7ff37b32dd5",
@@ -944,14 +944,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "THAYS AUGUSTA SOUZA SANTOS",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 287000
     },
     {
       "id": "35fc5ab5-32d3-8005-9f06-d9ca969111cd",
