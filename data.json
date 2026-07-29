@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T19:00:40Z",
+  "updated_at": "2026-07-29T21:00:32Z",
   "rows": [
     {
       "id": "3abc5ab5-32d3-80d2-a63c-c7ff37b32dd5",
@@ -944,14 +944,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "THAYS AUGUSTA SOUZA SANTOS",
+      "cliente": "",
       "avaliacao": null,
-      "valorMao": 270000,
+      "valorMao": null,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 287000
+      "valorVenda": null
     },
     {
       "id": "35fc5ab5-32d3-8005-9f06-d9ca969111cd",
@@ -4211,7 +4211,7 @@
       "cliente": "WANDERSON PEREIRA SABOIA",
       "avaliacao": 306000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -4582,14 +4582,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "THAYS AUGUSTA SOUZA SANTOS",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 287000
     },
     {
       "id": "33cc5ab5-32d3-80f2-bf77-e75b014fd539",
@@ -6453,13 +6453,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 346000,
+      "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-8096-be49-faaaf82dc092",
@@ -6560,7 +6560,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 3
+      "qtd": 4
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
