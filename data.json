@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-29T21:00:32Z",
+  "updated_at": "2026-07-29T23:00:32Z",
   "rows": [
+    {
+      "id": "3acc5ab5-32d3-8039-8273-f04a15bfaf27",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "3abc5ab5-32d3-80d2-a63c-c7ff37b32dd5",
       "endereco": "",
