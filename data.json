@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T17:00:36Z",
+  "updated_at": "2026-07-31T19:00:32Z",
   "rows": [
     {
       "id": "3adc5ab5-32d3-806e-84b0-f668979b47b0",
@@ -1795,8 +1795,8 @@
       "tipo": 2,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 276000,
+      "valorMao": 250000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -6349,7 +6349,7 @@
       "ref": "A12",
       "setor": "ACROPOLE",
       "tipo": 1,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "CAMILLA COSTA DE SOUZA",
       "avaliacao": 375000,
       "valorMao": 289750,
@@ -6519,7 +6519,7 @@
       "ref": "A2",
       "setor": "ACROPOLE",
       "tipo": 1,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": 355000,
       "valorMao": 285000,
@@ -6634,7 +6634,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 10
+      "qtd": 11
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
