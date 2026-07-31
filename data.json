@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T07:00:31Z",
+  "updated_at": "2026-07-31T09:00:32Z",
   "rows": [
     {
       "id": "3adc5ab5-32d3-806e-84b0-f668979b47b0",
@@ -2013,7 +2013,7 @@
       "casa": 1,
       "ref": "TB49",
       "setor": "TERRABELA CERRADO",
-      "tipo": 1,
+      "tipo": 2,
       "modelo": "",
       "cliente": "",
       "avaliacao": 345000,
@@ -2030,7 +2030,7 @@
       "casa": 2,
       "ref": "TB48",
       "setor": "TERRABELA CERRADO",
-      "tipo": 1,
+      "tipo": 2,
       "modelo": "",
       "cliente": "",
       "avaliacao": 346000,
