@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T23:00:34Z",
+  "updated_at": "2026-08-03T01:00:33Z",
   "rows": [
     {
       "id": "3adc5ab5-32d3-806e-84b0-f668979b47b0",
@@ -1661,7 +1661,7 @@
       "cliente": "PEDRO THALISSON SILVA RODRIGUES",
       "avaliacao": 350000,
       "valorMao": 280000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -6349,7 +6349,7 @@
       "ref": "A12",
       "setor": "ACROPOLE",
       "tipo": 1,
-      "modelo": "NÃO",
+      "modelo": "",
       "cliente": "CAMILLA COSTA DE SOUZA",
       "avaliacao": 375000,
       "valorMao": 289750,
