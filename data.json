@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T19:00:37Z",
+  "updated_at": "2026-08-03T21:00:38Z",
   "rows": [
     {
       "id": "3b1c5ab5-32d3-80bd-b750-c37e69c9a65a",
@@ -5384,7 +5384,7 @@
       "cliente": "MARIA SILVA",
       "avaliacao": 270000,
       "valorMao": 242250,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
