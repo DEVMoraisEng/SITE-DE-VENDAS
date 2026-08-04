@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T14:02:35Z",
+  "updated_at": "2026-08-04T15:00:45Z",
   "rows": [
     {
       "id": "3b1c5ab5-32d3-80bd-b750-c37e69c9a65a",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8040-b8eb-d9f971e3bf20",
-      "endereco": "TB 21 QD 50 LT 3",
+      "endereco": "TB 21 QD 50 LT 32",
       "casa": 1,
       "ref": "TB70",
       "setor": "TERRABELA CERRADO",
@@ -1827,7 +1827,7 @@
       "ref": "TB61",
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "WANDERSON GOMES DE FREITAS ",
       "avaliacao": 310000,
       "valorMao": 265000,
@@ -5364,7 +5364,7 @@
       "setor": "JOÃO BRAZ",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "LUANA NASCIMENTO NUNES",
       "avaliacao": 341000,
       "valorMao": 270750,
       "entregou": "NÃO",
@@ -6567,7 +6567,7 @@
       "cidade": "GOIÂNIA",
       "link": "joaobraz2.html",
       "obs": "",
-      "qtd": 11
+      "qtd": 10
     },
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
