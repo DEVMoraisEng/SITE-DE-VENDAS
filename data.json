@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T13:00:33Z",
+  "updated_at": "2026-08-04T13:56:17Z",
   "rows": [
     {
       "id": "3b1c5ab5-32d3-80bd-b750-c37e69c9a65a",
@@ -45,7 +45,7 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 345000,
-      "valorMao": 280000,
+      "valorMao": 275000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -1725,7 +1725,7 @@
       "ref": "TB67",
       "setor": "TERRABELA CERRADO",
       "tipo": 2,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "EVERCINO BARBOSA RODRIGUES",
       "avaliacao": 350000,
       "valorMao": 280000,
@@ -1844,7 +1844,7 @@
       "ref": "TB60",
       "setor": "TERRABELA CERRADO",
       "tipo": null,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "ISABELLA RENATA GONÇALVES DE FARIAS",
       "avaliacao": 310000,
       "valorMao": 255000,
@@ -6473,8 +6473,8 @@
       "avaliacao": 355000,
       "valorMao": 285000,
       "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
+      "fotos": "https://drive.google.com/drive/folders/1b-eLOY9uStbyIZPK3IENCQgu-eL-bVAB?usp=drive_link",
+      "layout": "https://drive.google.com/file/d/10FMOR6qYaNL3mm3UkkbJVJQFhoec2wns/view?usp=drive_link",
       "comissao": null,
       "valorVenda": 300000
     },
