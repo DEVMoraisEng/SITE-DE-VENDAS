@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T19:00:32Z",
+  "updated_at": "2026-08-08T21:00:41Z",
   "rows": [
     {
       "id": "3b5c5ab5-32d3-80fa-91d5-f956410be116",
@@ -3429,7 +3429,7 @@
       "cliente": "IZABELA BARREIRA DA CRUZ",
       "avaliacao": 330000,
       "valorMao": 260000,
-      "entregou": "SIM",
+      "entregou": "ÁGIO",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -5092,14 +5092,14 @@
       "setor": "PQ DOS BURITIS",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "VINICIUS CARDOSO LIMIIRO",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 285000
     },
     {
       "id": "33cc5ab5-32d3-8060-ad68-f34d1d02bcfd",
