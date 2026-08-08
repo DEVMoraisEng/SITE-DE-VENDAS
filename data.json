@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T17:00:34Z",
+  "updated_at": "2026-08-08T19:00:32Z",
   "rows": [
     {
       "id": "3b5c5ab5-32d3-80fa-91d5-f956410be116",
@@ -4938,11 +4938,11 @@
       "ref": "RPB36",
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
-      "modelo": "SIM",
+      "modelo": "",
       "cliente": "GLEICIENE RAMOS DE ALMEIDA",
       "avaliacao": 306000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "https://drive.google.com/drive/folders/1KVoEYZgOTL3KP0S-hOIymL-tYkuPqcFc?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
       "comissao": null,
@@ -4993,7 +4993,7 @@
       "cliente": "MARCELO BATISTA DOS SANTOS",
       "avaliacao": 306000,
       "valorMao": 260000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
