@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-08-10T17:00:36Z",
+  "updated_at": "2026-08-10T19:00:44Z",
   "rows": [
+    {
+      "id": "3b8c5ab5-32d3-8034-85e2-cdced76c22ef",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "ACROPOLE",
+      "tipo": null,
+      "modelo": "",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "3b8c5ab5-32d3-80c1-a382-d806d48892c9",
       "endereco": "TB 18 QD 49 LT 10",
@@ -2239,7 +2256,7 @@
       "cliente": "LETICIA MORAES FREITAS ",
       "avaliacao": 351500,
       "valorMao": 280000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
