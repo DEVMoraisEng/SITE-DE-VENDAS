@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:00:38Z",
+  "updated_at": "2026-08-13T17:00:43Z",
   "rows": [
     {
       "id": "3bac5ab5-32d3-8044-84c6-d2f9d1f82fcf",
@@ -2882,14 +2882,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "MARCELO ALVES RODRIGUES",
       "avaliacao": 346000,
       "valorMao": 275000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 291800
     },
     {
       "id": "33cc5ab5-32d3-80d3-a62a-f248c08d3c8e",
@@ -7450,7 +7450,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 14
+      "qtd": 13
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
