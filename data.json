@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T17:00:43Z",
+  "updated_at": "2026-08-13T19:00:39Z",
   "rows": [
     {
       "id": "3bac5ab5-32d3-8044-84c6-d2f9d1f82fcf",
@@ -6519,7 +6519,7 @@
       "ref": "I29",
       "setor": "IPANEMA",
       "tipo": 5,
-      "modelo": "",
+      "modelo": "NÃO",
       "cliente": "MAIKA BATISTA DOS SANTO",
       "avaliacao": 296000,
       "valorMao": 232750,
