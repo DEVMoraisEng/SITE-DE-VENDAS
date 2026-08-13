@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:00:39Z",
+  "updated_at": "2026-08-13T21:00:38Z",
   "rows": [
     {
       "id": "3bac5ab5-32d3-8044-84c6-d2f9d1f82fcf",
@@ -1033,40 +1033,6 @@
       "avaliacao": null,
       "valorMao": null,
       "entregou": "",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": null
-    },
-    {
-      "id": "3a7c5ab5-32d3-8014-a74e-e70f9e0cb235",
-      "endereco": "RPB 24 QD 26A LT 09",
-      "casa": 2,
-      "ref": "",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
-      "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
-      "comissao": null,
-      "valorVenda": null
-    },
-    {
-      "id": "3a7c5ab5-32d3-808e-82ab-c6c674df75a3",
-      "endereco": "RPB 24 QD 26A LT 09",
-      "casa": 1,
-      "ref": "",
-      "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
-      "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -3964,7 +3930,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8094-81ef-e99a810c18a0",
-      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 02",
+      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 02 ",
       "casa": 1,
       "ref": "EF5",
       "setor": "ST EFIGÊNIA",
@@ -5430,16 +5396,16 @@
       "casa": 1,
       "ref": "RPB16",
       "setor": "PQ DOS BURITIS",
-      "tipo": null,
+      "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "WANDERSON SALES PEREIRA",
       "avaliacao": null,
-      "valorMao": null,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-80f2-bf77-e75b014fd539",
