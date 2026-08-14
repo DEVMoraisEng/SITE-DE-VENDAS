@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-08-14T17:00:31Z",
+  "updated_at": "2026-08-14T19:00:31Z",
   "rows": [
+    {
+      "id": "3bcc5ab5-32d3-806e-85b7-c0e838de61df",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "NÃO",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "3bcc5ab5-32d3-8071-b61a-fbfbbda8cb87",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "NÃO",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
+    {
+      "id": "3bcc5ab5-32d3-8009-8e46-ef22351ce44d",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "ACROPOLE",
+      "tipo": null,
+      "modelo": "NÃO",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "comissao": null,
+      "valorVenda": null
+    },
     {
       "id": "3bac5ab5-32d3-8044-84c6-d2f9d1f82fcf",
       "endereco": "",
@@ -500,7 +551,7 @@
       "casa": 2,
       "ref": "TB140",
       "setor": "TERRABELA CERRADO",
-      "tipo": null,
+      "tipo": 1,
       "modelo": "",
       "cliente": "",
       "avaliacao": 345000,
@@ -517,7 +568,7 @@
       "casa": 1,
       "ref": "TB139",
       "setor": "TERRABELA CERRADO",
-      "tipo": null,
+      "tipo": 1,
       "modelo": "",
       "cliente": "",
       "avaliacao": 345000,
@@ -7201,13 +7252,13 @@
       "tipo": 2,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 358000,
+      "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-801b-91b1-e37a3528c848",
@@ -7376,7 +7427,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 5
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
