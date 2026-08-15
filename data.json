@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T03:00:35Z",
+  "updated_at": "2026-08-15T05:00:32Z",
   "rows": [
     {
       "id": "3bcc5ab5-32d3-806e-85b7-c0e838de61df",
@@ -2562,7 +2562,7 @@
       "cliente": "NADIA RAQUEL DO NASCIMENTO PINHEIRO",
       "avaliacao": 350000,
       "valorMao": 280000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "comissao": null,
@@ -2732,7 +2732,7 @@
       "cliente": "ISABELLA RENATA GONÇALVES DE FARIAS",
       "avaliacao": 310000,
       "valorMao": 255000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "https://drive.google.com/drive/folders/1CidyUVQaEiYpZSsiPCJ_uMF1M6VTt7bq?usp=drive_link",
       "layout": "https://drive.google.com/file/d/11JEDEddSl7FJu2pIadDDoddEN_RNzW5d/view?usp=drive_link",
       "comissao": null,
