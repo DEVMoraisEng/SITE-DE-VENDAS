@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T01:00:29Z",
+  "updated_at": "2026-08-15T03:00:35Z",
   "rows": [
     {
       "id": "3bcc5ab5-32d3-806e-85b7-c0e838de61df",
@@ -7251,7 +7251,7 @@
       "setor": "ACROPOLE",
       "tipo": 2,
       "modelo": "",
-      "cliente": "",
+      "cliente": "CAMILA TAVARES",
       "avaliacao": 358000,
       "valorMao": 285000,
       "entregou": "NÃO",
@@ -7370,7 +7370,7 @@
       "setor": "ACROPOLE",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "WESLEY RAMOS OLIVEIRA",
       "avaliacao": 357000,
       "valorMao": 285000,
       "entregou": "NÃO",
@@ -7427,7 +7427,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 6
+      "qtd": 4
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
