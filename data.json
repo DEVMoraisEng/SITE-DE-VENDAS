@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T19:00:34Z",
+  "updated_at": "2026-08-19T21:00:34Z",
   "rows": [
     {
       "id": "3c0c5ab5-32d3-80b6-ab46-e668995202b7",
@@ -1818,7 +1818,7 @@
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": 17000
+      "valorVenda": 287
     },
     {
       "id": "35dc5ab5-32d3-80a8-8e55-df8b5adce209",
@@ -2236,14 +2236,14 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "KAIQUE ANTONIO GALHARDO PEREIRA PORFIRIO",
       "avaliacao": 345000,
-      "valorMao": 275000,
+      "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 276000
     },
     {
       "id": "33cc5ab5-32d3-8058-a863-f154e3bf76f5",
@@ -3790,7 +3790,7 @@
       "fotos": "https://drive.google.com/drive/folders/1af19mGniOrKBhOaqnwzOcmnnY5GCh7X2?usp=drive_link",
       "layout": "https://drive.google.com/file/d/13SIQpuHt2LcsQ0dMEWUVKPZ7C6EpfBWJ/view?usp=sharing",
       "comissao": null,
-      "valorVenda": 225
+      "valorVenda": 225000
     },
     {
       "id": "33cc5ab5-32d3-804a-b502-de06cf4b826e",
@@ -7133,13 +7133,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 347500,
+      "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-80c6-a8e1-f336e5373326",
@@ -7150,13 +7150,13 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 344000,
+      "valorMao": 285000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 300000
     },
     {
       "id": "33cc5ab5-32d3-80da-a548-ddafac49e67e",
@@ -7274,7 +7274,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 3
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
@@ -7314,7 +7314,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 12
+      "qtd": 11
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
