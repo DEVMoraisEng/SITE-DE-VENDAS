@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T17:00:29Z",
+  "updated_at": "2026-08-24T19:00:30Z",
   "rows": [
     {
       "id": "3c0c5ab5-32d3-80b6-ab46-e668995202b7",
@@ -5756,8 +5756,8 @@
       "tipo": 4,
       "modelo": "SIM",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 370000,
+      "valorMao": 294500,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1HDEMJnQura-aaWouTx8a-yezpnexgidF?usp=drive_link",
       "layout": "",
@@ -5773,8 +5773,8 @@
       "tipo": 3,
       "modelo": "SIM",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 365000,
+      "valorMao": 280250,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1bkVAQFsWknRR0qYbyIB-MsUqx_X028Gn?usp=drive_link",
       "layout": "",
@@ -5790,8 +5790,8 @@
       "tipo": 1,
       "modelo": "SIM",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 365000,
+      "valorMao": 280250,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1li9LN7kwoXm0nXyjmSlDm_WUopJyI1vq?usp=drive_link",
       "layout": "",
@@ -7242,7 +7242,7 @@
       "cidade": "GOIÂNIA",
       "link": "marquesdeabreu.html",
       "obs": "",
-      "qtd": 0
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
