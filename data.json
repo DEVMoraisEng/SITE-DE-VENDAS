@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:00:29Z",
+  "updated_at": "2026-08-24T23:00:28Z",
   "rows": [
     {
       "id": "3c0c5ab5-32d3-80b6-ab46-e668995202b7",
@@ -5762,7 +5762,7 @@
       "fotos": "https://drive.google.com/drive/folders/1HDEMJnQura-aaWouTx8a-yezpnexgidF?usp=drive_link",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 310000
     },
     {
       "id": "33cc5ab5-32d3-80ae-bcaf-cd78115d868b",
@@ -5779,7 +5779,7 @@
       "fotos": "https://drive.google.com/drive/folders/1bkVAQFsWknRR0qYbyIB-MsUqx_X028Gn?usp=drive_link",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 295000
     },
     {
       "id": "33cc5ab5-32d3-8076-834b-f832356f270f",
@@ -5796,7 +5796,7 @@
       "fotos": "https://drive.google.com/drive/folders/1li9LN7kwoXm0nXyjmSlDm_WUopJyI1vq?usp=drive_link",
       "layout": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 295000
     },
     {
       "id": "33cc5ab5-32d3-8093-998b-de2a81db10aa",
