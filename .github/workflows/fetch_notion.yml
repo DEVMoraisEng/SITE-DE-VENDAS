@@ -2,6 +2,11 @@ name: Atualizar dados do Notion
 
 on:
   workflow_dispatch:
+  # Disparado pelo Google Apps Script (VerificarAtualizacoesVendas.gs) sempre
+  # que ele detecta alteração no banco de VENDAS do Notion. Veja o próprio
+  # .gs para o comando curl/UrlFetchApp que dispara este evento.
+  repository_dispatch:
+    types: [vendas_notion_update]
 
 jobs:
   fetch:
