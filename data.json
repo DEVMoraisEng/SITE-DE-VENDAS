@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T17:00:33Z",
+  "updated_at": "2026-08-26T19:00:37Z",
   "rows": [
     {
       "id": "3c7c5ab5-32d3-800f-931b-e1780987f030",
@@ -3683,7 +3683,7 @@
       "modelo": "",
       "cliente": "JOSE LASARO CARVALHO DA CRUZ",
       "avaliacao": 323000,
-      "valorMao": null,
+      "valorMao": 259000,
       "entregou": "SIM",
       "fotos": "",
       "layout": "",
@@ -6181,7 +6181,7 @@
       "casa": 2,
       "ref": "M6",
       "setor": "MARQUES DE ABREU",
-      "tipo": 3,
+      "tipo": 2,
       "modelo": "SIM",
       "cliente": "",
       "avaliacao": 365000,
