@@ -92,6 +92,7 @@ def normalize_venda(page):
         "entregou": get_prop(page, "ENTEGOU A CASA E PEGOU TERMO DE ENTREGA?") or "",
         "fotos":    get_prop(page, "FOTOS") or "",
         "layout":   get_prop(page, "LAYOUT") or "",
+        "localizacao": get_prop(page, "LOCALIZAÇÃO") or "",
         "comissao":  get_prop(page, "COMISSÃO") or get_prop(page, "COMISSAO"),
         "valorVenda": get_prop(page, "VALOR DE COMPRA E VENDA NO CONTRATO (VENDIDA)"),
     }

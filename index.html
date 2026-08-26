@@ -14,9 +14,10 @@
 }
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:'Barlow',sans-serif;background:var(--cinza-bg);color:var(--azul);min-height:100vh;display:flex;flex-direction:column}
-header{background:var(--azul);padding:0 28px;height:62px;display:flex;align-items:center;justify-content:space-between;border-bottom:3px solid var(--teal);flex-shrink:0;position:sticky;top:0;z-index:100}
+header{background:linear-gradient(120deg,var(--azul-mid),var(--azul));padding:0 28px;height:62px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0;position:sticky;top:0;z-index:100}
+header::after{content:'';display:block;position:absolute;left:0;right:0;bottom:0;height:3px;background:linear-gradient(90deg,var(--teal),var(--ouro))}
 .hdr-left{display:flex;align-items:center;gap:14px}
-.hdr-logo{height:46px;width:auto;object-fit:contain;border-radius:4px}
+.hdr-logo{height:38px;width:auto;object-fit:contain;background:#fff;border-radius:6px;padding:4px 8px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
 .hdr-titles{display:flex;flex-direction:column}
 .hdr-title{font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:700;color:var(--teal);letter-spacing:.12em;text-transform:uppercase}
 .hdr-sub{font-size:11px;color:var(--texto-sec);letter-spacing:.06em;text-transform:uppercase;margin-top:1px}
@@ -35,8 +36,8 @@ aside{width:220px;background:var(--azul);flex-shrink:0;padding:28px 0 20px;displ
 .btn-setor .icone{width:26px;height:26px;background:rgba(77,184,184,0.12);border-radius:5px;display:flex;align-items:center;justify-content:center;font-size:12px;flex-shrink:0}
 .badge-qtd{margin-left:auto;background:var(--teal);color:var(--azul);font-size:10px;font-weight:700;border-radius:10px;padding:2px 9px;text-align:center;white-space:nowrap}
 main{flex:1;padding:32px 48px;overflow-y:auto;min-width:0;max-width:1000px;margin:0 auto;width:100%}
-.tabela-card{background:var(--branco);border-radius:10px;box-shadow:var(--sombra);margin-bottom:24px;overflow:hidden}
-.tabela-header{background:var(--azul);padding:0;display:flex;align-items:center}
+.tabela-card{background:var(--branco);border-radius:10px;box-shadow:var(--sombra);margin-bottom:24px;overflow:hidden;border:1px solid rgba(26,45,66,.06)}
+.tabela-header{background:linear-gradient(120deg,var(--azul-mid),var(--azul));padding:0;display:flex;align-items:center}
 .tabela-titulo{font-family:'Barlow Condensed',sans-serif;font-size:17px;font-weight:800;letter-spacing:.15em;text-transform:uppercase;color:var(--branco);padding:16px 24px;flex:1}
 .tabela-titulo span{color:var(--teal)}
 table{width:100%;border-collapse:collapse}

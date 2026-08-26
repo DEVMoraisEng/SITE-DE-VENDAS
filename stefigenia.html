@@ -6,8 +6,10 @@
 <title>Disponibilidades — ST EFIGÊNIA | Morais Engenharia</title>
 <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
 <style>
+
 :root{
-  --azul:#295778; --teal:#8FDCD2; --branco:#F5F9FA; --cinza-bg:#EAF1F3;
+  --azul:#295778; --azul-esc:#1e3f58; --teal:#8FDCD2; --verde:#2a9d5c; --verde-btn:#3ec98f; --ouro:#d4a800;
+  --branco:#F5F9FA; --cinza-bg:#EAF1F3; --cinza-linha:#e5eef2;
   --disponivel:rgba(143,220,210,0.55); --disponivel-borda:#3ABCB0;
   --modelo:rgba(255,210,60,0.65);     --modelo-borda:#D4A800;
   --modvend:rgba(230,126,34,0.65);   --modvend-borda:#B55C0A;
@@ -18,13 +20,14 @@
 body{font-family:'Barlow',sans-serif;background:var(--cinza-bg);color:var(--azul);min-height:100vh;font-size:16px}
 
 /* HEADER */
-header{background:var(--azul);padding:0 36px;height:68px;display:flex;align-items:center;justify-content:space-between;border-bottom:3px solid var(--teal);flex-wrap:wrap;gap:8px}
+header{background:linear-gradient(120deg,var(--azul-esc),var(--azul));position:relative;padding:0 36px;height:68px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+header::after{content:'';position:absolute;left:0;right:0;bottom:0;height:4px;background:linear-gradient(90deg,var(--verde-btn),var(--teal))}
 .hdr-logo{display:flex;align-items:center;gap:12px}
-.hdr-logo img{height:46px;width:auto;object-fit:contain}
+.hdr-logo img{height:38px;width:auto;object-fit:contain;background:#fff;border-radius:7px;padding:4px 9px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
 .hdr-title{font-family:'Barlow Condensed',sans-serif;font-size:17px;font-weight:700;color:var(--teal);letter-spacing:.14em;text-transform:uppercase}
 .hdr-status{display:flex;align-items:center;gap:8px;font-size:12px;color:rgba(255,255,255,.6)}
-.btn-voltar{display:flex;align-items:center;gap:7px;color:rgba(255,255,255,.75);font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;text-decoration:none;padding:7px 14px;border:1.5px solid rgba(255,255,255,.2);border-radius:6px;transition:background .15s,color .15s;font-family:'Barlow',sans-serif}
-.btn-voltar:hover{background:rgba(255,255,255,.1);color:#fff}
+.btn-voltar{display:flex;align-items:center;gap:7px;color:rgba(255,255,255,.75);font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;text-decoration:none;padding:7px 14px;border:1.5px solid rgba(255,255,255,.25);border-radius:6px;transition:background .15s,color .15s,border-color .15s;font-family:'Barlow',sans-serif}
+.btn-voltar:hover{background:rgba(255,255,255,.14);color:#fff;border-color:var(--teal)}
 .btn-voltar svg{flex-shrink:0}
 .dot{width:8px;height:8px;border-radius:50%;background:var(--teal);animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(.8)}}
@@ -36,18 +39,25 @@ header{background:var(--azul);padding:0 36px;height:68px;display:flex;align-item
 main{padding:24px 36px 56px}
 
 /* MAPA */
-.mapa-card{background:#fff;border-radius:10px;box-shadow:0 2px 20px rgba(41,87,120,.10);overflow:hidden;margin-bottom:28px}
-.mapa-svg-wrap{position:relative;width:100%}
-.mapa-svg-wrap svg{width:100%;height:auto;display:block}
-svg polygon{stroke-width:18;cursor:pointer;transition:filter .15s,opacity .15s;fill:var(--embreve);stroke:var(--embreve-borda)}
-svg polygon:hover{filter:brightness(1.18);opacity:.8}
-polygon.disponivel{fill:var(--disponivel);stroke:var(--disponivel-borda)}
-polygon.modelo{fill:var(--modelo);stroke:var(--modelo-borda)}
-polygon.modvend{fill:var(--modvend);stroke:var(--modvend-borda)}
-polygon.vendida{fill:var(--vendida);stroke:var(--vendida-borda)}
+.mapa-card{background:#fff;border-radius:12px;box-shadow:0 4px 24px rgba(41,87,120,.13);overflow:hidden;margin-bottom:28px;border:1px solid rgba(41,87,120,.08)}
+.mapa-svg-wrap{position:relative;width:100%;height:520px;overflow:hidden;background:#dbe6ec;cursor:grab;touch-action:none;user-select:none}
+.mapa-svg-wrap.arrastando{cursor:grabbing}
+.mapa-svg-wrap svg{position:absolute;top:0;left:0;transform-origin:0 0}
+.mapa-svg-wrap svg polygon{stroke-width:18;cursor:pointer;transition:filter .15s,opacity .15s;fill:var(--embreve);stroke:var(--embreve-borda)}
+.mapa-svg-wrap svg polygon:hover{filter:brightness(1.18);opacity:.8}
+.mapa-svg-wrap svg .disponivel{fill:var(--disponivel);stroke:var(--disponivel-borda)}
+.mapa-svg-wrap svg .modelo{fill:var(--modelo);stroke:var(--modelo-borda)}
+.mapa-svg-wrap svg .modvend{fill:var(--modvend);stroke:var(--modvend-borda)}
+.mapa-svg-wrap svg .vendida{fill:var(--vendida);stroke:var(--vendida-borda)}
+
+/* CONTROLES DE ZOOM/NAVEGAÇÃO DO MAPA */
+.mapa-controles{position:absolute;right:12px;bottom:12px;z-index:20;display:flex;flex-direction:column;gap:6px}
+.mapa-ctrl{width:34px;height:34px;border-radius:8px;border:1.5px solid rgba(255,255,255,.5);background:rgba(30,63,88,.85);color:#fff;font-size:18px;font-weight:700;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.25);transition:background .15s}
+.mapa-ctrl:hover{background:var(--azul)}
+.mapa-dica{position:absolute;left:12px;bottom:12px;z-index:20;background:rgba(30,63,88,.78);color:#fff;font-size:10.5px;font-weight:600;letter-spacing:.03em;padding:5px 11px;border-radius:20px;pointer-events:none}
 
 /* LEGENDA */
-.legenda{display:flex;flex-wrap:wrap;gap:18px;padding:12px 20px;background:var(--azul);align-items:center}
+.legenda{display:flex;flex-wrap:wrap;gap:18px;padding:12px 20px;background:var(--azul-esc);align-items:center}
 .leg-item{display:flex;align-items:center;gap:7px;font-size:11px;font-weight:700;color:rgba(255,255,255,.9);letter-spacing:.07em;text-transform:uppercase}
 .leg-box{width:15px;height:15px;border-radius:3px;border:2px solid rgba(255,255,255,.25)}
 .lb-em{background:rgba(180,200,210,.55)}
@@ -59,11 +69,12 @@ polygon.vendida{fill:var(--vendida);stroke:var(--vendida-borda)}
 /* TABELA */
 .sec-title{font-family:'Barlow Condensed',sans-serif;font-size:19px;font-weight:700;color:var(--azul);text-transform:uppercase;letter-spacing:.09em;margin-bottom:13px;display:flex;align-items:center;gap:10px}
 .sec-title::after{content:'';flex:1;height:2px;background:linear-gradient(to right,var(--teal),transparent)}
-.tbl-card{background:#fff;border-radius:10px;box-shadow:0 2px 18px rgba(41,87,120,.08);overflow:hidden}
+.tbl-card{background:#fff;border-radius:12px;box-shadow:0 4px 22px rgba(41,87,120,.10);overflow:hidden;border:1px solid rgba(41,87,120,.06)}
 table{width:100%;border-collapse:collapse;font-size:15px}
-thead{background:var(--azul);color:#fff}
-thead th{padding:13px 16px;text-align:left;font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
-tbody tr{border-bottom:1px solid #e5eef2;transition:background .12s}
+thead{background:linear-gradient(120deg,var(--azul-esc),var(--azul));color:#fff}
+thead th{padding:13px 14px;text-align:center;font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-right:1px solid rgba(255,255,255,.16)}
+thead th:last-child{border-right:none}
+tbody tr{border-bottom:1px solid var(--cinza-linha);transition:background .12s}
 tbody tr:hover{background:#f0f8f7}
 tbody tr.rmodelo{background:#fffbe6}
 tbody tr.rmodelo:hover{background:#fff5cc}
@@ -72,15 +83,17 @@ tbody tr.rmodvend:hover{background:rgba(230,126,34,.26)}
 tbody tr.rmodvend td{color:#8a4200}
 tbody tr.rmodvend .badge{background:rgba(230,126,34,.18);color:#8a4200;border-color:var(--modvend-borda)}
 .cel-vendida{text-align:center;font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--modvend-borda)}
-td{padding:13px 16px;vertical-align:middle;font-size:15px}
+td{padding:13px 14px;vertical-align:middle;font-size:15px;text-align:center;border-right:1px solid var(--cinza-linha)}
+td:last-child{border-right:none}
 .badge{display:inline-block;background:rgba(212,168,0,.15);color:#8a6600;border:1px solid #d4a800;border-radius:4px;font-size:10px;font-weight:700;padding:2px 6px;letter-spacing:.05em;text-transform:uppercase;margin-left:6px}
 .btn{display:inline-flex;align-items:center;gap:5px;background:var(--azul);color:#fff;text-decoration:none;border-radius:5px;padding:5px 10px;font-size:11px;font-weight:600;letter-spacing:.04em;transition:background .15s,transform .1s}
 .btn:hover{background:#1e4460;transform:translateY(-1px)}
-.btn.verde{background:#2a9d8f}.btn.verde:hover{background:#1f7a6e}
+.btn.verde{background:var(--verde)}.btn.verde:hover{background:#1f7a6e}
+.btn.ouro{background:var(--ouro);color:#3a2c00}.btn.ouro:hover{background:#b98f00;color:#fff}
 .valor{font-weight:700;color:#1a5c3a;text-align:center}
 
 /* RODAPÉ */
-.rodape{margin-top:32px;background:var(--azul);border-radius:10px;padding:18px 26px;color:rgba(255,255,255,.82);font-size:13px;text-align:center;line-height:1.8}
+.rodape{margin-top:32px;background:linear-gradient(120deg,var(--azul-esc),var(--azul));border-radius:12px;padding:18px 26px;color:rgba(255,255,255,.82);font-size:13px;text-align:center;line-height:1.8}
 .rodape strong{color:var(--teal)}
 .rodape-texto{margin-bottom:14px}
 .rodape-contatos{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center}
@@ -91,13 +104,13 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
 .cargo{color:rgba(255,255,255,.4);font-size:10.5px}
 
 /* LOADING */
-#loading{position:fixed;top:0;right:0;bottom:0;left:0;background:rgba(41,87,120,.88);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:999;color:#fff;gap:14px;transition:opacity .3s}
+#loading{position:fixed;top:0;right:0;bottom:0;left:0;background:rgba(30,63,88,.90);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:999;color:#fff;gap:14px;transition:opacity .3s}
 #loading.hidden{opacity:0;pointer-events:none}
 .spinner{width:40px;height:40px;border:3px solid rgba(255,255,255,.2);border-top-color:var(--teal);border-radius:50%;animation:spin .7s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 
 /* TOOLTIP */
-#tip{position:fixed;background:var(--azul);color:#fff;border-radius:6px;padding:8px 12px;font-size:12px;pointer-events:none;display:none;z-index:100;border:1px solid var(--teal);line-height:1.55;max-width:230px}
+#tip{position:fixed;background:var(--azul-esc);color:#fff;border-radius:6px;padding:8px 12px;font-size:12px;pointer-events:none;display:none;z-index:100;border:1px solid var(--teal);line-height:1.55;max-width:230px}
 #tip.on{display:block}
 
 
@@ -105,7 +118,7 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
   /* HEADER */
   header{padding:0 14px;height:auto;min-height:54px;flex-wrap:wrap;gap:6px;padding-top:8px;padding-bottom:8px}
   .hdr-logo{gap:8px}
-  .hdr-logo img{height:34px}
+  .hdr-logo img{height:30px}
   .hdr-title{font-size:13px;letter-spacing:.06em}
   .hdr-status{font-size:10px}
 
@@ -115,10 +128,11 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
   /* MAIN */
   main{padding:10px}
 
-  /* MAPA — touch scroll habilitado */
-  .mapa-card{border-radius:8px;margin-bottom:16px}
-  .mapa-svg-wrap{overflow:auto;-webkit-overflow-scrolling:touch;touch-action:pan-x pan-y}
-  .mapa-svg-wrap svg{min-width:320px;width:100%;height:auto}
+  /* MAPA — mesmo tamanho fixo, um pouco menor */
+  .mapa-card{border-radius:10px;margin-bottom:16px}
+  .mapa-svg-wrap{height:340px}
+  .mapa-dica{display:none}
+  .mapa-ctrl{width:30px;height:30px;font-size:15px}
 
   /* LEGENDA */
   .legenda{gap:8px;padding:8px 12px;flex-wrap:wrap}
@@ -130,9 +144,9 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
 
   /* TABELA */
   .tbl-card{overflow-x:auto;-webkit-overflow-scrolling:touch;border-radius:8px}
-  table{min-width:520px;font-size:13px}
-  thead th{padding:9px 10px;font-size:11px;white-space:nowrap}
-  td{padding:9px 10px;font-size:13px}
+  table{min-width:560px;font-size:13px}
+  thead th{padding:9px 8px;font-size:11px;white-space:nowrap}
+  td{padding:9px 8px;font-size:13px}
   .btn{font-size:10px;padding:4px 8px}
   .btn.verde{font-size:10px;padding:4px 8px}
 
@@ -143,16 +157,17 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
 }
 @media(max-width:400px){
   .hdr-title{font-size:12px}
-  table{min-width:460px}
-  thead th{font-size:10px;padding:7px 8px}
-  td{padding:8px 8px;font-size:12px}
+  table{min-width:500px}
+  thead th{font-size:10px;padding:7px 6px}
+  td{padding:8px 6px;font-size:12px}
+  .mapa-svg-wrap{height:280px}
 }
 </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
   <script>
   // PDF TABELA — jsPDF com links clicáveis
-  function gerarPDFTabela(){
+    function gerarPDFTabela(){
     var btn=document.getElementById('btnTabela');
     btn.disabled=true; btn.textContent='Gerando…';
     try{
@@ -161,17 +176,17 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
       var pw=pdf.internal.pageSize.getWidth();
       var titulo=document.querySelector('.hdr-title');
       var nomeSetor=titulo?titulo.textContent.trim():'Mapa de Vendas';
-      
+
       // Título
       pdf.setFontSize(14); pdf.setFont('helvetica','bold');
       pdf.setTextColor(30,42,58);
       pdf.text(nomeSetor, pw/2, 14, {align:'center'});
-      
+
       // Cabeçalho da tabela
-      var cols=['Endereço','Valor na Mão','Avaliação','Casa Modelo','Fotos','Layout'];
-      var colW=[80,45,35,55,20,20];  // larguras em mm
+      var cols=['Endereço','Valor na Mão','Avaliação','Casa Modelo','Localização','Fotos','Layout'];
+      var colW=[62,42,28,40,32,18,17];  // larguras em mm
       var startX=10, y=24, rowH=8;
-      
+
       pdf.setFontSize(8); pdf.setFont('helvetica','bold');
       pdf.setFillColor(30,42,58); pdf.setTextColor(255,255,255);
       var totalW=colW.reduce(function(a,b){return a+b;},0);
@@ -182,7 +197,7 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
         cx+=colW[i];
       });
       y+=rowH;
-      
+
       // Linhas da tabela — lê diretamente do tbody renderizado
       var rows=document.querySelectorAll('#tbody tr');
       pdf.setFont('helvetica','normal'); pdf.setTextColor(0,0,0);
@@ -192,56 +207,64 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
         if(tds.length<4) return;
         // linha de modelo vendida usa 1 célula com colspan=2 -> índices deslocam
         var mv=tr.classList.contains('rmodvend');
-        var iModelo=mv?2:3, iFotos=mv?3:4, iLayout=mv?4:5;
+        var iModelo=mv?2:3, iLocal=mv?3:4, iFotos=mv?4:5, iLayout=mv?5:6;
         if(y>195){ pdf.addPage(); y=15; }
-        
+
         if(alt){pdf.setFillColor(240,247,245);pdf.rect(startX,y-5,totalW,rowH,'F');}
         alt=!alt;
-        
+
         // Col 0: Endereço
         pdf.setFontSize(7.5); pdf.setFont('helvetica','normal'); pdf.setTextColor(0,0,0);
         pdf.text(tds[0].textContent.replace('Casa Modelo','').trim(), startX+2, y, {maxWidth:colW[0]-3});
-        
+
         // Col 1: Valor
         var cx1=startX+colW[0];
         pdf.setFont('helvetica','bold'); pdf.setTextColor(0,100,80);
         if(mv) pdf.setTextColor(181,92,10);
         pdf.text(mv?'VENDIDA':tds[2].textContent.trim(), cx1+2, y, {maxWidth:colW[1]-3});
-        
+
         // Col 2: Avaliação
         var cx2=cx1+colW[1];
         pdf.setFont('helvetica','normal'); pdf.setTextColor(80,80,80);
         pdf.text(mv?'':tds[1].textContent.trim(), cx2+2, y, {maxWidth:colW[2]-3});
-        
+
         // Col 3: Casa Modelo
         var cx3=cx2+colW[2];
         pdf.setTextColor(0,0,0);
         pdf.text(tds[iModelo].textContent.trim(), cx3+2, y, {maxWidth:colW[3]-3});
-        
-        // Col 4: Link Fotos
+
+        // Col 4: Link Localização
         var cx4=cx3+colW[3];
+        var linkLocal=tds[iLocal]?tds[iLocal].querySelector('a'):null;
+        if(linkLocal){
+          pdf.setTextColor(0,100,200);
+          pdf.textWithLink('Local', cx4+2, y, {url:linkLocal.href});
+        }
+
+        // Col 5: Link Fotos
+        var cx5=cx4+colW[4];
         var linkFotos=tds[iFotos]?tds[iFotos].querySelector('a'):null;
         if(linkFotos){
           pdf.setTextColor(0,100,200);
-          pdf.textWithLink('Fotos', cx4+2, y, {url:linkFotos.href});
+          pdf.textWithLink('Fotos', cx5+2, y, {url:linkFotos.href});
         }
-        
-        // Col 5: Link Layout
-        var cx5=cx4+colW[4];
+
+        // Col 6: Link Layout
+        var cx6=cx5+colW[5];
         var linkLayout=tds[iLayout]?tds[iLayout].querySelector('a'):null;
         if(linkLayout){
           pdf.setTextColor(0,100,200);
-          pdf.textWithLink('Ver', cx5+2, y, {url:linkLayout.href});
+          pdf.textWithLink('Ver', cx6+2, y, {url:linkLayout.href});
         }
-        
+
         y+=rowH;
       });
-      
+
       // Rodapé
       pdf.setFontSize(7); pdf.setTextColor(150,150,150); pdf.setFont('helvetica','normal');
       var dataAtual=new Date().toLocaleDateString('pt-BR');
       pdf.text('Morais Engenharia · '+dataAtual, pw/2, 205, {align:'center'});
-      
+
       pdf.save((titulo?titulo.textContent.trim().replace(/[^a-z0-9]/gi,'_'):'tabela')+'_tabela.pdf');
     }catch(e){alert('Erro: '+e.message);}
     btn.disabled=false; btn.innerHTML='&#128681; Tabela';
@@ -280,6 +303,7 @@ td{padding:13px 16px;vertical-align:middle;font-size:15px}
           <th>Avaliação</th>
           <th style="text-align:center">Valor de Venda<br>(c/ 5% de Comissão Incluso)</th>
           <th>Casa Modelo</th>
+          <th>Localização</th>
           <th>Drive Fotos</th>
           <th>Descrição</th>
         </tr>
@@ -389,11 +413,16 @@ function buildTable(rows){
     const m=rows.find(x=>(x.modelo||'').trim().toUpperCase()==='SIM'&&x.tipo===r.tipo&&(x.setor||'').trim().toUpperCase()==='ST EFIGÊNIA'&&x.layout);
     return (m ? m.layout : null)||r.layout;
   }
+  function linkLocalizacao(r){
+    if((r.modelo||'').trim().toUpperCase()==='SIM') return r.localizacao;
+    const m=rows.find(x=>(x.modelo||'').trim().toUpperCase()==='SIM'&&x.tipo===r.tipo&&(x.setor||'').trim().toUpperCase()==='ST EFIGÊNIA'&&x.localizacao);
+    return (m ? m.localizacao : null)||r.localizacao;
+  }
   tbody.innerHTML=disp.map(r=>{
     const ehM=(r.modelo||'').trim().toUpperCase()==='SIM';
     const label=r.endereco+(r.casa?' — C'+r.casa:'');
     const cm=modeloPorTipo[r.tipo]||'—';
-    const fo=linkFotos(r), la=linkLayout(r);
+    const fo=linkFotos(r), la=linkLayout(r), lo=linkLocalizacao(r);
     const valorVenda = r.valorVenda != null ? r.valorVenda : null;
     const mv = ehModeloVendida(r, rows);
     const celValores = mv
@@ -403,6 +432,7 @@ function buildTable(rows){
       <td><strong>${label}</strong>${ehM?'<span class="badge">Casa Modelo</span>':''}</td>
       ${celValores}
       <td style="font-size:12px">${cm}</td>
+      <td>${lo?`<a class="btn ouro" href="${lo}" target="_blank">📍 Local</a>`:'—'}</td>
       <td>${fo?`<a class="btn verde" href="${fo}" target="_blank">📷 Fotos</a>`:'—'}</td>
       <td>${la?`<a class="btn" href="${la}" target="_blank">↗ Ver</a>`:'—'}</td>
     </tr>`;
