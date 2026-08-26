@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T21:00:35Z",
+  "updated_at": "2026-08-26T23:00:34Z",
   "rows": [
     {
       "id": "3c7c5ab5-32d3-800f-931b-e1780987f030",
@@ -3141,7 +3141,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "FERNANDO ANDRADE PEREIRA",
+      "cliente": "",
       "avaliacao": 298000,
       "valorMao": 250000,
       "entregou": "NÃO",
@@ -3149,7 +3149,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": null
     },
     {
       "id": "33cc5ab5-32d3-8089-bc3f-fc7bf476c133",
@@ -7811,7 +7811,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 13
+      "qtd": 14
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
