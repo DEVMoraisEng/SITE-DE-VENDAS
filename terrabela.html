@@ -399,8 +399,14 @@ const tip  = document.getElementById('tip');
   var vb   = (svg.viewBox && svg.viewBox.baseVal && svg.viewBox.baseVal.width) ? svg.viewBox.baseVal : {x:0,y:0,width:svgW,height:svgH};
   var unitToPx = svgW / vb.width;
 
+  // Posicionamento via width/height/left/top em px (NÃO via CSS
+  // transform:scale()). O transform faz o navegador cachear o SVG como
+  // textura rasterizada numa resolução fixa e depois esticar essa textura —
+  // é isso que deixava o mapa borrado, tanto no zoom quanto na visão
+  // padrão. Redimensionando width/height "de verdade", o navegador
+  // re-renderiza o SVG (que é vetorial) nitidamente em cada tamanho.
   svg.style.position='absolute'; svg.style.top='0'; svg.style.left='0';
-  svg.style.transformOrigin='0 0'; svg.style.willChange='transform';
+  svg.style.transformOrigin=''; svg.style.willChange='auto'; svg.style.transform='none';
 
   var scale=1, tx=0, ty=0, fitScale=1, usandoDisponiveis=false;
   var MAXMULT=4.5;
@@ -416,7 +422,13 @@ const tip  = document.getElementById('tip');
     else{ ty=Math.max(h-contentH-margem, Math.min(ty, margem)); }
   }
 
-  function apply(){ clampPan(); svg.style.transform='translate('+tx+'px,'+ty+'px) scale('+scale+')'; }
+  function apply(){
+    clampPan();
+    svg.style.width=(svgW*scale)+'px';
+    svg.style.height=(svgH*scale)+'px';
+    svg.style.left=tx+'px';
+    svg.style.top=ty+'px';
+  }
 
   function computeFitScale(){ return Math.min(cw()/svgW, ch()/svgH); }
 
