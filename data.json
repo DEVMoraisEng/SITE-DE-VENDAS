@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T14:28:31Z",
+  "updated_at": "2026-08-26T14:29:42Z",
   "rows": [
     {
       "id": "3c7c5ab5-32d3-800f-931b-e1780987f030",
@@ -5389,8 +5389,8 @@
       "casa": 2,
       "ref": "RPB32",
       "setor": "PQ DOS BURITIS",
-      "tipo": null,
-      "modelo": "",
+      "tipo": 1,
+      "modelo": "NÃO",
       "cliente": "",
       "avaliacao": 305000,
       "valorMao": 265000,
