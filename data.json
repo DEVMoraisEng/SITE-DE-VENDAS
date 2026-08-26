@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T13:28:57Z",
+  "updated_at": "2026-08-26T14:28:31Z",
   "rows": [
     {
       "id": "3c7c5ab5-32d3-800f-931b-e1780987f030",
@@ -5392,8 +5392,8 @@
       "tipo": null,
       "modelo": "",
       "cliente": "",
-      "avaliacao": 304,
-      "valorMao": 265,
+      "avaliacao": 305000,
+      "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -5410,11 +5410,11 @@
       "tipo": 1,
       "modelo": "SIM",
       "cliente": "",
-      "avaliacao": 305,
+      "avaliacao": 305000,
       "valorMao": 265000,
       "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
+      "fotos": "https://drive.google.com/drive/folders/1ia39cIkIqrrNN9V1bjf-XXeRj5b0jJmb?usp=drive_link",
+      "layout": "https://drive.google.com/file/d/13MDlaiSD2J27lL4uu2YO-g_65Y9DcuUf/view?usp=drive_link",
       "localizacao": "",
       "comissao": null,
       "valorVenda": null
