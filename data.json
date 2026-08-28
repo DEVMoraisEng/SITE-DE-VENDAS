@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T13:00:32Z",
+  "updated_at": "2026-08-28T14:57:28Z",
   "rows": [
     {
       "id": "3cac5ab5-32d3-80f9-924b-fbf7040c9ed9",
@@ -6201,7 +6201,7 @@
       "setor": "MARQUES DE ABREU",
       "tipo": 4,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "PAULO CEZAR ARAUJ BRANDAO ",
       "avaliacao": 370000,
       "valorMao": 294500,
       "entregou": "NÃO",
@@ -7775,7 +7775,7 @@
       "cidade": "GOIÂNIA",
       "link": "marquesdeabreu.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 2
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
