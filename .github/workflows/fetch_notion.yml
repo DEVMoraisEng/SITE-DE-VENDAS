@@ -7,6 +7,15 @@ on:
   # .gs para o comando curl/UrlFetchApp que dispara este evento.
   repository_dispatch:
     types: [vendas_notion_update]
+  # Rede de segurança: roda de hora em hora mesmo que o Apps Script não
+  # dispare o evento acima (ex.: trigger apagado, token expirado, erro
+  # silencioso no polling). Horário em UTC — GitHub pode atrasar alguns
+  # minutos em horários de pico, então não é um "na hora exata" garantido.
+  # Como o commit só acontece se o data.json realmente mudou (job "fetch"
+  # abaixo), rodar de hora em hora sem mudança nenhuma não gera commit nem
+  # deploy à toa.
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   fetch:
