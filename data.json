@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:44:21Z",
+  "updated_at": "2026-08-31T19:00:29Z",
   "rows": [
     {
       "id": "3cac5ab5-32d3-80f9-924b-fbf7040c9ed9",
@@ -6453,7 +6453,7 @@
       "setor": "JOÃO BRAZ",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "ELIANDRA APARECIDA GARCIA CAMPOS",
       "avaliacao": 315000,
       "valorMao": 261250,
       "entregou": "NÃO",
@@ -7831,7 +7831,7 @@
       "cidade": "GOIÂNIA",
       "link": "joaobraz2.html",
       "obs": "",
-      "qtd": 9
+      "qtd": 8
     },
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
