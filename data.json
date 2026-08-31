@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:00:29Z",
+  "updated_at": "2026-08-31T21:00:31Z",
   "rows": [
     {
       "id": "3cac5ab5-32d3-80f9-924b-fbf7040c9ed9",
@@ -2604,7 +2604,7 @@
       "cliente": "GILBERTO DA SILVA BRITO",
       "avaliacao": 332000,
       "valorMao": 266000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "localizacao": "",
@@ -6528,7 +6528,7 @@
       "cliente": "WIILHAN SANTOS DA SILVA",
       "avaliacao": 338000,
       "valorMao": 270750,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "localizacao": "",
@@ -7554,7 +7554,7 @@
       "cliente": "CAMILLA COSTA DE SOUZA",
       "avaliacao": 375000,
       "valorMao": 289750,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "https://drive.google.com/drive/folders/1b-eLOY9uStbyIZPK3IENCQgu-eL-bVAB",
       "layout": "https://drive.google.com/file/d/10FMOR6qYaNL3mm3UkkbJVJQFhoec2wns/view?usp=drivesdk",
       "localizacao": "",
@@ -7572,7 +7572,7 @@
       "cliente": "GUILHERME DA SILVA FALCAO",
       "avaliacao": 375000,
       "valorMao": 289750,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "localizacao": "",
