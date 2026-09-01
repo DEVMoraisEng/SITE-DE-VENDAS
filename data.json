@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:00:30Z",
+  "updated_at": "2026-09-01T17:00:33Z",
   "rows": [
     {
       "id": "3cec5ab5-32d3-80bf-9c52-cc06ba323fac",
@@ -4148,7 +4148,7 @@
       "ref": "EF8",
       "setor": "ST EFIGÊNIA",
       "tipo": 1,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "VALQUIRIA FERREIRA DA COSTA",
       "avaliacao": 248000,
       "valorMao": 213750,
@@ -4166,13 +4166,13 @@
       "ref": "EF7",
       "setor": "ST EFIGÊNIA",
       "tipo": 1,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": 248000,
       "valorMao": 213750,
       "entregou": "NÃO",
-      "fotos": "",
-      "layout": "",
+      "fotos": "https://drive.google.com/drive/folders/1af19mGniOrKBhOaqnwzOcmnnY5GCh7X2?usp=drive_link",
+      "layout": "https://drive.google.com/file/d/13SIQpuHt2LcsQ0dMEWUVKPZ7C6EpfBWJ/view?usp=sharing",
       "localizacao": "",
       "comissao": null,
       "valorVenda": 225000
