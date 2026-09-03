@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:00:36Z",
+  "updated_at": "2026-09-03T19:00:35Z",
   "rows": [
     {
       "id": "3cec5ab5-32d3-806e-a354-e456c343d798",
@@ -6345,7 +6345,7 @@
       "setor": "MARQUES DE ABREU",
       "tipo": 2,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "GABRIELA BORGES DA SILVA",
       "avaliacao": 365000,
       "valorMao": 280250,
       "entregou": "NÃO",
@@ -7901,7 +7901,7 @@
       "cidade": "GOIÂNIA",
       "link": "marquesdeabreu.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
