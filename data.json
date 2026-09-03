@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:47:36Z",
+  "updated_at": "2026-09-03T13:00:29Z",
   "rows": [
     {
       "id": "3cec5ab5-32d3-806e-a354-e456c343d798",
@@ -5571,7 +5571,7 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "IASMIN DE SOUZA CHAGAS",
       "avaliacao": 305000,
       "valorMao": 265000,
       "entregou": "NÃO",
@@ -5579,7 +5579,7 @@
       "layout": "https://drive.google.com/file/d/13MDlaiSD2J27lL4uu2YO-g_65Y9DcuUf/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps?q=-16.67471694946289,-49.1344108581543&z=17&hl=pt-BR",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 280000
     },
     {
       "id": "33cc5ab5-32d3-8062-bb3d-ecd5e88f464e",
@@ -7965,7 +7965,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
