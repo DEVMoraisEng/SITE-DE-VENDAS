@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T19:00:35Z",
+  "updated_at": "2026-09-03T21:00:36Z",
   "rows": [
     {
       "id": "3cec5ab5-32d3-806e-a354-e456c343d798",
@@ -1287,7 +1287,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "ANDREY TAVARES FERREIRA ",
       "avaliacao": 345000,
       "valorMao": 275000,
       "entregou": "NÃO",
@@ -1295,7 +1295,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 288750
     },
     {
       "id": "3adc5ab5-32d3-80c6-bec1-fbe4b2d86aa6",
@@ -7973,7 +7973,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 11
+      "qtd": 10
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
