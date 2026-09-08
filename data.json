@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:05:21Z",
+  "updated_at": "2026-09-08T23:00:32Z",
   "rows": [
     {
       "id": "3d5c5ab5-32d3-80af-aff4-d5c12c5b504b",
@@ -3519,7 +3519,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "CAELE DE MATOS LOPES SOUSA",
       "avaliacao": 360000,
       "valorMao": 275000,
       "entregou": "NÃO",
@@ -3527,7 +3527,7 @@
       "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/16%C2%B043'36.7%22S+49%C2%B005'58.1%22W/@-16.7269562,-49.1002108,312m/data=!3m1!1e3!4m4!3m3!8m2!3d-16.7268562!4d-49.0994759?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": 290000
     },
     {
       "id": "33cc5ab5-32d3-800c-a85a-edfe58b433e0",
@@ -8009,7 +8009,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 10
+      "qtd": 9
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
