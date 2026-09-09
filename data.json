@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T17:50:53Z",
+  "updated_at": "2026-09-09T18:00:59Z",
   "rows": [
     {
       "id": "3d5c5ab5-32d3-80af-aff4-d5c12c5b504b",
@@ -3279,7 +3279,7 @@
       "comissao": null,
       "valorVenda": 280000,
       "reservada": "SIM",
-      "dataReserva": null
+      "dataReserva": "2026-09-09T18:00:00.000+00:00"
     },
     {
       "id": "33cc5ab5-32d3-80c3-92fc-db507351bd00",
