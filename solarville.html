@@ -11,6 +11,12 @@
   --azul:#295778; --azul-esc:#1e3f58; --teal:#8FDCD2; --verde:#2a9d5c; --verde-btn:#3ec98f; --ouro:#d4a800;
   --branco:#F5F9FA; --cinza-bg:#EAF1F3; --cinza-linha:#e5eef2;
   --disponivel:rgba(143,220,210,0.55); --disponivel-borda:#3ABCB0;
+  /* RESERVADA (item 2 do pedido): azul, e vale por 24 h corridas.
+     Quem devolve para NAO depois das 24 h e o Apps Script
+     (verificarReservas, no VerificarAtualizacoesVendas.gs) -- aqui a
+     tela ja para de pintar de azul assim que o prazo vence, mesmo
+     antes do proximo build. */
+  --reservada:rgba(52,120,214,0.50); --reservada-borda:#1F5FD0;
   --modelo:rgba(255,210,60,0.65);     --modelo-borda:#D4A800;
   --modvend:rgba(230,126,34,0.65);   --modvend-borda:#B55C0A;
   --vendida:rgba(200,60,60,0.50);    --vendida-borda:#A01010;
@@ -46,6 +52,7 @@ main{padding:24px 36px 56px}
 .mapa-svg-wrap svg polygon{stroke-width:18;cursor:pointer;transition:filter .15s,opacity .15s;fill:var(--embreve);stroke:var(--embreve-borda)}
 .mapa-svg-wrap svg polygon:hover{filter:brightness(1.18);opacity:.8}
 .mapa-svg-wrap svg .disponivel{fill:var(--disponivel);stroke:var(--disponivel-borda)}
+.mapa-svg-wrap svg .reservada{fill:var(--reservada);stroke:var(--reservada-borda)}
 .mapa-svg-wrap svg .modelo{fill:var(--modelo);stroke:var(--modelo-borda)}
 .mapa-svg-wrap svg .modvend{fill:var(--modvend);stroke:var(--modvend-borda)}
 .mapa-svg-wrap svg .vendida{fill:var(--vendida);stroke:var(--vendida-borda)}
@@ -62,6 +69,7 @@ main{padding:24px 36px 56px}
 .leg-box{width:15px;height:15px;border-radius:3px;border:2px solid rgba(255,255,255,.25)}
 .lb-em{background:rgba(180,200,210,.55)}
 .lb-di{background:rgba(143,220,210,.7)}
+.lb-rs{background:rgba(52,120,214,.75)}
 .lb-mo{background:rgba(255,210,60,.7)}
 .lb-mv{background:rgba(230,126,34,.7)}
 .lb-ve{background:rgba(200,60,60,.65)}
@@ -82,6 +90,10 @@ tbody tr.rmodvend{background:rgba(230,126,34,.16)}
 tbody tr.rmodvend:hover{background:rgba(230,126,34,.26)}
 tbody tr.rmodvend td{color:#8a4200}
 tbody tr.rmodvend .badge{background:rgba(230,126,34,.18);color:#8a4200;border-color:var(--modvend-borda)}
+tbody tr.rreservada{background:rgba(52,120,214,.14)}
+tbody tr.rreservada:hover{background:rgba(52,120,214,.24)}
+tbody tr.rreservada td{color:#12407f}
+.badge.bres{background:rgba(52,120,214,.16);color:#12407f;border-color:var(--reservada-borda)}
 .cel-vendida{text-align:center;font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--modvend-borda)}
 td{padding:13px 14px;vertical-align:middle;font-size:15px;text-align:center;border-right:1px solid var(--cinza-linha)}
 td:last-child{border-right:none}
@@ -344,6 +356,7 @@ td:last-child{border-right:none}
     <div class="legenda">
       <div class="leg-item"><div class="leg-box lb-em"></div>Em breve</div>
       <div class="leg-item"><div class="leg-box lb-di"></div>Disponível</div>
+      <div class="leg-item"><div class="leg-box lb-rs"></div>Reservada 24h</div>
       <div class="leg-item"><div class="leg-box lb-mo"></div>Casa modelo</div>
       <div class="leg-item"><div class="leg-box lb-mv"></div>Modelo vendida</div>
       <div class="leg-item"><div class="leg-box lb-ve"></div>Vendida</div>
@@ -381,8 +394,91 @@ td:last-child{border-right:none}
 </main>
 
 <script>
-const PRIO = ['modelo','disponivel','modvend','vendida','embreve'];
-const CLS  = {modelo:'modelo',disponivel:'disponivel',modvend:'modvend',vendida:'vendida',embreve:''};
+/* RESERVADA entra DEPOIS de 'disponivel' de proposito: quando o mesmo lote do
+   mapa tem uma casa livre e outra reservada, o verde continua ganhando -- ainda
+   ha o que vender ali. Reserva so pinta o lote quando e a unica situacao dele. */
+const PRIO = ['modelo','disponivel','reservada','modvend','vendida','embreve'];
+const CLS  = {modelo:'modelo',disponivel:'disponivel',reservada:'reservada',modvend:'modvend',vendida:'vendida',embreve:''};
+
+/* ---------- RESERVA DE 24 H (itens 2 e 3) ----------------------------------
+ * RESERVADA = SIM no banco de VENDAS vale por 24 h CORRIDAS. Quem devolve a
+ * coluna para NAO e o Apps Script (verificarReservas). Mas o relogio do site
+ * nao pode depender do build: se a pagina so olhasse a coluna, uma reserva
+ * vencida continuaria azul ate o proximo build do GitHub Pages. Por isso a
+ * conta e feita aqui tambem, a partir de DATA DA RESERVA:
+ *   - dentro das 24 h  -> azul, com o tempo que falta
+ *   - passou das 24 h  -> volta a ser tratada como disponivel na hora
+ *   - sem DATA DA RESERVA (coluna ainda nao criada no Notion) -> confia no
+ *     SIM e mostra so "Reservada 24h", sem contagem.
+ * ------------------------------------------------------------------------ */
+/* ---------- DE ONDE VÊM OS DADOS (set/26) ---------------------------------
+ * Antes cada mapa lia o data.json publicado pelo fetch_notion.py, deste mesmo
+ * repositório. Eram DOIS códigos lendo o mesmo Notion com regras próprias, e
+ * o mapa só atualizava no gatilho de 10 min dele — marcar RESERVADA na
+ * planilha do portal demorava a aparecer aqui.
+ *
+ * Agora a fonte é o dist/mapa_vendas.json, publicado pelo PORTAL a cada
+ * gravação. Mesmo domínio (devmoraiseng.github.io), então não há CORS. E é um
+ * arquivo enxuto de propósito: o vendas.json do portal traz COMISSÃO,
+ * CORRETOR e VALOR DE VENDA, que não podem estar numa página que vai para
+ * cliente e corretor de fora.
+ *
+ * O data.json continua sendo publicado e serve de PLANO B: se o portal
+ * estiver fora do ar ou o arquivo ainda não existir, o mapa cai nele sozinho
+ * e ninguém vê tela vazia.
+ * ------------------------------------------------------------------------ */
+const FONTE_PORTAL = 'https://devmoraiseng.github.io/PORTAL-MORAIS/dist/mapa_vendas.json';
+const FONTE_LOCAL  = 'data.json';
+
+/* O portal manda "vendida" (booleano) porque o NOME do cliente não é
+   publicado — o mapa só precisa saber se a casa está vendida. Aqui isso vira
+   o campo "cliente" que o resto desta tela já usava, sem mexer no resto. */
+function adaptar(rows){
+  return (rows||[]).map(function(r){
+    if(r && r.cliente === undefined && r.vendida !== undefined){
+      r.cliente = r.vendida ? 'VENDIDA' : '';
+    }
+    return r;
+  });
+}
+
+async function carregarLinhas(){
+  try{
+    const r = await fetch(FONTE_PORTAL+'?t='+Date.now(), {cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const j = await r.json();
+    const rows = j.rows || j.vendas || j;
+    if(!rows || !rows.length) throw new Error('arquivo do portal veio vazio');
+    return { rows: adaptar(rows), updatedAt: j.updated_at || null, fonte: 'portal' };
+  }catch(e){
+    console.warn('mapa_vendas.json do portal falhou ('+e.message+'); usando o data.json local.');
+    const r = await fetch(FONTE_LOCAL+'?t='+Date.now());
+    if(!r.ok) throw new Error('nem o portal nem o data.json responderam ('+r.status+')');
+    const j = await r.json();
+    return { rows: adaptar(j.rows || j), updatedAt: j.updated_at || null, fonte: 'local' };
+  }
+}
+
+const RESERVA_MS = 24*60*60*1000;
+function reservaInicio(row){
+  const d = row && row.dataReserva ? new Date(row.dataReserva) : null;
+  return (d && !isNaN(d.getTime())) ? d : null;
+}
+function reservaAtiva(row){
+  if(!row) return false;
+  if(String(row.reservada||'').trim().toUpperCase() !== 'SIM') return false;
+  const ini = reservaInicio(row);
+  if(!ini) return true;                       // sem data: vale o SIM
+  return (Date.now() - ini.getTime()) < RESERVA_MS;
+}
+function textoReserva(row){
+  const ini = reservaInicio(row);
+  if(!ini) return 'Reservada 24h';
+  const falta = RESERVA_MS - (Date.now() - ini.getTime());
+  if(falta <= 0) return 'Reserva vencida';
+  const h = Math.floor(falta/3600000), m = Math.floor((falta%3600000)/60000);
+  return h >= 1 ? ('Reservada · faltam '+h+'h') : ('Reservada · faltam '+m+'min');
+}
 const fmt  = v => v != null ? 'R$ '+Number(v).toLocaleString('pt-BR',{minimumFractionDigits:2}) : '—';
 const tip  = document.getElementById('tip');
 
@@ -518,11 +614,10 @@ const tip  = document.getElementById('tip');
 
 async function loadData(){
   try{
-    const r = await fetch('data.json?t='+Date.now());
-    if(!r.ok) throw new Error('data.json não encontrado ('+r.status+')');
-    const json = await r.json();
-    const rows = json.rows || json;
-    const updatedAt = json.updated_at || null;
+    const dados = await carregarLinhas();
+    const rows = dados.rows;
+    const updatedAt = dados.updatedAt;
+    window.__ROWS = rows;   // usado pelo redesenho de 1 min (reserva)
     paintMap(rows);
     if(window.mapaFitDisponiveis) window.mapaFitDisponiveis();
     buildTable(rows);
@@ -546,7 +641,8 @@ function calcStatus(row, all){
   const ehModelo  = (row.modelo||'').trim().toUpperCase()==='SIM';
   const entregou  = ['SIM','ÁGIO','AGIO'].includes((row.entregou||'').trim().toUpperCase());
   if(!temValor) return 'embreve';
-  if(!temCliente) return ehModelo ? 'modelo' : 'disponivel';
+  /* reserva ganha do verde e do amarelo: e a informacao com prazo */
+  if(!temCliente) return reservaAtiva(row) ? 'reservada' : (ehModelo ? 'modelo' : 'disponivel');
   if(ehModelo && !entregou){
     const haOutro = all.some(r=>
       (r.setor||'').trim().toUpperCase()==='SOLAR VILLE' &&
@@ -578,6 +674,7 @@ function paintMap(rows){
         if(l.cliente && l.cliente.trim()){
           h+='<em>Vendido</em><br>';
         } else {
+          if(reservaAtiva(l)) h+='<em>'+textoReserva(l)+'</em><br>';
           if(l.avaliacao) h+='Aval: '+fmt(l.avaliacao)+'<br>';
           if(l.valorVenda)  h+='Vlr: '+fmt(l.valorVenda)+'<br>';
         }
@@ -659,11 +756,12 @@ function buildTable(rows){
     const fo=linkFotos(r), la=linkLayout(r), lo=linkLocalizacao(r);
     const valorVenda = r.valorVenda != null ? r.valorVenda : null;
     const mv = ehModeloVendida(r, rows);
+    const rs = reservaAtiva(r);
     const celValores = mv
       ? `<td class="cel-vendida" colspan="2">VENDIDA</td>`
       : `<td>${r.avaliacao?fmt(r.avaliacao):'—'}</td><td class="valor">${valorVenda!=null?fmt(valorVenda):'—'}</td>`;
-    return `<tr class="${mv?'rmodvend':(ehM?'rmodelo':'')}">
-      <td><strong>${label}</strong>${ehM?'<span class="badge">Casa Modelo</span>':''}</td>
+    return `<tr class="${mv?'rmodvend':(rs?'rreservada':(ehM?'rmodelo':''))}">
+      <td><strong>${label}</strong>${ehM?'<span class="badge">Casa Modelo</span>':''}${rs?`<span class="badge bres">${textoReserva(r)}</span>`:''}</td>
       ${celValores}
       <td style="font-size:12px">${cm}</td>
       <td>${lo?`<a class="btn ouro" href="${lo}" target="_blank">📍 Local</a>`:'—'}</td>
@@ -675,6 +773,10 @@ function buildTable(rows){
 
 loadData();
 setInterval(loadData, 5*60*1000);
+/* a cada minuto so REDESENHA com os dados que ja estao aqui: e o que faz
+   a contagem da reserva andar e o azul cair sozinho ao vencer as 24 h,
+   sem uma ida ao data.json por minuto */
+setInterval(function(){ if(window.__ROWS) { try{ if(typeof paintMap==='function') paintMap(window.__ROWS); buildTable(window.__ROWS); }catch(e){} } }, 60*1000);
 </script>
 </body>
 </html>
