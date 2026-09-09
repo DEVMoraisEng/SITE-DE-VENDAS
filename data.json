@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:00:31Z",
+  "updated_at": "2026-09-09T13:00:34Z",
   "rows": [
     {
       "id": "3d5c5ab5-32d3-80af-aff4-d5c12c5b504b",
@@ -17,7 +17,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3d5c5ab5-32d3-803b-9dec-ce7455135469",
@@ -35,7 +37,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cec5ab5-32d3-806e-a354-e456c343d798",
@@ -53,7 +57,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cec5ab5-32d3-8003-99c9-e503892ac9c7",
@@ -71,7 +77,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cec5ab5-32d3-809a-be7c-c5bf2e8b2df6",
@@ -89,7 +97,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cec5ab5-32d3-80d7-b96c-cd9579a2fcdf",
@@ -107,7 +117,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cec5ab5-32d3-80c4-88ae-e02fe7cbcf4a",
@@ -125,7 +137,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cec5ab5-32d3-80bf-9c52-cc06ba323fac",
@@ -143,7 +157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cec5ab5-32d3-80a2-bf80-de299f9bdd03",
@@ -161,7 +177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cac5ab5-32d3-80f9-924b-fbf7040c9ed9",
@@ -179,7 +197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3cac5ab5-32d3-8094-8060-ca46d3a56b21",
@@ -197,7 +217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3c7c5ab5-32d3-800f-931b-e1780987f030",
@@ -215,7 +237,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3c7c5ab5-32d3-80d9-a674-cb89a3e7ef91",
@@ -233,7 +257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3c7c5ab5-32d3-802b-b62a-fa95b7460aa8",
@@ -251,7 +277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3c7c5ab5-32d3-800f-b992-c7363a457417",
@@ -269,7 +297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3c0c5ab5-32d3-80b6-ab46-e668995202b7",
@@ -287,7 +317,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3c0c5ab5-32d3-80ac-9923-df9d23e02b3d",
@@ -305,7 +337,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3bcc5ab5-32d3-806e-85b7-c0e838de61df",
@@ -323,7 +357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3bcc5ab5-32d3-8071-b61a-fbfbbda8cb87",
@@ -341,7 +377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3bac5ab5-32d3-8044-84c6-d2f9d1f82fcf",
@@ -359,7 +397,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3bac5ab5-32d3-80e9-81ba-f17c67732d56",
@@ -377,7 +417,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b9c5ab5-32d3-8074-a57f-d9d31736a58c",
@@ -395,7 +437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b9c5ab5-32d3-80a6-b2f7-f26ccf136b01",
@@ -413,7 +457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b9c5ab5-32d3-80cd-9784-de8da39f949a",
@@ -431,7 +477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b9c5ab5-32d3-8014-8f5c-d4098ff5da0b",
@@ -449,7 +497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b8c5ab5-32d3-80c1-a382-d806d48892c9",
@@ -467,7 +517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b8c5ab5-32d3-80ae-ad97-ef5624fa4982",
@@ -485,7 +537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80fa-91d5-f956410be116",
@@ -503,7 +557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8039-84eb-e22c1763eb1e",
@@ -521,7 +577,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-809d-8de9-c735fb62a3c4",
@@ -539,7 +597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80ad-a76f-c3bf2224d32d",
@@ -557,7 +617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80a3-9a17-e9df3d5186a8",
@@ -575,7 +637,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80ba-9933-ff7f09296e6f",
@@ -593,7 +657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-804b-bf22-f038cfee2914",
@@ -611,7 +677,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8003-ba8b-ec7cf95159fe",
@@ -629,7 +697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8044-83a2-cfaaff70593f",
@@ -647,7 +717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80de-8187-ed80f743b788",
@@ -665,7 +737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-807e-a8d7-c7398f533d85",
@@ -683,7 +757,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8028-ab6c-d3dda85768d9",
@@ -701,7 +777,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80e6-9002-f4aa435e0723",
@@ -719,7 +797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8097-81f0-fe8d41ca5c0a",
@@ -737,7 +817,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8000-b8c6-d00984b9c351",
@@ -755,7 +837,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80b7-9952-f91e5acd518d",
@@ -773,7 +857,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-802a-a460-ce265aa1acbf",
@@ -791,7 +877,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80e4-bd34-fe49c2a3a118",
@@ -809,7 +897,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80c1-adec-e23868734907",
@@ -827,7 +917,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8076-9df9-d7a4235e65eb",
@@ -845,7 +937,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8007-9289-c0666cd04106",
@@ -863,7 +957,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80f6-b741-d326b05da933",
@@ -881,7 +977,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-809b-bf4e-ec49f135abfd",
@@ -899,7 +997,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8069-be8a-ceedb1d47cf8",
@@ -917,7 +1017,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8099-a310-e918ccf9ae40",
@@ -935,7 +1037,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-800e-a7db-e77f37fe5ec1",
@@ -953,7 +1057,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80f3-82ea-eec08ab3b1f5",
@@ -971,7 +1077,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-809b-b75d-fc0c441ba09f",
@@ -989,7 +1097,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8002-8ceb-f98f265e385b",
@@ -1007,7 +1117,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8086-b715-e022e366786a",
@@ -1025,7 +1137,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-809d-9925-ebf16f33f1b9",
@@ -1043,7 +1157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-807c-8961-d0c81b1dade9",
@@ -1061,7 +1177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8082-86bb-f637555dab7f",
@@ -1079,7 +1197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8053-86a2-f35e44cc4c03",
@@ -1097,7 +1217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8059-924b-f2808cc4da1b",
@@ -1115,7 +1237,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8081-8a98-c7c190b36af8",
@@ -1133,7 +1257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8064-890f-db8d2a787fe9",
@@ -1151,7 +1277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8046-bc50-f15f32181f3f",
@@ -1169,7 +1297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80f3-be82-c6dd42a4b57d",
@@ -1187,7 +1317,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-8092-a562-cdd488cbd6ca",
@@ -1205,7 +1337,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-807d-8641-cad594395013",
@@ -1223,7 +1357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b3c5ab5-32d3-8039-b7c3-efeb451c6573",
@@ -1241,7 +1377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b3c5ab5-32d3-80db-90a9-ec018e74a45f",
@@ -1259,7 +1397,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b3c5ab5-32d3-80b0-999d-dbbb21179d67",
@@ -1277,7 +1417,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b3c5ab5-32d3-80c2-8bc0-e2227ae1299a",
@@ -1295,7 +1437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b1c5ab5-32d3-80bd-b750-c37e69c9a65a",
@@ -1313,7 +1457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3adc5ab5-32d3-806e-84b0-f668979b47b0",
@@ -1331,7 +1477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 288750
+      "valorVenda": 288750,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3adc5ab5-32d3-80c6-bec1-fbe4b2d86aa6",
@@ -1349,7 +1497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3a7c5ab5-32d3-800b-81e0-c87dcba566dc",
@@ -1367,7 +1517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3a7c5ab5-32d3-8059-ba26-c43fcb6ee489",
@@ -1385,7 +1537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3a6c5ab5-32d3-8035-8b49-daa5379cc79d",
@@ -1403,7 +1557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3a6c5ab5-32d3-80df-9d89-cd8550903c18",
@@ -1421,7 +1577,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3a5c5ab5-32d3-807f-bfe0-ff1277db0af0",
@@ -1439,7 +1597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3a5c5ab5-32d3-80d3-8d51-e2e60309e558",
@@ -1457,7 +1617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3a5c5ab5-32d3-8045-8d4c-e4f525d9ee80",
@@ -1475,7 +1637,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "395c5ab5-32d3-8082-bb6c-c7054d7fd856",
@@ -1493,7 +1657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "395c5ab5-32d3-80b4-b856-c6f00b45d345",
@@ -1511,7 +1677,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "392c5ab5-32d3-80bd-a6e5-d3851b19ca32",
@@ -1529,7 +1697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "392c5ab5-32d3-8001-9d79-d7e0ed183a85",
@@ -1547,7 +1717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "390c5ab5-32d3-807a-93dd-f9b7faa37036",
@@ -1565,7 +1737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "390c5ab5-32d3-80ff-bd18-eb20d2f5214d",
@@ -1583,7 +1757,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "38fc5ab5-32d3-8057-82fd-d2523f3afe46",
@@ -1601,7 +1777,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "38fc5ab5-32d3-80a7-aadb-d4813352596d",
@@ -1619,7 +1797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "389c5ab5-32d3-8006-bade-f34d6de4a957",
@@ -1637,7 +1817,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "389c5ab5-32d3-809d-9a40-c9f52bf88144",
@@ -1655,7 +1837,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "389c5ab5-32d3-803f-9866-d17d93854419",
@@ -1673,7 +1857,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "387c5ab5-32d3-8003-8049-d2c6175747c1",
@@ -1691,7 +1877,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "387c5ab5-32d3-808f-9182-dfd4259feb0f",
@@ -1709,7 +1897,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "382c5ab5-32d3-809c-865b-cc7e6b161f2e",
@@ -1727,7 +1917,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "382c5ab5-32d3-80bd-b6bc-cdecc3c7dc55",
@@ -1745,7 +1937,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "382c5ab5-32d3-80c1-b460-e30bdbcb82d9",
@@ -1763,7 +1957,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "382c5ab5-32d3-8016-8f77-da1bd3030a19",
@@ -1781,7 +1977,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "382c5ab5-32d3-806f-9840-dd4f4cc35030",
@@ -1799,7 +1997,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "382c5ab5-32d3-8081-8729-cd2d736dad99",
@@ -1817,7 +2017,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "382c5ab5-32d3-80ef-b466-fd15c6a8e181",
@@ -1835,7 +2037,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "373c5ab5-32d3-8043-9f83-e1b58f07f3b7",
@@ -1853,7 +2057,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "373c5ab5-32d3-8092-a940-d4ebff1048ad",
@@ -1871,7 +2077,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "373c5ab5-32d3-8032-b183-f31f0d742eca",
@@ -1889,7 +2097,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "373c5ab5-32d3-8004-8d85-d4ace614c486",
@@ -1907,7 +2117,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "36fc5ab5-32d3-807b-a35e-fd5ba8604991",
@@ -1925,7 +2137,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "36fc5ab5-32d3-80a7-b47e-d73ee09052bd",
@@ -1943,7 +2157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "36fc5ab5-32d3-80ae-af29-c2c0f46380ce",
@@ -1961,7 +2177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "36fc5ab5-32d3-80ad-a352-d55a67d3d7c5",
@@ -1979,7 +2197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "36fc5ab5-32d3-809d-8e2c-e98976b82837",
@@ -1997,7 +2217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "36fc5ab5-32d3-804c-a2a3-dfebe2ca40d6",
@@ -2015,7 +2237,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "36cc5ab5-32d3-80f2-a65e-dfea04da88eb",
@@ -2033,7 +2257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "36cc5ab5-32d3-8069-a791-e967fe129896",
@@ -2051,7 +2277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "367c5ab5-32d3-80a4-92e1-d7f61370be1b",
@@ -2069,7 +2297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "367c5ab5-32d3-8084-843b-fa14c151d1ec",
@@ -2087,7 +2317,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "364c5ab5-32d3-801d-8ec9-f1fde81d7aff",
@@ -2105,7 +2337,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "364c5ab5-32d3-807e-b1e6-c80db02935ad",
@@ -2123,7 +2357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "361c5ab5-32d3-808a-a5dd-e00a1278417f",
@@ -2141,7 +2377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "361c5ab5-32d3-80cd-aa1c-cdfe20cb49c2",
@@ -2159,7 +2397,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "35fc5ab5-32d3-8084-9f41-e24ace133831",
@@ -2177,7 +2417,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "35fc5ab5-32d3-8005-9f06-d9ca969111cd",
@@ -2195,7 +2437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 287000
+      "valorVenda": 287000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "35dc5ab5-32d3-80a8-8e55-df8b5adce209",
@@ -2213,7 +2457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "35dc5ab5-32d3-80f7-a84a-f22b72772670",
@@ -2231,7 +2477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "35dc5ab5-32d3-80b4-8273-eacc7a5a608e",
@@ -2249,7 +2497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "35dc5ab5-32d3-80df-b953-d45b2448e8ee",
@@ -2267,7 +2517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "356c5ab5-32d3-80d8-886a-eb2e51b0f8b9",
@@ -2285,7 +2537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "356c5ab5-32d3-80d2-8c89-c0914456bc41",
@@ -2303,7 +2557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "356c5ab5-32d3-8004-abf6-f98fe3ffa209",
@@ -2321,7 +2577,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "356c5ab5-32d3-8038-bd2c-e483d37e93ea",
@@ -2339,7 +2597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8078-b846-c2eba774eb8b",
@@ -2357,7 +2617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8025-9b92-d2c23860977f",
@@ -2375,7 +2637,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 290000
+      "valorVenda": 290000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a6-811e-e83e89555554",
@@ -2393,7 +2657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8013-9556-c2cefc314e18",
@@ -2411,7 +2677,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80fe-b894-c0b55d94f3f1",
@@ -2429,7 +2697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 284000
+      "valorVenda": 284000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805c-b1d1-cf04d41dacf8",
@@ -2447,7 +2717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803f-8587-f42746dc0946",
@@ -2465,7 +2737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80cc-845c-db4d860733a4",
@@ -2483,7 +2757,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8074-a51d-d8031fbcc304",
@@ -2501,7 +2777,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8012-9078-d7a8b6a29186",
@@ -2519,7 +2797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8010-8483-e1c199bf9dc8",
@@ -2537,7 +2817,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8053-8f00-d82fea7d80a1",
@@ -2555,7 +2837,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 266000
+      "valorVenda": 266000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c7-bed0-ced9ee78990f",
@@ -2573,7 +2857,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f2-92b6-f1896dda2974",
@@ -2591,7 +2877,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 263000
+      "valorVenda": 263000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805a-9005-fec0349bc3f9",
@@ -2609,7 +2897,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807d-9cec-cba61d5fc1f3",
@@ -2627,7 +2917,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 291200
+      "valorVenda": 291200,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8067-a630-e5ae3a193c92",
@@ -2645,7 +2937,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 276000
+      "valorVenda": 276000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8058-a863-f154e3bf76f5",
@@ -2663,7 +2957,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805d-88e0-f77096e4b12e",
@@ -2681,7 +2977,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 298000
+      "valorVenda": 298000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d2-a69b-d9f25f5a67b5",
@@ -2699,7 +2997,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8052-80b8-c459d14fcd8f",
@@ -2717,7 +3017,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8058-9e60-f104dd2d48f5",
@@ -2735,7 +3037,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8025-bd6b-cb77a53c9235",
@@ -2753,7 +3057,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-b37a-d0c8cecf0812",
@@ -2771,7 +3077,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 281000
+      "valorVenda": 281000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8004-81cf-d558f8cf141c",
@@ -2789,7 +3097,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e9-a9ed-ed0f7c7a8a09",
@@ -2807,7 +3117,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 294000
+      "valorVenda": 294000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e6-8682-e8de7e7d60bf",
@@ -2825,7 +3137,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f3-b6b8-cfb7ae2738c3",
@@ -2843,7 +3157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 281000
+      "valorVenda": 281000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8040-b8eb-d9f971e3bf20",
@@ -2861,7 +3177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8034-bc48-feb628c45e03",
@@ -2879,7 +3197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 294000
+      "valorVenda": 294000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a5-8b3b-d9e8ed761688",
@@ -2897,7 +3217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 295000
+      "valorVenda": 295000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803c-a6d8-fa6c5fceeec3",
@@ -2915,7 +3237,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 283500
+      "valorVenda": 283500,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-806a-8660-ccdf23c79128",
@@ -2933,7 +3257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8073-a0db-ee953f476216",
@@ -2951,7 +3277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c3-92fc-db507351bd00",
@@ -2969,7 +3297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803a-aec3-fbedd0aa783f",
@@ -2987,7 +3317,9 @@
       "layout": "https://drive.google.com/file/d/1J_7506E1ynN9FvNIHlPdfI2J0upMvYOW/view?usp=drive_link",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-801f-a266-cf9ce99cb750",
@@ -3005,7 +3337,9 @@
       "layout": "https://drive.google.com/file/d/11JEDEddSl7FJu2pIadDDoddEN_RNzW5d/view?usp=drive_link",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8092-a2e5-dcae131e2dd7",
@@ -3023,7 +3357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 288750
+      "valorVenda": 288750,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8064-8a36-f9368e7cad55",
@@ -3041,7 +3377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b7-be1e-fc791fde0c82",
@@ -3059,7 +3397,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 271000
+      "valorVenda": 271000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803a-8595-d3ff2fae0adf",
@@ -3077,7 +3417,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8008-b2de-fbcac3dade2a",
@@ -3095,7 +3437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802a-985d-f1221cf64071",
@@ -3113,7 +3457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802c-9d60-d044e496c260",
@@ -3131,7 +3477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 276000
+      "valorVenda": 276000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a1-b04d-f0863ea2fcb1",
@@ -3149,7 +3497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e6-8da4-dc9f1b95dbd9",
@@ -3167,7 +3517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 260000
+      "valorVenda": 260000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-800e-b6d5-f8f734455c3f",
@@ -3185,7 +3537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 291800
+      "valorVenda": 291800,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d3-a62a-f248c08d3c8e",
@@ -3203,7 +3557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ba-b32b-de51425600e0",
@@ -3221,7 +3577,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803f-830a-c350bf487725",
@@ -3239,7 +3597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8050-b7ed-e5657c11aa10",
@@ -3257,7 +3617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 257500
+      "valorVenda": 257500,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a6-ad41-e71ddae68117",
@@ -3275,7 +3637,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8013-bc4c-f18ad847e13e",
@@ -3293,7 +3657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 281000
+      "valorVenda": 281000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804a-8dfd-d78402ca7d51",
@@ -3311,7 +3677,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 281000
+      "valorVenda": 281000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a5-9667-cc3c23d398d2",
@@ -3329,7 +3697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 267750
+      "valorVenda": 267750,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8050-a1d2-d903bdf2cf4d",
@@ -3347,7 +3717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8089-bc3f-fc7bf476c133",
@@ -3365,7 +3737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 294000
+      "valorVenda": 294000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8043-9c0b-d24344550665",
@@ -3383,7 +3757,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 282000
+      "valorVenda": 282000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8057-b445-e10bd46882c3",
@@ -3401,7 +3777,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ed-ab7e-e3cf69a64a43",
@@ -3419,7 +3797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807e-a74c-e50fbe794e16",
@@ -3437,7 +3817,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8052-9475-c38fdffd5076",
@@ -3455,7 +3837,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808f-bf21-f6a9c7c56957",
@@ -3473,7 +3857,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803b-9f2e-fded702d6b87",
@@ -3491,7 +3877,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b1-b5ac-c2d3197e99dd",
@@ -3509,7 +3897,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8052-a0bf-e784045922d3",
@@ -3527,7 +3917,9 @@
       "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/16%C2%B043'36.7%22S+49%C2%B005'58.1%22W/@-16.7269562,-49.1002108,312m/data=!3m1!1e3!4m4!3m3!8m2!3d-16.7268562!4d-49.0994759?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": 290000
+      "valorVenda": 290000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-800c-a85a-edfe58b433e0",
@@ -3545,7 +3937,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d6-b7d0-e035d889da32",
@@ -3563,7 +3957,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8047-a369-e568c58d8f39",
@@ -3581,7 +3977,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80bb-9b28-f4637f93f30f",
@@ -3599,7 +3997,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 277000
+      "valorVenda": 277000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809c-9293-c728c3b513d4",
@@ -3617,7 +4017,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8070-be03-e858e1214435",
@@ -3635,7 +4037,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8000-a63d-ec3df1375977",
@@ -3653,7 +4057,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8064-b2a7-c1db187c4d91",
@@ -3671,7 +4077,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c1-bda6-c20f5627c7bb",
@@ -3689,7 +4097,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8024-a2ef-f76755a563bb",
@@ -3707,7 +4117,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 267750
+      "valorVenda": 267750,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809d-9332-c39a65d94f46",
@@ -3725,7 +4137,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-b4cf-e1c98e5075bc",
@@ -3743,7 +4157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d1-b377-f433bd3e9460",
@@ -3761,7 +4177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 282400
+      "valorVenda": 282400,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804c-817d-d03585003a4c",
@@ -3779,7 +4197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802a-bcd8-c2550282380f",
@@ -3797,7 +4217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b7-9543-f0500f15f8d0",
@@ -3815,7 +4237,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8084-a309-e9314c5cca01",
@@ -3833,7 +4257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8023-b2df-c42262bb5601",
@@ -3851,7 +4277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c2-a585-ead6869fa4e1",
@@ -3869,7 +4297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 290000
+      "valorVenda": 290000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d3-91a2-f53b2510662a",
@@ -3887,7 +4317,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 264000
+      "valorVenda": 264000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8099-a30f-e6eb19602e13",
@@ -3905,7 +4337,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8087-978c-ccdb507f4aa7",
@@ -3923,7 +4357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8014-9d6d-e61f47aec013",
@@ -3941,7 +4377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-b855-c19ceeb51f4b",
@@ -3959,7 +4397,9 @@
       "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 257000
+      "valorVenda": 257000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a3-9d28-dfa1a830ae26",
@@ -3977,7 +4417,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 277000
+      "valorVenda": 277000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804b-9a0a-dc8fbbfc1eda",
@@ -3995,7 +4437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8056-859a-dbffa3ab660a",
@@ -4013,7 +4457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809c-9b4a-f6928a412991",
@@ -4031,7 +4477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8097-a67e-df7cb575303a",
@@ -4049,7 +4497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80bd-9b8e-f39f05a11712",
@@ -4067,7 +4517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8035-84c8-e1a2b4682ea4",
@@ -4085,7 +4537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 250000
+      "valorVenda": 250000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-806f-bfc7-e45ea6b2193b",
@@ -4103,7 +4557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 250000
+      "valorVenda": 250000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b9-81b8-e54e4d04d915",
@@ -4121,7 +4577,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a9-8d05-c937137307f6",
@@ -4139,7 +4597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-806f-b240-fadde01e2f62",
@@ -4157,7 +4617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8000-b24f-ed9c1931c6af",
@@ -4175,7 +4637,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 242250
+      "valorVenda": 242250,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b5-9934-ef18a59fe89b",
@@ -4193,7 +4657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 221000
+      "valorVenda": 221000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a1-a116-e6b3385f349a",
@@ -4211,7 +4677,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 215000
+      "valorVenda": 215000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8082-a998-e034053f25e5",
@@ -4229,7 +4697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 225000
+      "valorVenda": 225000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805b-884a-f3002639bc46",
@@ -4247,7 +4717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 220000
+      "valorVenda": 220000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8032-9c8f-eb81fd8c6e54",
@@ -4265,7 +4737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 207000
+      "valorVenda": 207000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ea-bc57-eceef247bc1c",
@@ -4283,7 +4757,9 @@
       "layout": "https://drive.google.com/file/d/13SIQpuHt2LcsQ0dMEWUVKPZ7C6EpfBWJ/view?usp=sharing",
       "localizacao": "https://www.google.com/maps/place/16%C2%B041'43.9%22S+49%C2%B025'03.2%22W/@-16.695528,-49.4201317,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.695528!4d-49.4175568?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": 225000
+      "valorVenda": 225000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804a-b502-de06cf4b826e",
@@ -4301,7 +4777,9 @@
       "layout": "https://drive.google.com/file/d/13SIQpuHt2LcsQ0dMEWUVKPZ7C6EpfBWJ/view?usp=sharing",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 225000
+      "valorVenda": 225000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c7-83e3-d73527611b00",
@@ -4319,7 +4797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 225000
+      "valorVenda": 225000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8094-81ef-e99a810c18a0",
@@ -4337,7 +4817,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 225000
+      "valorVenda": 225000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809a-8757-e04aa2970ee0",
@@ -4355,7 +4837,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 210000
+      "valorVenda": 210000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80de-af8e-ce9f53392015",
@@ -4373,7 +4857,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 205000
+      "valorVenda": 205000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-bc35-eed67f58c242",
@@ -4391,7 +4877,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 215000
+      "valorVenda": 215000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803b-b9c8-e777b3f4280d",
@@ -4409,7 +4897,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 214000
+      "valorVenda": 214000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802b-a306-c08647e76774",
@@ -4427,7 +4917,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808f-9dfa-d41ccbf1ef9f",
@@ -4445,7 +4937,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8027-9438-c66b0681c4f7",
@@ -4463,7 +4957,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a0-88cc-e399ff3c2ec0",
@@ -4481,7 +4977,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8023-b8e7-d22a4d3e49a9",
@@ -4499,7 +4997,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808f-a147-f6129e127cca",
@@ -4517,7 +5017,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8089-a166-d341f822921a",
@@ -4535,7 +5037,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e7-86b5-cee15ec8e240",
@@ -4553,7 +5057,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 268500
+      "valorVenda": 268500,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-800b-8cd6-c3785f673553",
@@ -4571,7 +5077,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809b-877c-d3228bcdb72d",
@@ -4589,7 +5097,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a8-afb2-fc974ce6aad9",
@@ -4607,7 +5117,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8009-90b5-e4d9a59cc82d",
@@ -4625,7 +5137,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 250000
+      "valorVenda": 250000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8054-85e9-d9bf1edfa028",
@@ -4643,7 +5157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8098-b3ed-d7949b2f3133",
@@ -4661,7 +5177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 296000
+      "valorVenda": 296000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8016-b0de-e43f34d040d1",
@@ -4679,7 +5197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e2-9e88-ffcafda172f8",
@@ -4697,7 +5217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80fc-b6ec-dc8be9a271f8",
@@ -4715,7 +5237,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80cf-b132-da616c96ebdc",
@@ -4733,7 +5257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807a-bb84-d91a883d8914",
@@ -4751,7 +5277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 262500
+      "valorVenda": 262500,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80fb-8d74-eab82c3c1590",
@@ -4769,7 +5297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8017-b241-e2deb964a1d6",
@@ -4787,7 +5317,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 287000
+      "valorVenda": 287000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a1-8726-e5009e5ad789",
@@ -4805,7 +5337,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 260000
+      "valorVenda": 260000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80bc-8c95-c837632b22f9",
@@ -4823,7 +5357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 250000
+      "valorVenda": 250000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808c-ba1f-c22fbc11337b",
@@ -4841,7 +5377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8047-ac26-e602dde6bd96",
@@ -4859,7 +5397,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 250000
+      "valorVenda": 250000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b4-b3eb-cb44eb0c0941",
@@ -4877,7 +5417,9 @@
       "layout": "https://drive.google.com/file/d/1rIpTH6OvvAGQ8Dbfha2ObHP7YwOE4iab/view?usp=drive_link",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 292000
+      "valorVenda": 292000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80fa-8245-db0d0b7edd98",
@@ -4895,7 +5437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 295000
+      "valorVenda": 295000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8055-8a5e-d16f7cf1e4b0",
@@ -4913,7 +5457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8012-9f91-f0a6b369f671",
@@ -4931,7 +5477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8080-b2e7-d957956f2fe4",
@@ -4949,7 +5497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 290000
+      "valorVenda": 290000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a2-8f4b-ec3b2c4406b7",
@@ -4967,7 +5517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 295000
+      "valorVenda": 295000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805e-b80c-eb64950f119a",
@@ -4985,7 +5537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8051-a3d7-e36f8c097d9d",
@@ -5003,7 +5557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8037-82fa-d0f7c6ee6748",
@@ -5021,7 +5577,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 264000
+      "valorVenda": 264000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8086-9bcd-d7e27080b9f8",
@@ -5039,7 +5597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8082-8465-f7e7431b8a1b",
@@ -5057,7 +5617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a3-8f34-f131bfd1c588",
@@ -5075,7 +5637,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 262500
+      "valorVenda": 262500,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-800a-a8c5-e32f23488530",
@@ -5093,7 +5657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 295000
+      "valorVenda": 295000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-806a-9a44-e7c70949c686",
@@ -5111,7 +5677,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 296000
+      "valorVenda": 296000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f6-a2ea-cf9c971a04d0",
@@ -5129,7 +5697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ac-b22c-e8fa43d84188",
@@ -5147,7 +5717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8087-97e3-e65826fc70d6",
@@ -5165,7 +5737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8045-878c-c8296b353270",
@@ -5183,7 +5757,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 240000
+      "valorVenda": 240000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-801f-a35e-eb198afdcd94",
@@ -5201,7 +5777,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 235000
+      "valorVenda": 235000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807f-abc0-e93e2978b750",
@@ -5219,7 +5797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808e-879c-fd73ecebe1a2",
@@ -5237,7 +5817,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 235000
+      "valorVenda": 235000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80bf-b8bf-df2d461c41e8",
@@ -5255,7 +5837,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 225000
+      "valorVenda": 225000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808f-8e8f-de98151459a9",
@@ -5273,7 +5857,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-806d-8762-eb0b9dc12b9d",
@@ -5291,7 +5877,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 250000
+      "valorVenda": 250000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8007-bf79-f44de956bfc8",
@@ -5309,7 +5897,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807b-a0c4-ca965307901a",
@@ -5327,7 +5917,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 252000
+      "valorVenda": 252000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b9-89d1-c0d2d38e6362",
@@ -5345,7 +5937,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 246750
+      "valorVenda": 246750,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f4-b363-c396a821525d",
@@ -5363,7 +5957,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8096-bd69-ff4377a26d1d",
@@ -5381,7 +5977,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805a-bdef-f339f0088a73",
@@ -5399,7 +5997,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 253000
+      "valorVenda": 253000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8034-8cf0-fd4c3299e6f9",
@@ -5417,7 +6017,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8088-aca1-ecbef3d4d7f1",
@@ -5435,7 +6037,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 261000
+      "valorVenda": 261000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8022-a375-fbff3dc4cd7f",
@@ -5453,7 +6057,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b0-b893-ed0511db9903",
@@ -5471,7 +6077,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808c-a373-d7743273419d",
@@ -5489,7 +6097,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8097-bc63-d595ecd39ca8",
@@ -5507,7 +6117,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8046-9fc0-e39894dc4bb6",
@@ -5525,7 +6137,9 @@
       "layout": "https://drive.google.com/file/d/1SBnLU-nVzkvjT1FeBcRtSnfBqNrZTz1b/view?usp=drive_link",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809b-ac77-f7b29ee07d4b",
@@ -5543,7 +6157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 305000
+      "valorVenda": 305000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8055-9f1d-c72dea82af90",
@@ -5561,7 +6177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 277000
+      "valorVenda": 277000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8018-8af3-c354ba421c76",
@@ -5579,7 +6197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803d-a747-da275afce491",
@@ -5597,7 +6217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c9-9de4-d2259b7420d8",
@@ -5615,7 +6237,9 @@
       "layout": "https://drive.google.com/file/d/13MDlaiSD2J27lL4uu2YO-g_65Y9DcuUf/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps?q=-16.67471694946289,-49.1344108581543&z=17&hl=pt-BR",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8062-bb3d-ecd5e88f464e",
@@ -5633,7 +6257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80be-b29c-ce9eb19312ac",
@@ -5651,7 +6277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8080-b3cb-f4ad48a6415e",
@@ -5669,7 +6297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807b-bc10-c3d1fbf21f33",
@@ -5687,7 +6317,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8060-ad68-f34d1d02bcfd",
@@ -5705,7 +6337,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d8-8813-c2b839f4f32c",
@@ -5723,7 +6357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d1-9b56-ddef4a5781e3",
@@ -5741,7 +6377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8029-b35f-d40bc264f058",
@@ -5759,7 +6397,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802a-a2df-cab311dab305",
@@ -5777,7 +6417,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8019-b5bc-f02b0ff5c521",
@@ -5795,7 +6437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f5-b8c5-ce960e18bca8",
@@ -5813,7 +6457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8065-86f7-d5900b6c1d5b",
@@ -5831,7 +6477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 287000
+      "valorVenda": 287000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8064-a0f7-ecde692b0140",
@@ -5849,7 +6497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802d-a8e6-e162bb1a680d",
@@ -5867,7 +6517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 287000
+      "valorVenda": 287000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8080-9e24-d109944da54c",
@@ -5885,7 +6537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f2-bf77-e75b014fd539",
@@ -5903,7 +6557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807a-9df8-c4df467068d6",
@@ -5921,7 +6577,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8094-8906-ddd7c668d2e2",
@@ -5939,7 +6597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b6-9719-cf7bf0c3f856",
@@ -5957,7 +6617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 259000
+      "valorVenda": 259000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8077-99ce-fdd236f851a5",
@@ -5975,7 +6637,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 330000
+      "valorVenda": 330000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8067-8a13-d129e20f5556",
@@ -5993,7 +6657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 260000
+      "valorVenda": 260000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807e-85d7-c2399896d5d4",
@@ -6011,7 +6677,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 260000
+      "valorVenda": 260000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c1-9182-ca3571bb581c",
@@ -6029,7 +6697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 262000
+      "valorVenda": 262000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e8-b383-cf90d4d0d2ab",
@@ -6047,7 +6717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 295000
+      "valorVenda": 295000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8021-b493-d326b7189fd1",
@@ -6065,7 +6737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 290000
+      "valorVenda": 290000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8084-8b44-ff714d15f711",
@@ -6083,7 +6757,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 217000
+      "valorVenda": 217000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808e-bac6-e4266d656cf3",
@@ -6101,7 +6777,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 230000
+      "valorVenda": 230000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8016-8903-d752e7dcae3d",
@@ -6119,7 +6797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 235000
+      "valorVenda": 235000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809b-bdb6-c8cd60a0d58f",
@@ -6137,7 +6817,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 235000
+      "valorVenda": 235000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-808e-8c6a-f59237789ad4",
@@ -6155,7 +6837,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 230000
+      "valorVenda": 230000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8006-a161-d05ed1359207",
@@ -6173,7 +6857,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 237000
+      "valorVenda": 237000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802c-b65a-dd6f88683070",
@@ -6191,7 +6877,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 235000
+      "valorVenda": 235000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-801a-bbe3-f5b52ab7acea",
@@ -6209,7 +6897,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8036-b2a0-db71d50fccb9",
@@ -6227,7 +6917,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 232000
+      "valorVenda": 232000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c9-ae81-daae1f6aec1e",
@@ -6245,7 +6937,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 235000
+      "valorVenda": 235000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f6-a6a3-c44ce8c16955",
@@ -6263,7 +6957,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 241500
+      "valorVenda": 241500,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a0-a5de-fc1f48ae61d8",
@@ -6281,7 +6977,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 249600
+      "valorVenda": 249600,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80fe-8e3f-c193a5029a33",
@@ -6299,7 +6997,9 @@
       "layout": "",
       "localizacao": "https://www.google.com/maps/place/Av.+Casemiro+J.+Marqu%C3%AAs+de+Abreu,+222-314+-+Jardim+Marques+de+Abreu,+Goi%C3%A2nia+-+GO,+74391-200/data=!4m6!3m5!1s0x935e58a764c61f51:0x6204cae29ac9ad49!7e2!8m2!3d-16.7125163!4d-49.365680999999995!18m1!1e1?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI2LjMzLjIYACCenQoqswEsOTQyNjc3MjcsOTQyOTIxOTUsOTQyOTk1MzIsMTAwNzk2NDk4LDEwMDc5Nzc2MSwxMDA4MjY0NzksMTAwNzk2NTM1LDk0MjgwNTc2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE4NjUzLDk0MjI5ODM5LDk0Mjc1MTY4LDk0Mjc5NjE5LDEwMDgxNTYzNSwxMDA4MjAyMzcsMTAwODIyNDg5LDEwMDgwNDk3NkICQlI%3D&skid=9cd5db66-33c7-4512-97a1-6baf11a78976&g_st=awb",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809b-8e68-c1cf43c4c4be",
@@ -6317,7 +7017,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80dc-993a-ea5109aa9748",
@@ -6335,7 +7037,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8057-b883-dcc7acaf0680",
@@ -6353,7 +7057,9 @@
       "layout": "",
       "localizacao": "https://www.google.com/maps/place/Av.+Casemiro+J.+Marqu%C3%AAs+de+Abreu,+222-314+-+Jardim+Marques+de+Abreu,+Goi%C3%A2nia+-+GO,+74391-200/data=!4m6!3m5!1s0x935e58a764c61f51:0x6204cae29ac9ad49!7e2!8m2!3d-16.7125163!4d-49.365680999999995!18m1!1e1?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI2LjMzLjIYACCenQoqswEsOTQyNjc3MjcsOTQyOTIxOTUsOTQyOTk1MzIsMTAwNzk2NDk4LDEwMDc5Nzc2MSwxMDA4MjY0NzksMTAwNzk2NTM1LDk0MjgwNTc2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE4NjUzLDk0MjI5ODM5LDk0Mjc1MTY4LDk0Mjc5NjE5LDEwMDgxNTYzNSwxMDA4MjAyMzcsMTAwODIyNDg5LDEwMDgwNDk3NkICQlI%3D&skid=9cd5db66-33c7-4512-97a1-6baf11a78976&g_st=awb",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80fb-9d5d-d4dde5ebfd21",
@@ -6371,7 +7077,9 @@
       "layout": "https://drive.google.com/file/d/1hKmI19H3Oqe86vmMfHNXNOsUHZNUY-BY/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/Av.+Casemiro+J.+Marqu%C3%AAs+de+Abreu,+222-314+-+Jardim+Marques+de+Abreu,+Goi%C3%A2nia+-+GO,+74391-200/data=!4m6!3m5!1s0x935e58a764c61f51:0x6204cae29ac9ad49!7e2!8m2!3d-16.7125163!4d-49.365680999999995!18m1!1e1?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI2LjMzLjIYACCenQoqswEsOTQyNjc3MjcsOTQyOTIxOTUsOTQyOTk1MzIsMTAwNzk2NDk4LDEwMDc5Nzc2MSwxMDA4MjY0NzksMTAwNzk2NTM1LDk0MjgwNTc2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE4NjUzLDk0MjI5ODM5LDk0Mjc1MTY4LDk0Mjc5NjE5LDEwMDgxNTYzNSwxMDA4MjAyMzcsMTAwODIyNDg5LDEwMDgwNDk3NkICQlI%3D&skid=9cd5db66-33c7-4512-97a1-6baf11a78976&g_st=awb",
       "comissao": null,
-      "valorVenda": 310000
+      "valorVenda": 310000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ae-bcaf-cd78115d868b",
@@ -6389,7 +7097,9 @@
       "layout": "https://drive.google.com/file/d/1lCB9PhdDsxGaCPcrDwIJlIX3zycbFfOn/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/Av.+Casemiro+J.+Marqu%C3%AAs+de+Abreu,+222-314+-+Jardim+Marques+de+Abreu,+Goi%C3%A2nia+-+GO,+74391-200/data=!4m6!3m5!1s0x935e58a764c61f51:0x6204cae29ac9ad49!7e2!8m2!3d-16.7125163!4d-49.365680999999995!18m1!1e1?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI2LjMzLjIYACCenQoqswEsOTQyNjc3MjcsOTQyOTIxOTUsOTQyOTk1MzIsMTAwNzk2NDk4LDEwMDc5Nzc2MSwxMDA4MjY0NzksMTAwNzk2NTM1LDk0MjgwNTc2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE4NjUzLDk0MjI5ODM5LDk0Mjc1MTY4LDk0Mjc5NjE5LDEwMDgxNTYzNSwxMDA4MjAyMzcsMTAwODIyNDg5LDEwMDgwNDk3NkICQlI%3D&skid=9cd5db66-33c7-4512-97a1-6baf11a78976&g_st=awb",
       "comissao": null,
-      "valorVenda": 295000
+      "valorVenda": 295000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8076-834b-f832356f270f",
@@ -6407,7 +7117,9 @@
       "layout": "https://drive.google.com/file/d/1Omhvfmh2UtanTb_RZMKC52RpTpl6jt__/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/Av.+Casemiro+J.+Marqu%C3%AAs+de+Abreu,+222-314+-+Jardim+Marques+de+Abreu,+Goi%C3%A2nia+-+GO,+74391-200/data=!4m6!3m5!1s0x935e58a764c61f51:0x6204cae29ac9ad49!7e2!8m2!3d-16.7125163!4d-49.365680999999995!18m1!1e1?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI2LjMzLjIYACCenQoqswEsOTQyNjc3MjcsOTQyOTIxOTUsOTQyOTk1MzIsMTAwNzk2NDk4LDEwMDc5Nzc2MSwxMDA4MjY0NzksMTAwNzk2NTM1LDk0MjgwNTc2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE4NjUzLDk0MjI5ODM5LDk0Mjc1MTY4LDk0Mjc5NjE5LDEwMDgxNTYzNSwxMDA4MjAyMzcsMTAwODIyNDg5LDEwMDgwNDk3NkICQlI%3D&skid=9cd5db66-33c7-4512-97a1-6baf11a78976&g_st=awb",
       "comissao": null,
-      "valorVenda": 295000
+      "valorVenda": 295000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8093-998b-de2a81db10aa",
@@ -6425,7 +7137,9 @@
       "layout": "",
       "localizacao": "https://www.google.com/maps/place/Av.+Casemiro+J.+Marqu%C3%AAs+de+Abreu,+222-314+-+Jardim+Marques+de+Abreu,+Goi%C3%A2nia+-+GO,+74391-200/data=!4m6!3m5!1s0x935e58a764c61f51:0x6204cae29ac9ad49!7e2!8m2!3d-16.7125163!4d-49.365680999999995!18m1!1e1?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI2LjMzLjIYACCenQoqswEsOTQyNjc3MjcsOTQyOTIxOTUsOTQyOTk1MzIsMTAwNzk2NDk4LDEwMDc5Nzc2MSwxMDA4MjY0NzksMTAwNzk2NTM1LDk0MjgwNTc2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE4NjUzLDk0MjI5ODM5LDk0Mjc1MTY4LDk0Mjc5NjE5LDEwMDgxNTYzNSwxMDA4MjAyMzcsMTAwODIyNDg5LDEwMDgwNDk3NkICQlI%3D&skid=9cd5db66-33c7-4512-97a1-6baf11a78976&g_st=awb",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804e-bec2-cc0a7c854177",
@@ -6443,7 +7157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804c-b10a-c4387ad4fc81",
@@ -6461,7 +7177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8087-ba3c-ccdc4de7d39a",
@@ -6479,7 +7197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8013-a083-ec105d2318a6",
@@ -6497,7 +7217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805e-bf9d-fddad8029e22",
@@ -6515,7 +7237,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ed-a61b-f93cc10bf6f0",
@@ -6533,7 +7257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80aa-a6ef-d374fd93ca0e",
@@ -6551,7 +7277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80df-bfac-fae2613329eb",
@@ -6569,7 +7297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-800d-baa7-c5f480b7c4e1",
@@ -6587,7 +7317,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-800e-9064-d9a86ec7c54c",
@@ -6605,7 +7337,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d1-a6b0-f0ae96deb125",
@@ -6623,7 +7357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80cd-8fa3-caacea6025d2",
@@ -6641,7 +7377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ea-832d-faedec19b215",
@@ -6659,7 +7397,9 @@
       "layout": "https://drive.google.com/file/d/1RSCzHYXxM9vVZzX1ORz6UwQqGEm27TBd/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/16%C2%B041'01.7%22S+49%C2%B021'04.3%22W/@-16.6838074,-49.3537636,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.6838074!4d-49.3511887?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b8-8d2d-e9a5c6c4a199",
@@ -6677,7 +7417,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ed-95b2-cd486f23c4ca",
@@ -6695,7 +7437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809f-9a41-caa693b1007f",
@@ -6713,7 +7457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 290000
+      "valorVenda": 290000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8091-94b7-d41e1f018bf7",
@@ -6731,7 +7477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ba-812e-dbbf5be79f33",
@@ -6749,7 +7497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e3-bd19-fcde062878f2",
@@ -6767,7 +7517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804d-ae82-ccf3898c1754",
@@ -6785,7 +7537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ee-8b76-fc081a0eedd9",
@@ -6803,7 +7557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 270000
+      "valorVenda": 270000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8049-8c4f-d5016683beb4",
@@ -6821,7 +7577,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 250000
+      "valorVenda": 250000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80de-b288-f5f480b17b36",
@@ -6839,7 +7597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000
+      "valorVenda": 265000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8008-a102-cf3703bc0795",
@@ -6857,7 +7617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 260000
+      "valorVenda": 260000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8066-b40b-e1116ad75d34",
@@ -6875,7 +7637,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8067-b4b7-da5e5b9b3d30",
@@ -6893,7 +7657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f3-9c46-f1a9d460f417",
@@ -6911,7 +7677,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8001-a5c0-fc9b581282e0",
@@ -6929,7 +7697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a1-8d68-f4f717ea1f8d",
@@ -6947,7 +7717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80be-a41f-fef0dffe617b",
@@ -6965,7 +7737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b3-9184-c98920dffcdf",
@@ -6983,7 +7757,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a2-bb56-e88b0205154d",
@@ -7001,7 +7777,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 252000
+      "valorVenda": 252000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8060-8868-f13be2992618",
@@ -7019,7 +7797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 263000
+      "valorVenda": 263000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8071-97a7-d18e82d27416",
@@ -7037,7 +7817,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 245000
+      "valorVenda": 245000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805e-9457-e8cbc8a5a127",
@@ -7055,7 +7837,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255000
+      "valorVenda": 255000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8053-96e5-d56628457972",
@@ -7073,7 +7857,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 250000
+      "valorVenda": 250000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804f-9045-e5b1db78db9a",
@@ -7091,7 +7877,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 249000
+      "valorVenda": 249000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8005-8d18-c27523fa9794",
@@ -7109,7 +7897,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 252000
+      "valorVenda": 252000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8020-9363-fef3e428a981",
@@ -7127,7 +7917,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 252000
+      "valorVenda": 252000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8022-8bd5-fdd31c9f9379",
@@ -7145,7 +7937,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 255800
+      "valorVenda": 255800,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8060-83f9-ea7081ce630c",
@@ -7163,7 +7957,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 240000
+      "valorVenda": 240000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c4-97a2-c24b80f7dc85",
@@ -7181,7 +7977,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 240000
+      "valorVenda": 240000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8089-a0fa-d802836c470d",
@@ -7199,7 +7997,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 342000
+      "valorVenda": 342000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80bd-9f0b-fa6bf200ff6a",
@@ -7217,7 +8017,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 242000
+      "valorVenda": 242000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8098-a516-ef2b70791e2d",
@@ -7235,7 +8037,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 242000
+      "valorVenda": 242000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80f5-933b-e0892a300de0",
@@ -7253,7 +8057,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 240000
+      "valorVenda": 240000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8091-a107-d142d1a38e55",
@@ -7271,7 +8077,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 320000
+      "valorVenda": 320000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-807b-82d3-f0cd6227cfdb",
@@ -7289,7 +8097,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8047-b193-d854ee5fb76b",
@@ -7307,7 +8117,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b1-82ba-c76a4451acca",
@@ -7325,7 +8137,9 @@
       "layout": "https://drive.google.com/file/d/1GZgKcc39Oj09boXsOzWrgb-NqNM2wIxn/view?usp=drive_link",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
@@ -7343,7 +8157,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e5-bc8d-e6b97ad403ed",
@@ -7361,7 +8177,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 290000
+      "valorVenda": 290000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a8-bc27-d75e2182621f",
@@ -7379,7 +8197,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 273000
+      "valorVenda": 273000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-801a-9134-ea12d389a398",
@@ -7397,7 +8217,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8066-a221-ca02f36e13f5",
@@ -7415,7 +8237,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 275000
+      "valorVenda": 275000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809f-a766-d27da5515dbd",
@@ -7433,7 +8257,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 280000
+      "valorVenda": 280000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8045-a32f-f03d9cb07458",
@@ -7451,7 +8277,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a0-9e98-c71579eaec21",
@@ -7469,7 +8297,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80a3-820d-efae46ac0030",
@@ -7487,7 +8317,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8055-b1cb-dac09574e9de",
@@ -7505,7 +8337,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-803f-8ac3-e1f2a14b22bd",
@@ -7523,7 +8357,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 286000
+      "valorVenda": 286000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8083-b91e-cbcafc9d36b4",
@@ -7541,7 +8377,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000
+      "valorVenda": 285000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802b-94a6-c4cac6f8d98a",
@@ -7559,7 +8397,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 230000
+      "valorVenda": 230000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-802a-b339-c58ddf914a50",
@@ -7577,7 +8417,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80ae-83f4-ff4598cd40c9",
@@ -7595,7 +8437,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8054-9eb5-fbf983cd2fb8",
@@ -7613,7 +8457,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80d6-834b-e696dfc24e4d",
@@ -7631,7 +8477,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80fd-a5b5-c90803c9308f",
@@ -7649,7 +8497,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-806b-b2aa-ea30e2da9552",
@@ -7667,7 +8517,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809d-a6ca-cad683689432",
@@ -7685,7 +8537,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80bc-8628-c48a55cfe3a8",
@@ -7703,7 +8557,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 305000
+      "valorVenda": 305000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8007-bdf8-e2fe0b64abe4",
@@ -7721,7 +8577,9 @@
       "layout": "https://drive.google.com/file/d/10FMOR6qYaNL3mm3UkkbJVJQFhoec2wns/view?usp=drivesdk",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 305000
+      "valorVenda": 305000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8053-87ea-fa36e5eaaf88",
@@ -7739,7 +8597,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 305000
+      "valorVenda": 305000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80e6-a2c5-f744c0e8891a",
@@ -7757,7 +8617,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-804e-a90e-da1630675a7d",
@@ -7775,7 +8637,9 @@
       "layout": "https://drive.google.com/file/d/1Fn_x0q5MhxOGYNePT_EbJjwP4OQjBVgS/view?usp=drivesdk",
       "localizacao": "https://www.google.com/maps/place/16%C2%B044'48.7%22S+49%C2%B021'25.3%22W/@-16.7468611,-49.3570278,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.7468611!4d-49.3570278?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": null
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8077-abc9-f8a0fe5dde04",
@@ -7793,7 +8657,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-801b-91b1-e37a3528c848",
@@ -7811,7 +8677,9 @@
       "layout": "https://drive.google.com/file/d/1H__1yfQmRniHieaOr7UtEvBv2iFm3RYT/view?usp=drivesdk",
       "localizacao": "https://www.google.com/maps/place/16%C2%B044'48.7%22S+49%C2%B021'25.3%22W/@-16.7468567,-49.3595886,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.7468567!4d-49.3570137?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8020-8a2d-de26c3b7925d",
@@ -7829,7 +8697,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80c6-a8e1-f336e5373326",
@@ -7847,7 +8717,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80da-a548-ddafac49e67e",
@@ -7865,7 +8737,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8096-be49-faaaf82dc092",
@@ -7883,7 +8757,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 290000
+      "valorVenda": 290000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80b5-95f8-d1677aaf41b1",
@@ -7901,7 +8777,9 @@
       "layout": "https://drive.google.com/file/d/10FMOR6qYaNL3mm3UkkbJVJQFhoec2wns/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/16%C2%B044'48.7%22S+49%C2%B021'25.3%22W/@-16.7468567,-49.3595886,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.7468567!4d-49.3570137?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8063-935c-f5f7ffdef64c",
@@ -7919,7 +8797,9 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000
+      "valorVenda": 300000,
+      "reservada": "NÃO",
+      "dataReserva": null
     }
   ],
   "disponibilidades": [
