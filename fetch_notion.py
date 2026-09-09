@@ -77,6 +77,20 @@ def get_prop(page, name):
         return None
     return None
 
+def gp_(page, *nomes):
+    """Primeira propriedade que existir, entre variações de nome.
+
+    A base de VENDAS tem coluna com espaço sobrando e grafia que muda
+    ("DATA DA RESERVA" / "DATA RESERVA"). Sem isso, renomear a coluna no
+    Notion faria o site parar de pintar as reservas em silêncio.
+    """
+    for n in nomes:
+        v = get_prop(page, n)
+        if v is not None:
+            return v
+    return None
+
+
 def normalize_venda(page):
     return {
         "id":       page["id"],
@@ -95,6 +109,14 @@ def normalize_venda(page):
         "localizacao": get_prop(page, "LOCALIZAÇÃO") or "",
         "comissao":  get_prop(page, "COMISSÃO") or get_prop(page, "COMISSAO"),
         "valorVenda": get_prop(page, "VALOR DE COMPRA E VENDA NO CONTRATO (VENDIDA)"),
+        # RESERVADA (item 2 do pedido): SIM pinta a casa de azul no mapa.
+        # dataReserva é quando o SIM foi marcado — é dela que sai a contagem
+        # das 24h na tela. Quem preenche essa data é o Apps Script
+        # (verificarReservas), não a pessoa; se a coluna ainda não existir no
+        # Notion, vem vazia e o site só mostra "Reservada 24h", sem contagem.
+        "reservada": gp_(page, "RESERVADA", "RESERVADA?", "RESERVADA ") or "",
+        "dataReserva": gp_(page, "DATA DA RESERVA", "DATA RESERVA",
+                           "DATA DA RESERVA ", "INÍCIO DA RESERVA"),
     }
 
 def normalize_disp(page):
