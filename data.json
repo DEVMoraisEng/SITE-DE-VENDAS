@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T15:00:29Z",
+  "updated_at": "2026-09-13T16:00:56Z",
   "rows": [
     {
       "id": "3d5c5ab5-32d3-80af-aff4-d5c12c5b504b",
@@ -3049,7 +3049,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "AMANDA SILVA RODRIGUES",
       "avaliacao": 347000,
       "valorMao": 270000,
       "entregou": "NÃO",
@@ -3057,7 +3057,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 281500,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8889,7 +8889,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 9
+      "qtd": 8
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
