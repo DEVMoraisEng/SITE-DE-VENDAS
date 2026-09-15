@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-15T16:00:51Z",
+  "updated_at": "2026-09-15T16:11:00Z",
   "rows": [
     {
       "id": "3d5c5ab5-32d3-80af-aff4-d5c12c5b504b",
       "endereco": "TB 19 QD 51 LT 20",
-      "casa": "",
+      "casa": 2,
       "ref": "",
       "setor": "",
       "tipo": null,
@@ -44,7 +44,7 @@
     {
       "id": "3cec5ab5-32d3-806e-a354-e456c343d798",
       "endereco": "TB 18 QD 49 LT 26",
-      "casa": "",
+      "casa": 2,
       "ref": "",
       "setor": "",
       "tipo": null,
@@ -1406,7 +1406,7 @@
       "endereco": "TB 21 QD 51 LT 38",
       "casa": 2,
       "ref": "",
-      "setor": "",
+      "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "",
       "cliente": "",
@@ -1423,10 +1423,10 @@
     },
     {
       "id": "3b3c5ab5-32d3-80c2-8bc0-e2227ae1299a",
-      "endereco": "",
-      "casa": "",
+      "endereco": "TB 21 QD 51 LT 38",
+      "casa": 1,
       "ref": "",
-      "setor": "",
+      "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "",
       "cliente": "",
