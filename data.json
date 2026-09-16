@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-16T12:26:50Z",
+  "updated_at": "2026-09-16T12:50:50Z",
   "rows": [
+    {
+      "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "",
+      "tipo": null,
+      "modelo": "NÃO",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "NÃO",
+      "fotos": "",
+      "layout": "",
+      "localizacao": "",
+      "comissao": null,
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
+    },
     {
       "id": "3dcc5ab5-32d3-806e-af4e-fe7f43ef590a",
       "endereco": "",
