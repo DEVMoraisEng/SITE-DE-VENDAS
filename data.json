@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:00:29Z",
+  "updated_at": "2026-09-16T23:00:29Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -2629,7 +2629,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "ANDRESA DE JESUS CARVALHO",
       "avaliacao": 345000,
       "valorMao": 270000,
       "entregou": "NÃO",
@@ -8909,7 +8909,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 7
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
