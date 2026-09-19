@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:40:30Z",
+  "updated_at": "2026-09-19T12:00:51Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -3172,7 +3172,7 @@
       "cliente": "JOSEVANIO ALMEIDA DOS SANTOS ",
       "avaliacao": 332000,
       "valorMao": 266000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "localizacao": "",
@@ -3232,7 +3232,7 @@
       "cliente": "ALINE DE CAMPOS SILVA",
       "avaliacao": 348500,
       "valorMao": 280000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "localizacao": "",
@@ -3692,7 +3692,7 @@
       "cliente": "RAILAN RODRIGUES MOREIRA",
       "avaliacao": 336000,
       "valorMao": 266000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "localizacao": "",
