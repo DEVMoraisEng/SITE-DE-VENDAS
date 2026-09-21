@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:20:54Z",
+  "updated_at": "2026-09-21T19:30:55Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -243,7 +243,7 @@
     },
     {
       "id": "3cac5ab5-32d3-80f9-924b-fbf7040c9ed9",
-      "endereco": "TB 21 QD 50 LT34",
+      "endereco": "TB 21 QD 50 LT 34",
       "casa": 2,
       "ref": "TB109",
       "setor": "TERRABELA CERRADO",
@@ -1323,7 +1323,7 @@
     },
     {
       "id": "3b5c5ab5-32d3-80f3-be82-c6dd42a4b57d",
-      "endereco": "TB 19 QD 51 LT 17 ",
+      "endereco": "TB 19 QD 51 LT 17",
       "casa": 2,
       "ref": "TB121",
       "setor": "TERRABELA CERRADO",
@@ -1363,7 +1363,7 @@
     },
     {
       "id": "3b5c5ab5-32d3-807d-8641-cad594395013",
-      "endereco": "TB 25 QD 47 LT 44 ",
+      "endereco": "TB 25 QD 47 LT 44",
       "casa": 2,
       "ref": "TB115",
       "setor": "TERRABELA CERRADO",
@@ -1463,7 +1463,7 @@
     },
     {
       "id": "3b1c5ab5-32d3-80bd-b750-c37e69c9a65a",
-      "endereco": "RPB 24 QD 26A LT 01 ",
+      "endereco": "RPB 24 QD 26A LT 01",
       "casa": 2,
       "ref": "RPB8",
       "setor": "PQ DOS BURITIS",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": "3a6c5ab5-32d3-8035-8b49-daa5379cc79d",
-      "endereco": "SV-24 QD 40 LT 21",
+      "endereco": "SV 24 QD 40 LT 21",
       "casa": 2,
       "ref": "S10",
       "setor": "SOLAR VILLE",
@@ -1583,7 +1583,7 @@
     },
     {
       "id": "3a6c5ab5-32d3-80df-9d89-cd8550903c18",
-      "endereco": "SV-24 QD 40 LT 21",
+      "endereco": "SV 24 QD 40 LT 21",
       "casa": 1,
       "ref": "S9",
       "setor": "SOLAR VILLE",
@@ -1663,7 +1663,7 @@
     },
     {
       "id": "395c5ab5-32d3-8082-bb6c-c7054d7fd856",
-      "endereco": "SV-26 QD 40 LT 17",
+      "endereco": "SV 26 QD 40 LT 17",
       "casa": 2,
       "ref": "S2",
       "setor": "SOLAR VILLE",
@@ -1683,7 +1683,7 @@
     },
     {
       "id": "395c5ab5-32d3-80b4-b856-c6f00b45d345",
-      "endereco": "SV-26 QD 40 LT 17",
+      "endereco": "SV 26 QD 40 LT 17",
       "casa": 1,
       "ref": "S1",
       "setor": "SOLAR VILLE",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "36fc5ab5-32d3-80a7-b47e-d73ee09052bd",
-      "endereco": "TB 18 QD0 49 LT 30",
+      "endereco": "TB 18 QD 00 49 LT 30",
       "casa": 2,
       "ref": "TB109",
       "setor": "TERRABELA CERRADO",
@@ -3543,7 +3543,7 @@
     },
     {
       "id": "33cc5ab5-32d3-800e-b6d5-f8f734455c3f",
-      "endereco": "TB 19  QD 50 LT 04",
+      "endereco": "TB 19 QD 50 LT 04",
       "casa": 2,
       "ref": "TB50",
       "setor": "TERRABELA CERRADO",
@@ -3563,7 +3563,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80d3-a62a-f248c08d3c8e",
-      "endereco": "TB 19  QD 50 LT 04",
+      "endereco": "TB 19 QD 50 LT 04",
       "casa": 1,
       "ref": "TB49",
       "setor": "TERRABELA CERRADO",
@@ -3583,7 +3583,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80ba-b32b-de51425600e0",
-      "endereco": "TB 19  QD 50 LT 03",
+      "endereco": "TB 19 QD 50 LT 03",
       "casa": 2,
       "ref": "TB48",
       "setor": "TERRABELA CERRADO",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": "33cc5ab5-32d3-803f-830a-c350bf487725",
-      "endereco": "TB 19  QD 50 LT 03",
+      "endereco": "TB 19 QD 50 LT 03",
       "casa": 1,
       "ref": "TB47",
       "setor": "TERRABELA CERRADO",
@@ -3703,7 +3703,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80a5-9667-cc3c23d398d2",
-      "endereco": "TB 17 QD 48 LT 44 ",
+      "endereco": "TB 17 QD 48 LT 44",
       "casa": 2,
       "ref": "TB42",
       "setor": "TERRABELA CERRADO",
@@ -4723,7 +4723,7 @@
     },
     {
       "id": "33cc5ab5-32d3-805b-884a-f3002639bc46",
-      "endereco": "LUIS ALBERTO MONTEIRO ESPIRITO SANTO  QD 11 LT 22",
+      "endereco": "LUIS ALBERTO MONTEIRO ESPIRITO SANTO QD 11 LT 22",
       "casa": 1,
       "ref": "EF10",
       "setor": "ST EFIGÊNIA",
@@ -4783,7 +4783,7 @@
     },
     {
       "id": "33cc5ab5-32d3-804a-b502-de06cf4b826e",
-      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 03 ",
+      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 03",
       "casa": 1,
       "ref": "EF7",
       "setor": "ST EFIGÊNIA",
@@ -4823,7 +4823,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8094-81ef-e99a810c18a0",
-      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 02 ",
+      "endereco": "GERCINA BORGES TEIXEIRA QD 02 LT 02",
       "casa": 1,
       "ref": "EF5",
       "setor": "ST EFIGÊNIA",
@@ -6623,7 +6623,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80b6-9719-cf7bf0c3f856",
-      "endereco": "RPB 21 QD 26 LT 1--2",
+      "endereco": "RPB 21 QD 26 LT 01 2",
       "casa": 5,
       "ref": "RPB7",
       "setor": "PQ DOS BURITIS",
@@ -6643,7 +6643,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8077-99ce-fdd236f851a5",
-      "endereco": "RPB 21 QD 26 LT 1--2",
+      "endereco": "RPB 21 QD 26 LT 01 2",
       "casa": 4,
       "ref": "RPB6",
       "setor": "PQ DOS BURITIS",
@@ -6663,7 +6663,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8067-8a13-d129e20f5556",
-      "endereco": "RPB 21 QD 26 LT 1--2",
+      "endereco": "RPB 21 QD 26 LT 01 2",
       "casa": 3,
       "ref": "RPB5",
       "setor": "PQ DOS BURITIS",
@@ -6683,7 +6683,7 @@
     },
     {
       "id": "33cc5ab5-32d3-807e-85d7-c2399896d5d4",
-      "endereco": "RPB 21 QD 26 LT 1--2",
+      "endereco": "RPB 21 QD 26 LT 01 2",
       "casa": 2,
       "ref": "RPB4",
       "setor": "PQ DOS BURITIS",
@@ -6703,7 +6703,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80c1-9182-ca3571bb581c",
-      "endereco": "RPB 21 QD 26 LT 1--2",
+      "endereco": "RPB 21 QD 26 LT 01 2",
       "casa": 1,
       "ref": "RPB3",
       "setor": "PQ DOS BURITIS",
@@ -7003,7 +7003,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80fe-8e3f-c193a5029a33",
-      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B3",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 08 11 B 3",
       "casa": 4,
       "ref": "M11",
       "setor": "MARQUES DE ABREU",
@@ -7023,7 +7023,7 @@
     },
     {
       "id": "33cc5ab5-32d3-809b-8e68-c1cf43c4c4be",
-      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B3",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 08 11 B 3",
       "casa": 3,
       "ref": "M10",
       "setor": "MARQUES DE ABREU",
@@ -7043,7 +7043,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80dc-993a-ea5109aa9748",
-      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B3",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 08 11 B 3",
       "casa": 2,
       "ref": "M9",
       "setor": "MARQUES DE ABREU",
@@ -7063,7 +7063,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8057-b883-dcc7acaf0680",
-      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B3",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 08 11 B 3",
       "casa": 1,
       "ref": "M8",
       "setor": "MARQUES DE ABREU",
@@ -7083,7 +7083,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80fb-9d5d-d4dde5ebfd21",
-      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B2",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 08 11 B 2",
       "casa": 3,
       "ref": "M7",
       "setor": "MARQUES DE ABREU",
@@ -7103,7 +7103,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80ae-bcaf-cd78115d868b",
-      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B2",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 08 11 B 2",
       "casa": 2,
       "ref": "M6",
       "setor": "MARQUES DE ABREU",
@@ -7123,7 +7123,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8076-834b-f832356f270f",
-      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 8-11 B2",
+      "endereco": "CASSIMIRO J MARQUES DE ABREU QD 18 LT 08 11 B 2",
       "casa": 1,
       "ref": "M5",
       "setor": "MARQUES DE ABREU",
@@ -7143,7 +7143,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8093-998b-de2a81db10aa",
-      "endereco": "DONA MORENA QD 18 LT 8-11 B1",
+      "endereco": "DONA MORENA QD 18 LT 08 11 B 1",
       "casa": 4,
       "ref": "M4",
       "setor": "MARQUES DE ABREU",
@@ -7163,7 +7163,7 @@
     },
     {
       "id": "33cc5ab5-32d3-804e-bec2-cc0a7c854177",
-      "endereco": "DONA MORENA QD 18 LT 8-11 B1",
+      "endereco": "DONA MORENA QD 18 LT 08 11 B 1",
       "casa": 3,
       "ref": "M3",
       "setor": "MARQUES DE ABREU",
@@ -7183,7 +7183,7 @@
     },
     {
       "id": "33cc5ab5-32d3-804c-b10a-c4387ad4fc81",
-      "endereco": "DONA MORENA QD 18 LT 8-11 B1",
+      "endereco": "DONA MORENA QD 18 LT 08 11 B 1",
       "casa": 2,
       "ref": "M2",
       "setor": "MARQUES DE ABREU",
@@ -7203,7 +7203,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8087-ba3c-ccdc4de7d39a",
-      "endereco": "DONA MORENA QD 18 LT 8-11 B1",
+      "endereco": "DONA MORENA QD 18 LT 08 11 B 1",
       "casa": 1,
       "ref": "M1",
       "setor": "MARQUES DE ABREU",
@@ -7663,7 +7663,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8067-b4b7-da5e5b9b3d30",
-      "endereco": "I-4 QD 04 LT 23",
+      "endereco": "I 4 QD 04 LT 23",
       "casa": 3,
       "ref": "I37",
       "setor": "IPANEMA",
@@ -7683,7 +7683,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80f3-9c46-f1a9d460f417",
-      "endereco": "I-4 QD 04 LT 23",
+      "endereco": "I 4 QD 04 LT 23",
       "casa": 2,
       "ref": "I36",
       "setor": "IPANEMA",
@@ -7703,7 +7703,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8001-a5c0-fc9b581282e0",
-      "endereco": "I-4 QD 04 LT 23",
+      "endereco": "I 4 QD 04 LT 23",
       "casa": 1,
       "ref": "I35",
       "setor": "IPANEMA",
@@ -7723,7 +7723,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80a1-8d68-f4f717ea1f8d",
-      "endereco": "I-4 QD 04 LT 22",
+      "endereco": "I 4 QD 04 LT 22",
       "casa": 3,
       "ref": "I34",
       "setor": "IPANEMA",
@@ -7743,7 +7743,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80be-a41f-fef0dffe617b",
-      "endereco": "I-4 QD 04 LT 22",
+      "endereco": "I 4 QD 04 LT 22",
       "casa": 2,
       "ref": "I33",
       "setor": "IPANEMA",
@@ -7763,7 +7763,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80b3-9184-c98920dffcdf",
-      "endereco": "I-4 QD 04 LT 22",
+      "endereco": "I 4 QD 04 LT 22",
       "casa": 1,
       "ref": "I32",
       "setor": "IPANEMA",
@@ -7783,7 +7783,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80a2-bb56-e88b0205154d",
-      "endereco": "I-4 QD 04 LT 21",
+      "endereco": "I 4 QD 04 LT 21",
       "casa": 3,
       "ref": "I31",
       "setor": "IPANEMA",
@@ -7803,7 +7803,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8060-8868-f13be2992618",
-      "endereco": "I-4 QD 04 LT 21",
+      "endereco": "I 4 QD 04 LT 21",
       "casa": 2,
       "ref": "I30",
       "setor": "IPANEMA",
@@ -7823,7 +7823,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8071-97a7-d18e82d27416",
-      "endereco": "I-4 QD 04 LT 21",
+      "endereco": "I 4 QD 04 LT 21",
       "casa": 1,
       "ref": "I29",
       "setor": "IPANEMA",
@@ -7843,7 +7843,7 @@
     },
     {
       "id": "33cc5ab5-32d3-805e-9457-e8cbc8a5a127",
-      "endereco": "I-4 QD 04 LT 20",
+      "endereco": "I 4 QD 04 LT 20",
       "casa": 3,
       "ref": "I28",
       "setor": "IPANEMA",
@@ -7863,7 +7863,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8053-96e5-d56628457972",
-      "endereco": "I-4 QD 04 LT 20",
+      "endereco": "I 4 QD 04 LT 20",
       "casa": 2,
       "ref": "I27",
       "setor": "IPANEMA",
@@ -7883,7 +7883,7 @@
     },
     {
       "id": "33cc5ab5-32d3-804f-9045-e5b1db78db9a",
-      "endereco": "I-4 QD 04 LT 20",
+      "endereco": "I 4 QD 04 LT 20",
       "casa": 1,
       "ref": "I26",
       "setor": "IPANEMA",
@@ -7903,7 +7903,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8005-8d18-c27523fa9794",
-      "endereco": "I-4 QD 04 LT 19",
+      "endereco": "I 4 QD 04 LT 19",
       "casa": 3,
       "ref": "I25",
       "setor": "IPANEMA",
@@ -7923,7 +7923,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8020-9363-fef3e428a981",
-      "endereco": "I-4 QD 04 LT 19",
+      "endereco": "I 4 QD 04 LT 19",
       "casa": 2,
       "ref": "I24",
       "setor": "IPANEMA",
@@ -7943,7 +7943,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8022-8bd5-fdd31c9f9379",
-      "endereco": "I-4 QD 04 LT 19",
+      "endereco": "I 4 QD 04 LT 19",
       "casa": 1,
       "ref": "I23",
       "setor": "IPANEMA",
@@ -7963,7 +7963,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8060-83f9-ea7081ce630c",
-      "endereco": "I-3 QD 04 LT 18",
+      "endereco": "I 3 QD 04 LT 18",
       "casa": 3,
       "ref": "I22",
       "setor": "IPANEMA",
@@ -7983,7 +7983,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80c4-97a2-c24b80f7dc85",
-      "endereco": "I-3 QD 04 LT 18",
+      "endereco": "I 3 QD 04 LT 18",
       "casa": 2,
       "ref": "I21",
       "setor": "IPANEMA",
@@ -8003,7 +8003,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8089-a0fa-d802836c470d",
-      "endereco": "I-3 QD 04 LT 18",
+      "endereco": "I 3 QD 04 LT 18",
       "casa": 1,
       "ref": "I20",
       "setor": "IPANEMA",
@@ -8023,7 +8023,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80bd-9f0b-fa6bf200ff6a",
-      "endereco": "I-3 QD 04 LT 17",
+      "endereco": "I 3 QD 04 LT 17",
       "casa": 4,
       "ref": "I19",
       "setor": "IPANEMA",
@@ -8043,7 +8043,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8098-a516-ef2b70791e2d",
-      "endereco": "I-3 QD 04 LT 17",
+      "endereco": "I 3 QD 04 LT 17",
       "casa": 3,
       "ref": "I18",
       "setor": "IPANEMA",
@@ -8063,7 +8063,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80f5-933b-e0892a300de0",
-      "endereco": "I-3 QD 04 LT 17",
+      "endereco": "I 3 QD 04 LT 17",
       "casa": 2,
       "ref": "I17",
       "setor": "IPANEMA",
@@ -8083,7 +8083,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8091-a107-d142d1a38e55",
-      "endereco": "I-3 QD 04 LT 17",
+      "endereco": "I 3 QD 04 LT 17",
       "casa": 1,
       "ref": "I16",
       "setor": "IPANEMA",
