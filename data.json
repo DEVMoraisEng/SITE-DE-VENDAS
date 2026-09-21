@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:00:34Z",
+  "updated_at": "2026-09-21T15:30:57Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -4830,14 +4830,14 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": 241000,
-      "valorMao": 213750,
+      "avaliacao": 285000,
+      "valorMao": 223250,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 235000,
       "reservada": "NÃO",
       "dataReserva": null
     },
