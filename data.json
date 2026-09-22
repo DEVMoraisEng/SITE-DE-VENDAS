@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T15:00:30Z",
+  "updated_at": "2026-09-22T16:40:55Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -4789,7 +4789,7 @@
       "setor": "ST EFIGÊNIA",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "SAIMON VINICIUS ALVES DOS SANTOS",
       "avaliacao": 248000,
       "valorMao": 213750,
       "entregou": "NÃO",
@@ -8885,7 +8885,7 @@
       "cidade": "GOIÂNIA",
       "link": "stefigenia.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-803c-a53c-e3d3bf3d28c3",
