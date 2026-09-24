@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:20:55Z",
+  "updated_at": "2026-09-24T14:40:51Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -2992,7 +2992,7 @@
       "cliente": "RENITON SILVA OLIVEIRA",
       "avaliacao": 345000,
       "valorMao": 280000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "localizacao": "",
