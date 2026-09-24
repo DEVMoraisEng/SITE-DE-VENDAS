@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:20:56Z",
+  "updated_at": "2026-09-24T17:30:50Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -1090,8 +1090,8 @@
       "tipo": null,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 325000,
+      "valorMao": 265000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -8909,7 +8909,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 6
+      "qtd": 7
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
