@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:00:53Z",
+  "updated_at": "2026-09-24T17:20:56Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -3018,8 +3018,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": null,
-      "reservada": "NÃO",
-      "dataReserva": null
+      "reservada": "SIM",
+      "dataReserva": "2026-09-24T17:20:00.000+00:00"
     },
     {
       "id": "33cc5ab5-32d3-8052-80b8-c459d14fcd8f",
@@ -4790,7 +4790,7 @@
       "tipo": 1,
       "modelo": "SIM",
       "cliente": "SAIMON VINICIUS ALVES DOS SANTOS",
-      "avaliacao": 248000,
+      "avaliacao": 267000,
       "valorMao": 213750,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1af19mGniOrKBhOaqnwzOcmnnY5GCh7X2?usp=drive_link",
