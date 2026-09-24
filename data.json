@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:10:53Z",
+  "updated_at": "2026-09-24T18:20:49Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -6550,7 +6550,7 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "WANDERSON SALES PEREIRA",
-      "avaliacao": null,
+      "avaliacao": 343000,
       "valorMao": 270000,
       "entregou": "NÃO",
       "fotos": "",
