@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T12:40:51Z",
+  "updated_at": "2026-09-25T12:50:53Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -1509,7 +1509,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "AMANDA CAROLINA SOUZA BARBOSA ",
       "avaliacao": 345000,
       "valorMao": 270000,
       "entregou": "NÃO",
@@ -1517,7 +1517,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 283500,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -3018,8 +3018,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": 312000,
-      "reservada": "SIM",
-      "dataReserva": "2026-09-24T17:20:00.000+00:00"
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-8052-80b8-c459d14fcd8f",
@@ -8691,13 +8691,13 @@
       "modelo": "SIM",
       "cliente": "",
       "avaliacao": 350000,
-      "valorMao": 285000,
+      "valorMao": 282150,
       "entregou": "NÃO",
       "fotos": "https://drive.google.com/drive/folders/1O1tSHsqLncBJi_DnR06lXXTELOIM9hQI",
       "layout": "https://drive.google.com/file/d/1H__1yfQmRniHieaOr7UtEvBv2iFm3RYT/view?usp=drivesdk",
       "localizacao": "https://www.google.com/maps/place/16%C2%B044'48.7%22S+49%C2%B021'25.3%22W/@-16.7468567,-49.3595886,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.7468567!4d-49.3570137?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": 300000,
+      "valorVenda": 297000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8711,13 +8711,13 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 347500,
-      "valorMao": 285000,
+      "valorMao": 282150,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000,
+      "valorVenda": 297000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8731,13 +8731,13 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 344000,
-      "valorMao": 285000,
+      "valorMao": 282150,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000,
+      "valorVenda": 297000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8751,13 +8751,13 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 346000,
-      "valorMao": 285000,
+      "valorMao": 282150,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000,
+      "valorVenda": 297000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8909,7 +8909,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 6
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
