@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:00:31Z",
+  "updated_at": "2026-09-25T17:10:51Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -4930,8 +4930,8 @@
       "tipo": null,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 344000,
+      "valorMao": 275000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
@@ -8917,7 +8917,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "ravena.html",
       "obs": "",
-      "qtd": 0
+      "qtd": 1
     }
   ]
 }
