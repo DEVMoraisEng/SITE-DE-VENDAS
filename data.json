@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:00:31Z",
+  "updated_at": "2026-09-25T12:40:51Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -3009,7 +3009,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "MARIA ANTONIA DE OLIVEIRA ASSIS",
       "avaliacao": 390000,
       "valorMao": 285000,
       "entregou": "NÃO",
@@ -3017,7 +3017,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 312000,
       "reservada": "SIM",
       "dataReserva": "2026-09-24T17:20:00.000+00:00"
     },
@@ -8470,14 +8470,14 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 364000,
+      "valorMao": 289750,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 305000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8869,7 +8869,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 6
+      "qtd": 7
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
@@ -8909,7 +8909,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 7
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
