@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:40:51Z",
+  "updated_at": "2026-09-28T20:00:53Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -258,8 +258,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": null,
-      "reservada": "NÃO",
-      "dataReserva": null
+      "reservada": "SIM",
+      "dataReserva": "2026-09-28T20:00:00.000+00:00"
     },
     {
       "id": "3cac5ab5-32d3-8094-8060-ca46d3a56b21",
@@ -1089,15 +1089,15 @@
       "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "JOSE FELIPE SANCHES LAUNE",
       "avaliacao": 325000,
-      "valorMao": 265000,
+      "valorMao": 264000,
       "entregou": "NÃO",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 278000,
       "reservada": "SIM",
       "dataReserva": "2026-09-28T15:20:00.000+00:00"
     },
@@ -8909,7 +8909,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 4
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
