@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T18:10:51Z",
+  "updated_at": "2026-09-28T19:00:53Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -4928,7 +4928,7 @@
       "ref": "RR43",
       "setor": "RAVENA",
       "tipo": null,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": 344000,
       "valorMao": 275000,
