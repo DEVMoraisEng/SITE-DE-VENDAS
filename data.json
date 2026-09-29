@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T17:00:53Z",
+  "updated_at": "2026-09-29T17:10:48Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -7393,9 +7393,9 @@
       "avaliacao": 315000,
       "valorMao": 261250,
       "entregou": "NÃO",
-      "fotos": "",
+      "fotos": "https://drive.google.com/drive/folders/1SDtI8FLU3TNmDgjGOA9nBip6P2sOmwKj?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1RSCzHYXxM9vVZzX1ORz6UwQqGEm27TBd/view?usp=drive_link",
-      "localizacao": "",
+      "localizacao": "https://www.google.com/maps/place/16%C2%B041'01.7%22S+49%C2%B021'04.3%22W/@-16.6838074,-49.3537636,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-1",
       "comissao": null,
       "valorVenda": 275000,
       "reservada": "NÃO",
