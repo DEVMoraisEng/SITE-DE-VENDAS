@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T15:20:57Z",
+  "updated_at": "2026-09-29T17:00:53Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -7388,13 +7388,13 @@
       "ref": "J10",
       "setor": "JOÃO BRAZ",
       "tipo": 1,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": 315000,
       "valorMao": 261250,
       "entregou": "NÃO",
       "fotos": "",
-      "layout": "",
+      "layout": "https://drive.google.com/file/d/1RSCzHYXxM9vVZzX1ORz6UwQqGEm27TBd/view?usp=drive_link",
       "localizacao": "",
       "comissao": null,
       "valorVenda": 275000,
@@ -7408,7 +7408,7 @@
       "ref": "J9",
       "setor": "JOÃO BRAZ",
       "tipo": 1,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "BRUNO DE LIMA CHAGAS",
       "avaliacao": 338000,
       "valorMao": 270750,
