@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T19:20:54Z",
+  "updated_at": "2026-09-30T19:30:56Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -4929,7 +4929,7 @@
       "setor": "RAVENA",
       "tipo": null,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "PABLO SANTANA DA SILVA",
       "avaliacao": 344000,
       "valorMao": 275000,
       "entregou": "NÃO",
@@ -8917,7 +8917,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "ravena.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     }
   ]
 }
