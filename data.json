@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:10:56Z",
+  "updated_at": "2026-09-30T15:20:53Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -6229,7 +6229,7 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "MONICA CORDEIRO DA COSTA ",
       "avaliacao": 305000,
       "valorMao": 265000,
       "entregou": "NÃO",
@@ -8901,7 +8901,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
