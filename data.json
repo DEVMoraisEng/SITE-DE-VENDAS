@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:10:55Z",
+  "updated_at": "2026-10-01T19:20:51Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -3392,7 +3392,7 @@
       "cliente": "COSME RIBEIRO DA COSTA ",
       "avaliacao": 336000,
       "valorMao": 266000,
-      "entregou": "NÃO",
+      "entregou": "SIM",
       "fotos": "",
       "layout": "",
       "localizacao": "",
