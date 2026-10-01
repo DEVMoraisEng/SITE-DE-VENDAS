@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:00:56Z",
+  "updated_at": "2026-10-01T20:10:51Z",
   "rows": [
     {
       "id": "3ddc5ab5-32d3-800b-83f5-c5cf7687e742",
@@ -8357,7 +8357,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 305000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8377,7 +8377,7 @@
       "layout": "https://drive.google.com/file/d/1Fn_x0q5MhxOGYNePT_EbJjwP4OQjBVgS/view?usp=drivesdk",
       "localizacao": "https://www.google.com/maps/place/16%C2%B044'48.7%22S+49%C2%B021'25.3%22W/@-16.7468611,-49.3570278,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.7468611!4d-49.3570278?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 305000,
       "reservada": "NÃO",
       "dataReserva": null
     },
