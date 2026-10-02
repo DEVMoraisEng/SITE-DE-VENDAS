@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T23:21:10Z",
+  "updated_at": "2026-10-02T23:40:50Z",
   "rows": [
     {
       "id": "3edc5ab5-32d3-807d-9810-f22f8fcea298",
@@ -4787,13 +4787,13 @@
       "casa": 1,
       "ref": "RR42",
       "setor": "RAVENA",
-      "tipo": null,
-      "modelo": "",
+      "tipo": 1,
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": 375000,
       "valorMao": 285000,
       "entregou": "",
-      "fotos": "",
+      "fotos": "https://drive.google.com/drive/folders/1V888rvpBVHl3YCdeOpF_lAjgCmn5ZNCC",
       "layout": "",
       "localizacao": "",
       "comissao": null,
@@ -5308,7 +5308,7 @@
       "ref": "RR16",
       "setor": "RAVENA",
       "tipo": 2,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "LIELSON DE SOUSA RIBEIRO",
       "avaliacao": 374070,
       "valorMao": 275000,
