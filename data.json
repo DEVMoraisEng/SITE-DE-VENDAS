@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-02T15:30:51Z",
+  "updated_at": "2026-10-02T16:10:50Z",
   "rows": [
     {
       "id": "3edc5ab5-32d3-807d-9810-f22f8fcea298",
       "endereco": "",
-      "casa": "",
+      "casa": 2,
       "ref": "",
-      "setor": "",
+      "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "NÃO",
       "cliente": "",
@@ -24,9 +24,9 @@
     {
       "id": "3edc5ab5-32d3-803e-a0f7-eb749aaf0887",
       "endereco": "",
-      "casa": "",
+      "casa": 1,
       "ref": "",
-      "setor": "",
+      "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "NÃO",
       "cliente": "",
@@ -44,9 +44,9 @@
     {
       "id": "3edc5ab5-32d3-80ce-a2f8-eb7503cb70a1",
       "endereco": "",
-      "casa": "",
+      "casa": 2,
       "ref": "",
-      "setor": "",
+      "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "NÃO",
       "cliente": "",
@@ -64,9 +64,9 @@
     {
       "id": "3edc5ab5-32d3-8019-b50a-ed0de5206ab9",
       "endereco": "",
-      "casa": "",
+      "casa": 1,
       "ref": "",
-      "setor": "",
+      "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "NÃO",
       "cliente": "",
