@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T23:40:50Z",
+  "updated_at": "2026-10-02T23:50:53Z",
   "rows": [
     {
       "id": "3edc5ab5-32d3-807d-9810-f22f8fcea298",
@@ -4768,7 +4768,7 @@
       "ref": "RR43",
       "setor": "RAVENA",
       "tipo": null,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "PABLO SANTANA DA SILVA",
       "avaliacao": 344000,
       "valorMao": 275000,
@@ -4795,7 +4795,7 @@
       "entregou": "",
       "fotos": "https://drive.google.com/drive/folders/1V888rvpBVHl3YCdeOpF_lAjgCmn5ZNCC",
       "layout": "",
-      "localizacao": "",
+      "localizacao": "https://maps.app.goo.gl/p6JQH434Dbjcnzy88",
       "comissao": null,
       "valorVenda": null,
       "reservada": "NÃO",
