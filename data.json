@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T17:00:34Z",
+  "updated_at": "2026-10-05T17:20:51Z",
   "rows": [
     {
       "id": "3edc5ab5-32d3-807d-9810-f22f8fcea298",
@@ -1149,7 +1149,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "",
-      "cliente": "",
+      "cliente": "TAWANNE KATHLEEN RODRIGUES",
       "avaliacao": 350000,
       "valorMao": 270000,
       "entregou": "",
@@ -1157,7 +1157,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 285000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8749,7 +8749,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 4
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
