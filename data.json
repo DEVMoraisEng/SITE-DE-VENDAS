@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T19:00:31Z",
+  "updated_at": "2026-10-06T19:50:51Z",
   "rows": [
     {
       "id": "3edc5ab5-32d3-807d-9810-f22f8fcea298",
@@ -2809,7 +2809,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "AURICELIA MENDES NABATE",
       "avaliacao": 345000,
       "valorMao": 270000,
       "entregou": "",
@@ -2818,8 +2818,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": null,
-      "reservada": "SIM",
-      "dataReserva": "2026-10-05T19:50:00.000+00:00"
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-805d-88e0-f77096e4b12e",
@@ -8749,7 +8749,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 2
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
