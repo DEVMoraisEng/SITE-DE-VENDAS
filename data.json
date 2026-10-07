@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T22:10:49Z",
+  "updated_at": "2026-10-07T22:50:52Z",
   "rows": [
     {
       "id": "3edc5ab5-32d3-807d-9810-f22f8fcea298",
@@ -8338,8 +8338,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": 305000,
-      "reservada": "SIM",
-      "dataReserva": "2026-10-06T22:50:00.000+00:00"
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80fd-a5b5-c90803c9308f",
@@ -8378,8 +8378,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": 305000,
-      "reservada": "SIM",
-      "dataReserva": "2026-10-06T22:50:00.000+00:00"
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809d-a6ca-cad683689432",
