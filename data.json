@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T14:21:01Z",
+  "updated_at": "2026-10-07T14:30:56Z",
   "rows": [
     {
       "id": "3edc5ab5-32d3-807d-9810-f22f8fcea298",
@@ -4797,7 +4797,7 @@
       "layout": "",
       "localizacao": "https://maps.app.goo.gl/p6JQH434Dbjcnzy88",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 300000,
       "reservada": "SIM",
       "dataReserva": "2026-10-06T21:10:00.000+00:00"
     },
