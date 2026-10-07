@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T14:30:56Z",
+  "updated_at": "2026-10-07T14:40:51Z",
   "rows": [
     {
       "id": "3edc5ab5-32d3-807d-9810-f22f8fcea298",
@@ -4789,7 +4789,7 @@
       "setor": "RAVENA",
       "tipo": 1,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "WESLEY FERREIRA DA SILVA",
       "avaliacao": 375000,
       "valorMao": 285000,
       "entregou": "",
@@ -8757,7 +8757,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "ravena.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 0
     }
   ]
 }
