@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-08T20:00:59Z",
+  "updated_at": "2026-10-08T20:10:47Z",
   "rows": [
     {
       "id": "3f3c5ab5-32d3-814f-a1b4-c89b1af88759",
       "endereco": "TB 19 QD 50 LT 09",
       "casa": 2,
       "ref": "",
-      "setor": "",
+      "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "",
       "cliente": "",
@@ -26,7 +26,7 @@
       "endereco": "TB 19 QD 50 LT 09",
       "casa": 1,
       "ref": "",
-      "setor": "",
+      "setor": "TERRABELA CERRADO",
       "tipo": null,
       "modelo": "",
       "cliente": "",
