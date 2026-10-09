@@ -408,6 +408,8 @@ function reservaInicio(row){
   return (d && !isNaN(d.getTime())) ? d : null;
 }
 function reservaAtiva(row){
+  /* reservada até o sinal ser confirmado no portal (motivoReserva SINAL): sem prazo de 24 h */
+  if(row && row.motivoReserva === 'SINAL') return true;
   if(!row) return false;
   if(String(row.reservada||'').trim().toUpperCase() !== 'SIM') return false;
   const ini = reservaInicio(row);
@@ -415,6 +417,7 @@ function reservaAtiva(row){
   return (Date.now() - ini.getTime()) < RESERVA_MS;
 }
 function textoReserva(row){
+  if(row && row.motivoReserva === 'SINAL') return 'Reservada (aguardando sinal)';
   const ini = reservaInicio(row);
   if(!ini) return 'Reservada 24h';
   const falta = RESERVA_MS - (Date.now() - ini.getTime());
