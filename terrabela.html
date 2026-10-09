@@ -356,7 +356,7 @@ td:last-child{border-right:none}
     <div class="legenda">
       <div class="leg-item"><div class="leg-box lb-em"></div>Em breve</div>
       <div class="leg-item"><div class="leg-box lb-di"></div>Disponível</div>
-      <div class="leg-item"><div class="leg-box lb-rs"></div>Reservada 24h</div>
+      <div class="leg-item"><div class="leg-box lb-rs"></div>Reservada</div>
       <div class="leg-item"><div class="leg-box lb-mo"></div>Casa modelo</div>
       <div class="leg-item"><div class="leg-box lb-mv"></div>Modelo vendida</div>
       <div class="leg-item"><div class="leg-box lb-ve"></div>Vendida</div>
@@ -465,6 +465,8 @@ function reservaInicio(row){
   return (d && !isNaN(d.getTime())) ? d : null;
 }
 function reservaAtiva(row){
+  /* reservada até o sinal ser confirmado no portal (motivoReserva SINAL): sem prazo de 24 h */
+  if(row && row.motivoReserva === 'SINAL') return true;
   if(!row) return false;
   if(String(row.reservada||'').trim().toUpperCase() !== 'SIM') return false;
   const ini = reservaInicio(row);
@@ -472,6 +474,7 @@ function reservaAtiva(row){
   return (Date.now() - ini.getTime()) < RESERVA_MS;
 }
 function textoReserva(row){
+  if(row && row.motivoReserva === 'SINAL') return 'Reservada (aguardando sinal)';
   const ini = reservaInicio(row);
   if(!ini) return 'Reservada 24h';
   const falta = RESERVA_MS - (Date.now() - ini.getTime());
