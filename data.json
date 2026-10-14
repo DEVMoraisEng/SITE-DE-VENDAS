@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T14:00:52Z",
+  "updated_at": "2026-10-14T15:10:48Z",
   "rows": [
     {
       "id": "3f3c5ab5-32d3-814f-a1b4-c89b1af88759",
@@ -8429,7 +8429,7 @@
       "setor": "ACROPOLE",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "JESSICA DE JESUS DE SOUSA ",
       "avaliacao": 365000,
       "valorMao": 289750,
       "entregou": "",
@@ -8438,8 +8438,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": 305000,
-      "reservada": "SIM",
-      "dataReserva": "2026-10-13T15:10:00.000+00:00"
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-809d-a6ca-cad683689432",
@@ -8769,7 +8769,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 8
+      "qtd": 7
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
