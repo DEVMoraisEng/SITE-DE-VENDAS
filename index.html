@@ -187,6 +187,7 @@ function iconeSeta(){return`<svg width="12" height="12" viewBox="0 0 12 12" fill
 // ainda não têm página própria.
 const MAPA_SETORES={
   'ACROPOLE':'acropole.html',
+  'FLORENÇA':'florenca.html',
   'IPANEMA':'ipanema.html',
   'JOÃO BRAZ':'joaobraz2.html',
   'MARQUES DE ABREU':'marquesdeabreu.html',
@@ -196,6 +197,12 @@ const MAPA_SETORES={
   'ST EFIGÊNIA':'stefigenia.html',
   'TERRABELA CERRADO':'terrabela.html'
 };
+
+// Busca no MAPA_SETORES ignorando acento, maiúscula e espaço sobrando:
+// "FLORENÇA", "Florença" e "FLORENCA" no Notion caem todos em florenca.html.
+function normSetor(v){return String(v||'').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/\s+/g,' ').trim().toUpperCase()}
+const MAPA_NORM=Object.fromEntries(Object.entries(MAPA_SETORES).map(([k,v])=>[normSetor(k),v]));
+function linkDoMapa(setor){return MAPA_SETORES[setor]||MAPA_NORM[normSetor(setor)]||''}
 
 function renderTabela(tbodyId, setores){
   const tbody=document.getElementById(tbodyId);
@@ -224,7 +231,7 @@ async function main(){
       if(qtd === 0) continue;
       const cidade=(d.cidade||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase();
       // Mapeia setor → página interna (sobrepõe link do Drive)
-      const linkMapa = MAPA_SETORES[d.setor] || d.link || '';
+      const linkMapa = linkDoMapa(d.setor) || d.link || '';
       const obj={setor:d.setor,link:linkMapa,obs:d.obs,qtd};
       if(cidade.includes('CANEDO')||cidade.includes('SENADOR')) canedo.push(obj);
       else if(cidade.includes('GOIANIA')) goiania.push(obj);
