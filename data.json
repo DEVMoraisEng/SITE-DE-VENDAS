@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-19T21:00:40Z",
+  "updated_at": "2026-10-19T21:21:08Z",
   "rows": [
+    {
+      "id": "3fec5ab5-32d3-802b-8a6a-f5d486a1726b",
+      "endereco": "",
+      "casa": "",
+      "ref": "",
+      "setor": "IPANEMA",
+      "tipo": null,
+      "modelo": "NÃO",
+      "cliente": "",
+      "avaliacao": null,
+      "valorMao": null,
+      "entregou": "",
+      "fotos": "",
+      "layout": "",
+      "localizacao": "",
+      "comissao": null,
+      "valorVenda": null,
+      "reservada": "NÃO",
+      "dataReserva": null
+    },
     {
       "id": "3f3c5ab5-32d3-814f-a1b4-c89b1af88759",
       "endereco": "TB 19 QD 50 LT 09",
@@ -8003,7 +8023,7 @@
     },
     {
       "id": "33cc5ab5-32d3-807b-82d3-f0cd6227cfdb",
-      "endereco": "AV. FRANÇA QD 04 LT 16",
+      "endereco": "FRANÇA QD 04 LT 16",
       "casa": 3,
       "ref": "I15",
       "setor": "IPANEMA",
@@ -8023,7 +8043,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8047-b193-d854ee5fb76b",
-      "endereco": "AV. FRANÇA QD 04 LT 16",
+      "endereco": "FRANÇA QD 04 LT 16",
       "casa": 2,
       "ref": "I14",
       "setor": "IPANEMA",
@@ -8043,7 +8063,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80b1-82ba-c76a4451acca",
-      "endereco": "AV. FRANÇA QD 04 LT 16",
+      "endereco": "FRANÇA QD 04 LT 16",
       "casa": 1,
       "ref": "I13",
       "setor": "IPANEMA",
@@ -8063,7 +8083,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8000-8ba1-e9a0278b0cd8",
-      "endereco": "AV. FRANÇA QD 04 LT 15",
+      "endereco": "FRANÇA QD 04 LT 15",
       "casa": 3,
       "ref": "I12",
       "setor": "IPANEMA",
@@ -8083,7 +8103,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80e5-bc8d-e6b97ad403ed",
-      "endereco": "AV. FRANÇA QD 04 LT 15",
+      "endereco": "FRANÇA QD 04 LT 15",
       "casa": 2,
       "ref": "I11",
       "setor": "IPANEMA",
@@ -8103,7 +8123,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80a8-bc27-d75e2182621f",
-      "endereco": "AV. FRANÇA QD 04 LT 15",
+      "endereco": "FRANÇA QD 04 LT 15",
       "casa": 1,
       "ref": "I10",
       "setor": "IPANEMA",
@@ -8123,7 +8143,7 @@
     },
     {
       "id": "33cc5ab5-32d3-801a-9134-ea12d389a398",
-      "endereco": "AV. FRANÇA QD 04 LT 14",
+      "endereco": "FRANÇA QD 04 LT 14",
       "casa": 3,
       "ref": "I9",
       "setor": "IPANEMA",
@@ -8143,7 +8163,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8066-a221-ca02f36e13f5",
-      "endereco": "AV. FRANÇA QD 04 LT 14",
+      "endereco": "FRANÇA QD 04 LT 14",
       "casa": 2,
       "ref": "I8",
       "setor": "IPANEMA",
@@ -8163,7 +8183,7 @@
     },
     {
       "id": "33cc5ab5-32d3-809f-a766-d27da5515dbd",
-      "endereco": "AV. FRANÇA QD 04 LT 14",
+      "endereco": "FRANÇA QD 04 LT 14",
       "casa": 1,
       "ref": "I7",
       "setor": "IPANEMA",
@@ -8183,7 +8203,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8045-a32f-f03d9cb07458",
-      "endereco": "AV. FRANÇA QD 04 LT 13",
+      "endereco": "FRANÇA QD 04 LT 13",
       "casa": 3,
       "ref": "I6",
       "setor": "IPANEMA",
@@ -8203,7 +8223,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80a0-9e98-c71579eaec21",
-      "endereco": "AV. FRANÇA QD 04 LT 13",
+      "endereco": "FRANÇA QD 04 LT 13",
       "casa": 2,
       "ref": "I5",
       "setor": "IPANEMA",
@@ -8223,7 +8243,7 @@
     },
     {
       "id": "33cc5ab5-32d3-80a3-820d-efae46ac0030",
-      "endereco": "AV. FRANÇA QD 04 LT 13",
+      "endereco": "FRANÇA QD 04 LT 13",
       "casa": 1,
       "ref": "I4",
       "setor": "IPANEMA",
@@ -8243,7 +8263,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8055-b1cb-dac09574e9de",
-      "endereco": "AV. FRANÇA QD 04 LT 12",
+      "endereco": "FRANÇA QD 04 LT 12",
       "casa": 3,
       "ref": "I3",
       "setor": "IPANEMA",
@@ -8263,7 +8283,7 @@
     },
     {
       "id": "33cc5ab5-32d3-803f-8ac3-e1f2a14b22bd",
-      "endereco": "AV. FRANÇA QD 04 LT 12",
+      "endereco": "FRANÇA QD 04 LT 12",
       "casa": 2,
       "ref": "I2",
       "setor": "IPANEMA",
@@ -8283,7 +8303,7 @@
     },
     {
       "id": "33cc5ab5-32d3-8083-b91e-cbcafc9d36b4",
-      "endereco": "AV. FRANÇA QD 04 LT 12",
+      "endereco": "FRANÇA QD 04 LT 12",
       "casa": 1,
       "ref": "I1",
       "setor": "IPANEMA",
