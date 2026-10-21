@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-21T17:00:33Z",
+  "updated_at": "2026-10-21T17:10:49Z",
   "rows": [
     {
       "id": "400c5ab5-32d3-80d1-bdae-dc5a29078634",
       "endereco": "PR 06 QD 07 LT 29",
       "casa": 2,
       "ref": "",
-      "setor": "",
+      "setor": "PORTAL DO ORIENTE",
       "tipo": null,
       "modelo": "NÃO",
       "cliente": "",
@@ -26,7 +26,7 @@
       "endereco": "PR 06 QD 07 LT 29",
       "casa": 1,
       "ref": "",
-      "setor": "",
+      "setor": "PORTAL DO ORIENTE",
       "tipo": null,
       "modelo": "NÃO",
       "cliente": "",
