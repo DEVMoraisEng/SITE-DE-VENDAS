@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:00:33Z",
+  "updated_at": "2026-10-22T19:20:47Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -369,7 +369,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "NÃO",
-      "cliente": "",
+      "cliente": "SABRINA SILVA FERREIRA",
       "avaliacao": 325000,
       "valorMao": 265000,
       "entregou": "",
@@ -377,7 +377,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 280000,
       "reservada": "SIM",
       "dataReserva": "2026-10-22T17:30:00.000+00:00"
     },
@@ -8889,7 +8889,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 6
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
