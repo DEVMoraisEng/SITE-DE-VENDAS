@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T13:40:47Z",
+  "updated_at": "2026-10-22T13:50:52Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -7269,7 +7269,7 @@
       "setor": "JOÃO BRAZ",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "AMANDA DA SILVA BARROS",
       "avaliacao": null,
       "valorMao": 266000,
       "entregou": "",
@@ -7278,8 +7278,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": 280000,
-      "reservada": "SIM",
-      "dataReserva": "2026-10-21T15:50:00.000+00:00"
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "33cc5ab5-32d3-80df-bfac-fae2613329eb",
@@ -8674,7 +8674,7 @@
       "valorMao": 282150,
       "entregou": "",
       "fotos": "https://drive.google.com/drive/folders/1O1tSHsqLncBJi_DnR06lXXTELOIM9hQI",
-      "layout": "https://drive.google.com/file/d/1H__1yfQmRniHieaOr7UtEvBv2iFm3RYT/view?usp=drivesdk",
+      "layout": "https://drive.google.com/file/d/13ezJ3G_mQTFue1fme9WC5A2M1doxPN_R/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/16%C2%B044'48.7%22S+49%C2%B021'25.3%22W/@-16.7468567,-49.3595886,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.7468567!4d-49.3570137?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
       "valorVenda": 297000,
@@ -8754,7 +8754,7 @@
       "valorMao": 275500,
       "entregou": "",
       "fotos": "https://drive.google.com/drive/folders/1b-eLOY9uStbyIZPK3IENCQgu-eL-bVAB?usp=drive_link",
-      "layout": "https://drive.google.com/file/d/10FMOR6qYaNL3mm3UkkbJVJQFhoec2wns/view?usp=drive_link",
+      "layout": "https://drive.google.com/file/d/1UUaKgbvom4XXJR_UxDgThrycYH1MnzKn/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/16%C2%B044'48.7%22S+49%C2%B021'25.3%22W/@-16.7468567,-49.3595886,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.7468567!4d-49.3570137?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
       "valorVenda": 290000,
@@ -8873,7 +8873,7 @@
       "cidade": "GOIÂNIA",
       "link": "joaobraz2.html",
       "obs": "",
-      "qtd": 6
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-80b9-af8f-ca5ba643cf36",
