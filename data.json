@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T15:10:49Z",
+  "updated_at": "2026-10-22T15:30:48Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -7077,7 +7077,7 @@
       "layout": "https://drive.google.com/file/d/1hKmI19H3Oqe86vmMfHNXNOsUHZNUY-BY/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/Av.+Casemiro+J.+Marqu%C3%AAs+de+Abreu,+222-314+-+Jardim+Marques+de+Abreu,+Goi%C3%A2nia+-+GO,+74391-200/data=!4m6!3m5!1s0x935e58a764c61f51:0x6204cae29ac9ad49!7e2!8m2!3d-16.7125163!4d-49.365680999999995!18m1!1e1?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI2LjMzLjIYACCenQoqswEsOTQyNjc3MjcsOTQyOTIxOTUsOTQyOTk1MzIsMTAwNzk2NDk4LDEwMDc5Nzc2MSwxMDA4MjY0NzksMTAwNzk2NTM1LDk0MjgwNTc2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE4NjUzLDk0MjI5ODM5LDk0Mjc1MTY4LDk0Mjc5NjE5LDEwMDgxNTYzNSwxMDA4MjAyMzcsMTAwODIyNDg5LDEwMDgwNDk3NkICQlI%3D&skid=9cd5db66-33c7-4512-97a1-6baf11a78976&g_st=awb",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 315000,
       "reservada": "NÃO",
       "dataReserva": null
     },
