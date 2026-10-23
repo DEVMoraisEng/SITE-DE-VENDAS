@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:00:46Z",
+  "updated_at": "2026-10-23T00:30:51Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -8678,8 +8678,8 @@
       "localizacao": "https://www.google.com/maps/place/16%C2%B044'48.7%22S+49%C2%B021'25.3%22W/@-16.7468567,-49.3595886,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-16.7468567!4d-49.3570137?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "comissao": null,
       "valorVenda": 297000,
-      "reservada": "NÃO",
-      "dataReserva": null
+      "reservada": "SIM",
+      "dataReserva": "2026-10-23T00:30:00.000+00:00"
     },
     {
       "id": "33cc5ab5-32d3-8020-8a2d-de26c3b7925d",
