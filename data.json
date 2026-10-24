@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T13:40:48Z",
+  "updated_at": "2026-10-24T14:20:47Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -8669,7 +8669,7 @@
       "setor": "ACROPOLE",
       "tipo": 2,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "ROSELI DE JESUS LIMA",
       "avaliacao": 350000,
       "valorMao": 282150,
       "entregou": "",
@@ -8849,7 +8849,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 6
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
