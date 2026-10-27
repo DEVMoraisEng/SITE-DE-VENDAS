@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:48:57Z",
+  "updated_at": "2026-10-27T13:00:38Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -1109,15 +1109,15 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "GLEDSON SILVA VERAS",
+      "cliente": "",
       "avaliacao": 325000,
-      "valorMao": 265000,
+      "valorMao": 280000,
       "entregou": "",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 298800,
+      "valorVenda": null,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8889,7 +8889,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
