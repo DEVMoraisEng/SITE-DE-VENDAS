@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T00:50:51Z",
+  "updated_at": "2026-10-27T01:00:28Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -3189,7 +3189,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "EVERCINO BARBOSA RODRIGUES",
+      "cliente": "CLEYLTON DOS SANTOS SILVA",
       "avaliacao": 350000,
       "valorMao": 280000,
       "entregou": "",
@@ -3197,7 +3197,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 294000,
+      "valorVenda": null,
       "reservada": "NÃO",
       "dataReserva": null
     },
