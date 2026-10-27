@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T19:21:00Z",
+  "updated_at": "2026-10-27T20:30:52Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -3191,7 +3191,7 @@
       "modelo": "",
       "cliente": "CLEYLTON DOS SANTOS SILVA",
       "avaliacao": 350000,
-      "valorMao": 280000,
+      "valorMao": 275000,
       "entregou": "",
       "fotos": "",
       "layout": "",
@@ -3809,7 +3809,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "GLESON SILVA VERAS",
+      "cliente": "",
       "avaliacao": null,
       "valorMao": null,
       "entregou": "",
@@ -3817,7 +3817,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 298800,
+      "valorVenda": null,
       "reservada": "NÃO",
       "dataReserva": null
     },
