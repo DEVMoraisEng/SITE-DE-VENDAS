@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T23:00:33Z",
+  "updated_at": "2026-10-27T00:10:48Z",
   "rows": [
     {
       "id": "401c5ab5-32d3-81f9-89bd-ebb2c632ba4d",
@@ -1117,7 +1117,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 298800,
       "reservada": "NÃO",
       "dataReserva": null
     },
