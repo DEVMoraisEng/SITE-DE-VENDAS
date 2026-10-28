@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:35:51Z",
+  "updated_at": "2026-10-28T14:50:51Z",
   "rows": [
     {
       "id": "406c5ab5-32d3-8177-a696-f785436221aa",
@@ -6550,7 +6550,7 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "VICTOR AUGUSTO DOURADO ",
-      "avaliacao": null,
+      "avaliacao": 350000,
       "valorMao": 270000,
       "entregou": "",
       "fotos": "",
