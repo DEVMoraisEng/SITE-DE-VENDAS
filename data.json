@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T15:30:53Z",
+  "updated_at": "2026-10-28T15:50:52Z",
   "rows": [
     {
       "id": "406c5ab5-32d3-8177-a696-f785436221aa",
@@ -1198,8 +1198,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": null,
-      "reservada": "SIM",
-      "dataReserva": "2026-10-27T15:50:00.000+00:00"
+      "reservada": "NÃO",
+      "dataReserva": null
     },
     {
       "id": "3b5c5ab5-32d3-80e4-bd34-fe49c2a3a118",
