@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T15:50:52Z",
+  "updated_at": "2026-10-28T16:20:50Z",
   "rows": [
     {
       "id": "406c5ab5-32d3-8177-a696-f785436221aa",
@@ -469,7 +469,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "NÃO",
-      "cliente": "",
+      "cliente": "MARIA ELZA DE SOUSA",
       "avaliacao": null,
       "valorMao": null,
       "entregou": "",
