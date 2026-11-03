@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T17:41:04Z",
+  "updated_at": "2026-11-03T18:31:05Z",
   "rows": [
     {
       "id": "406c5ab5-32d3-8177-a696-f785436221aa",
@@ -1149,7 +1149,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "LINCOLN JUNIO DIAS REZENDE",
       "avaliacao": 325000,
       "valorMao": 265000,
       "entregou": "",
@@ -8969,7 +8969,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
