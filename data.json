@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:00:38Z",
+  "updated_at": "2026-11-05T11:40:50Z",
   "rows": [
     {
       "id": "406c5ab5-32d3-8177-a696-f785436221aa",
@@ -7090,8 +7090,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 290000,
+      "valorMao": 261250,
       "entregou": "",
       "fotos": "",
       "layout": "",
@@ -7110,14 +7110,14 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 300000,
+      "valorMao": 266000,
       "entregou": "",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 280000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -7151,7 +7151,7 @@
       "modelo": "SIM",
       "cliente": "",
       "avaliacao": 370000,
-      "valorMao": 299250,
+      "valorMao": 294500,
       "entregou": "",
       "fotos": "https://drive.google.com/drive/folders/1HDEMJnQura-aaWouTx8a-yezpnexgidF?usp=drive_link",
       "layout": "https://drive.google.com/file/d/1hKmI19H3Oqe86vmMfHNXNOsUHZNUY-BY/view?usp=drive_link",
@@ -8897,7 +8897,7 @@
       "cidade": "GOIÂNIA",
       "link": "marquesdeabreu.html",
       "obs": "",
-      "qtd": 1
+      "qtd": 3
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
