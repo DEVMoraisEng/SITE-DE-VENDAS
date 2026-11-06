@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-06T21:00:32Z",
+  "updated_at": "2026-11-06T21:10:48Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
       "endereco": "FL 27 QD 38 LT 23",
       "casa": 2,
       "ref": "",
-      "setor": "",
+      "setor": "FLORENÇA",
       "tipo": null,
       "modelo": "",
       "cliente": "",
@@ -26,7 +26,7 @@
       "endereco": "FL 27 QD 38 LT 23",
       "casa": 1,
       "ref": "",
-      "setor": "",
+      "setor": "FLORENÇA",
       "tipo": null,
       "modelo": "",
       "cliente": "",
