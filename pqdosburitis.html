@@ -450,7 +450,7 @@ async function carregarLinhas(){
     const j = await r.json();
     const rows = j.rows || j.vendas || j;
     if(!rows || !rows.length) throw new Error('arquivo do portal veio vazio');
-    return { rows: adaptar(rows), updatedAt: j.updated_at || null, fonte: 'portal' };
+    return { rows: adaptar(rows), updatedAt: j.updated_at || null, fonte: 'portal', tipos: j.tipos || [] };
   }catch(e){
     console.warn('mapa_vendas.json do portal falhou ('+e.message+'); usando o data.json local.');
     const r = await fetch(FONTE_LOCAL+'?t='+Date.now());
@@ -621,7 +621,8 @@ async function loadData(){
     const dados = await carregarLinhas();
     const rows = dados.rows;
     const updatedAt = dados.updatedAt;
-    window.__ROWS = rows;   // usado pelo redesenho de 1 min (reserva)
+    window.__ROWS = rows;
+    window.__TIPOS = dados.tipos || [];   // cadastro TIPOS DE CASA do portal   // usado pelo redesenho de 1 min (reserva)
     paintMap(rows);
     if(window.mapaFitDisponiveis) window.mapaFitDisponiveis();
     buildTable(rows);
@@ -740,30 +741,53 @@ function buildTable(rows){
     tbody.innerHTML='<tr><td colspan="7" style="text-align:center;padding:20px;color:#aaa">Nenhuma casa disponível.</td></tr>';
     return;
   }
+  /* 09/11/2026 — CASA MODELO x TIPO
+     - tipo com casa modelo própria no setor (MODELO? = SIM): tudo vem dela, como sempre;
+     - tipo sem casa modelo própria: usa o cadastro TIPOS DE CASA do portal
+       (window.__TIPOS) — casa modelo de visita escolhida + layout e fotos do tipo;
+       a localização vem da casa modelo escolhida;
+     - sem nada disso: os links da própria casa. */
+  const ehMod = x => (x.modelo||'').trim().toUpperCase()==='SIM';
+  const doSetor = r => (r.setor||'').trim().toUpperCase()==='PQ DOS BURITIS';
+  const mesmoTipo = (a,b) => String(a==null?'':a).trim()===String(b==null?'':b).trim();
   const modeloPorTipo = {};
   rows.forEach(r=>{
-    if((r.modelo||'').trim().toUpperCase()==='SIM' && r.tipo && (r.setor||'').trim().toUpperCase()==='PQ DOS BURITIS')
-      modeloPorTipo[r.tipo] = r.endereco+(r.casa?' — C'+r.casa:'');
+    if(ehMod(r) && r.tipo && doSetor(r))
+      modeloPorTipo[String(r.tipo).trim()] = r.endereco+(r.casa?' — C'+r.casa:'');
   });
-  function linkFotos(r){
-    if((r.modelo||'').trim().toUpperCase()==='SIM') return r.fotos;
-    const m=rows.find(x=>(x.modelo||'').trim().toUpperCase()==='SIM'&&x.tipo===r.tipo&&(x.setor||'').trim().toUpperCase()==='PQ DOS BURITIS'&&x.fotos);
-    return (m ? m.fotos : null)||r.fotos;
+  const temModeloProprio = tipo => !!modeloPorTipo[String(tipo==null?'':tipo).trim()];
+  function cadastroTipo(tipo){
+    return (window.__TIPOS||[]).find(t=>doSetor(t) && mesmoTipo(t.tipo,tipo)) || null;
   }
-  function linkLayout(r){
-    if((r.modelo||'').trim().toUpperCase()==='SIM') return r.layout;
-    const m=rows.find(x=>(x.modelo||'').trim().toUpperCase()==='SIM'&&x.tipo===r.tipo&&(x.setor||'').trim().toUpperCase()==='PQ DOS BURITIS'&&x.layout);
-    return (m ? m.layout : null)||r.layout;
+  function modeloVisita(r){
+    const t = r.tipo ? cadastroTipo(r.tipo) : null;
+    if(!t || !t.casaModeloId) return null;
+    const alvo = String(t.casaModeloId).replace(/-/g,'');
+    return rows.find(x=>String(x.id||'').replace(/-/g,'')===alvo) || null;
   }
-  function linkLocalizacao(r){
-    if((r.modelo||'').trim().toUpperCase()==='SIM') return r.localizacao;
-    const m=rows.find(x=>(x.modelo||'').trim().toUpperCase()==='SIM'&&x.tipo===r.tipo&&(x.setor||'').trim().toUpperCase()==='PQ DOS BURITIS'&&x.localizacao);
-    return (m ? m.localizacao : null)||r.localizacao;
+  function linkDe(r, campo){
+    if(ehMod(r)) return r[campo];
+    if(r.tipo && temModeloProprio(r.tipo)){
+      const m=rows.find(x=>ehMod(x)&&mesmoTipo(x.tipo,r.tipo)&&doSetor(x)&&x[campo]);
+      return (m ? m[campo] : null)||r[campo];
+    }
+    if(campo==='localizacao'){ const mv=modeloVisita(r); return (mv&&mv.localizacao)||r.localizacao; }
+    const t = r.tipo ? cadastroTipo(r.tipo) : null;
+    return (t&&t[campo])||r[campo];
+  }
+  function linkFotos(r){ return linkDe(r,'fotos'); }
+  function linkLayout(r){ return linkDe(r,'layout'); }
+  function linkLocalizacao(r){ return linkDe(r,'localizacao'); }
+  function rotuloModelo(r){
+    const k=String(r.tipo==null?'':r.tipo).trim();
+    if(k && modeloPorTipo[k]) return modeloPorTipo[k];
+    const mv=modeloVisita(r);
+    return mv ? mv.endereco+(mv.casa?' — C'+mv.casa:'') : '—';
   }
   tbody.innerHTML=disp.map(r=>{
     const ehM=(r.modelo||'').trim().toUpperCase()==='SIM';
     const label=r.endereco+(r.casa?' — C'+r.casa:'');
-    const cm=modeloPorTipo[r.tipo]||'—';
+    const cm=rotuloModelo(r);
     const fo=linkFotos(r), la=linkLayout(r), lo=linkLocalizacao(r);
     const mv = ehModeloVendida(r, rows);
     const rs = reservaAtiva(r);
