@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T20:00:56Z",
+  "updated_at": "2026-11-09T20:10:50Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -7208,7 +7208,7 @@
       "ref": "M6",
       "setor": "MARQUES DE ABREU",
       "tipo": 2,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "GABRIELA BORGES DA SILVA",
       "avaliacao": 365000,
       "valorMao": 280250,
