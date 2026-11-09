@@ -97,6 +97,7 @@ tbody tr.rreservada td{color:#12407f}
 .cel-vendida{text-align:center;font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--modvend-borda)}
 td{padding:13px 14px;vertical-align:middle;font-size:15px;text-align:center;border-right:1px solid var(--cinza-linha)}
 td:last-child{border-right:none}
+thead th:first-child,td.td-end{text-align:left}
 .badge{display:inline-block;background:rgba(212,168,0,.15);color:#8a6600;border:1px solid #d4a800;border-radius:4px;font-size:10px;font-weight:700;padding:2px 6px;letter-spacing:.05em;text-transform:uppercase;margin-left:6px}
 .btn{display:inline-flex;align-items:center;gap:5px;background:var(--azul);color:#fff;text-decoration:none;border-radius:5px;padding:5px 10px;font-size:11px;font-weight:600;letter-spacing:.04em;transition:background .15s,transform .1s}
 .btn:hover{background:#1e4460;transform:translateY(-1px)}
@@ -721,12 +722,19 @@ function buildTable(rows){
   const tbody = document.getElementById('tbody');
   const disp = rows.filter(r => isDisponivelTabela(r, rows));
   disp.sort((a,b) => {
+    /* lotes ordenados entre si (QD -> LT -> bloco/complemento) e, dentro do lote, pelo nº da casa */
     const num = (s, key) => { const m = (s||'').match(new RegExp(key+'\\s*(\\d+)', 'i')); return m ? parseInt(m[1],10) : 0; };
+    const lote = s => { s=(s||'').toUpperCase().trim(); const i=s.search(/\bQD\b/); return i>=0 ? s.slice(i) : s; };
+    const cmp = (x,y) => x.localeCompare(y, 'pt-BR', {numeric:true, sensitivity:'base'});
     const dQD = num(a.endereco,'QD') - num(b.endereco,'QD');
     if(dQD !== 0) return dQD;
     const dLT = num(a.endereco,'LT') - num(b.endereco,'LT');
     if(dLT !== 0) return dLT;
-    return parseInt(a.casa||0,10) - parseInt(b.casa||0,10);
+    const dLote = cmp(lote(a.endereco), lote(b.endereco));
+    if(dLote !== 0) return dLote;
+    const dEnd = cmp((a.endereco||'').trim(), (b.endereco||'').trim());
+    if(dEnd !== 0) return dEnd;
+    return (parseInt(a.casa,10)||0) - (parseInt(b.casa,10)||0);
   });
   if(!disp.length){
     tbody.innerHTML='<tr><td colspan="7" style="text-align:center;padding:20px;color:#aaa">Nenhuma casa disponível.</td></tr>';
@@ -764,7 +772,7 @@ function buildTable(rows){
       ? `<td class="cel-vendida" colspan="2">VENDIDA</td>`
       : `<td>${r.avaliacao?fmt(r.avaliacao):'—'}</td><td class="valor">${valorVenda!=null?fmt(valorVenda):'—'}</td>`;
     return `<tr class="${mv?'rmodvend':(rs?'rreservada':(ehM?'rmodelo':''))}">
-      <td><strong>${label}</strong>${ehM?'<span class="badge">Casa Modelo</span>':''}${rs?`<span class="badge bres">${textoReserva(r)}</span>`:''}</td>
+      <td class="td-end"><strong>${label}</strong>${ehM?'<span class="badge">Casa Modelo</span>':''}${rs?`<span class="badge bres">${textoReserva(r)}</span>`:''}</td>
       ${celValores}
       <td style="font-size:12px">${cm}</td>
       <td>${lo?`<a class="btn ouro" href="${lo}" target="_blank">📍 Local</a>`:'—'}</td>
