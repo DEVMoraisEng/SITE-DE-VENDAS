@@ -775,6 +775,9 @@ function buildTable(rows){
   }
   function linkDe(r, campo){
     if(ehMod(r)) return r[campo];
+    /* 09/11/2026 (opção B): LAYOUT/FOTOS preenchidos na própria casa valem mais
+       que o automático. Localização continua vindo da casa modelo. */
+    if(campo!=='localizacao' && r[campo] && String(r[campo]).trim()) return r[campo];
     if(r.tipo && temModeloProprio(r.tipo)){
       const m=rows.find(x=>ehMod(x)&&mesmoTipo(x.tipo,r.tipo)&&doSetor(x)&&x[campo]);
       return (m ? m[campo] : null)||r[campo];
