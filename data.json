@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T14:50:52Z",
+  "updated_at": "2026-11-09T15:00:31Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -7271,7 +7271,7 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 350000,
-      "valorMao": null,
+      "valorMao": 275500,
       "entregou": "",
       "fotos": "",
       "layout": "",
@@ -7291,7 +7291,7 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 350000,
-      "valorMao": null,
+      "valorMao": 275500,
       "entregou": "",
       "fotos": "",
       "layout": "",
@@ -7311,7 +7311,7 @@
       "modelo": "",
       "cliente": "",
       "avaliacao": 350000,
-      "valorMao": null,
+      "valorMao": 275500,
       "entregou": "",
       "fotos": "",
       "layout": "",
@@ -8937,7 +8937,7 @@
       "cidade": "GOIÂNIA",
       "link": "marquesdeabreu.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
