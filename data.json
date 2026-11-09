@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:50:53Z",
+  "updated_at": "2026-11-09T20:00:56Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -7228,7 +7228,7 @@
       "ref": "M5",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "ANDRESSA ALVES DE SOUZA",
       "avaliacao": 365000,
       "valorMao": 280250,
