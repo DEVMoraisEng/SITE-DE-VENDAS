@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:00:52Z",
+  "updated_at": "2026-11-09T19:50:53Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -7148,7 +7148,7 @@
       "ref": "M9",
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
-      "modelo": "",
+      "modelo": "SIM",
       "cliente": "",
       "avaliacao": 300000,
       "valorMao": 266000,
