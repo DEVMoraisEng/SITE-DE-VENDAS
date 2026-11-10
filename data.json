@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:00:54Z",
+  "updated_at": "2026-11-10T13:00:36Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -6450,7 +6450,7 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "MARIA DE  FÁTIMA  SANTOS  SILVA",
-      "avaliacao": null,
+      "avaliacao": 350000,
       "valorMao": 265000,
       "entregou": "",
       "fotos": "",
@@ -6470,7 +6470,7 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "JOAO MARIA DE ALBUQUERQUE ",
-      "avaliacao": null,
+      "avaliacao": 350000,
       "valorMao": 270000,
       "entregou": "",
       "fotos": "",
@@ -6629,15 +6629,15 @@
       "setor": "PQ DOS BURITIS",
       "tipo": 1,
       "modelo": "",
-      "cliente": "ERICA PEREIRA DA COSTA",
-      "avaliacao": null,
-      "valorMao": 270000,
+      "cliente": "",
+      "avaliacao": 250000,
+      "valorMao": 260000,
       "entregou": "",
       "fotos": "",
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 287000,
+      "valorVenda": null,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -9001,7 +9001,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "pqdosburitis.html",
       "obs": "",
-      "qtd": 0
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-800e-85e3-feaaa51d7480",
