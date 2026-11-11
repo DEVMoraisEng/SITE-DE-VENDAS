@@ -100,7 +100,9 @@ def normalize_venda(page):
         "setor":    get_prop(page, "SETOR") or "",
         "tipo":     get_prop(page, "TIPO"),
         "modelo":   get_prop(page, "MODELO?") or "",
-        "cliente":  get_prop(page, "CLIENTES ") or "",
+        # REGRA TRAVADA (Morais, 11/11/2026): VENDIDA = cliente + DATA DA VENDA. Sem a data, o nome não
+        # conta como venda no mapa (ver REGRAS-TRAVADAS.md).
+        "cliente":  (get_prop(page, "CLIENTES ") or "") if gp_(page, "DATA DA VENDA", "DATA DA VENDA ") else "",
         "avaliacao":get_prop(page, "AVALIAÇÃO"),
         "valorMao": get_prop(page, " VALOR NA MÃO "),
         "entregou": get_prop(page, "ENTEGOU A CASA E PEGOU TERMO DE ENTREGA?") or "",
