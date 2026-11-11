@@ -466,8 +466,6 @@ function reservaInicio(row){
   return (d && !isNaN(d.getTime())) ? d : null;
 }
 function reservaAtiva(row){
-  /* reservada até o sinal ser confirmado no portal (motivoReserva SINAL): sem prazo de 24 h */
-  if(row && row.motivoReserva === 'SINAL') return true;
   if(!row) return false;
   if(String(row.reservada||'').trim().toUpperCase() !== 'SIM') return false;
   const ini = reservaInicio(row);
@@ -475,7 +473,6 @@ function reservaAtiva(row){
   return (Date.now() - ini.getTime()) < RESERVA_MS;
 }
 function textoReserva(row){
-  if(row && row.motivoReserva === 'SINAL') return 'Reservada (aguardando sinal)';
   const ini = reservaInicio(row);
   if(!ini) return 'Reservada 24h';
   const falta = RESERVA_MS - (Date.now() - ini.getTime());
@@ -638,6 +635,9 @@ async function loadData(){
   }finally{ document.getElementById('loading').classList.add('hidden'); }
 }
 
+/* REGRA TRAVADA PELO DONO (Morais, 11/11/2026) — casas de rua: VENDIDA = cliente + DATA DA VENDA (decidido no
+   portal, fetch_vendas.py); RESERVADA = SIM por 24 h. Sem régua de sinal nem de contrato. Este mapa é diferente
+   do mapa do condomínio. NÃO ALTERAR sem pedido do próprio Morais — ver REGRAS-TRAVADAS.md. */
 function calcStatus(row, all){
   const s = (row.setor||'').trim().toUpperCase();
   if(s !== 'ACROPOLE') return null;
