@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T00:50:48Z",
+  "updated_at": "2026-11-11T01:00:35Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -6410,8 +6410,8 @@
       "tipo": 1,
       "modelo": "",
       "cliente": "ERICA PEREIRA DA COSTA",
-      "avaliacao": null,
-      "valorMao": null,
+      "avaliacao": 360000,
+      "valorMao": 270000,
       "entregou": "",
       "fotos": "",
       "layout": "",
