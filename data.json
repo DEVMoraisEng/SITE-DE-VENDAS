@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:00:34Z",
+  "updated_at": "2026-11-11T00:00:54Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -1309,7 +1309,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "VAGNER RODRIGUES DE ARRUDA",
+      "cliente": "WALLACE SILVA SANTOS",
       "avaliacao": 345000,
       "valorMao": 270000,
       "entregou": "",
@@ -1317,7 +1317,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 285000,
+      "valorVenda": 290000,
       "reservada": "NÃO",
       "dataReserva": null
     },
