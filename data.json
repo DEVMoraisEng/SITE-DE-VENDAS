@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:00:34Z",
+  "updated_at": "2026-11-11T15:40:52Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -2368,26 +2368,6 @@
       "ref": "TB114",
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
-      "modelo": "",
-      "cliente": "",
-      "avaliacao": null,
-      "valorMao": null,
-      "entregou": "",
-      "fotos": "",
-      "layout": "",
-      "localizacao": "",
-      "comissao": null,
-      "valorVenda": null,
-      "reservada": "NÃO",
-      "dataReserva": null
-    },
-    {
-      "id": "36cc5ab5-32d3-8069-a791-e967fe129896",
-      "endereco": "TB 25 QD 47 LT 44",
-      "casa": 1,
-      "ref": "TB98",
-      "setor": "ST FÉ",
-      "tipo": null,
       "modelo": "",
       "cliente": "",
       "avaliacao": null,
