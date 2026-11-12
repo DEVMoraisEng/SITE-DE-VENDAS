@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:10:55Z",
+  "updated_at": "2026-11-12T15:40:56Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -2598,8 +2598,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": null,
-      "reservada": "NÃO",
-      "dataReserva": null
+      "reservada": "SIM",
+      "dataReserva": "2026-11-12T15:40:00.000+00:00"
     },
     {
       "id": "35dc5ab5-32d3-80df-b953-d45b2448e8ee",
@@ -2618,8 +2618,8 @@
       "localizacao": "",
       "comissao": null,
       "valorVenda": null,
-      "reservada": "NÃO",
-      "dataReserva": null
+      "reservada": "SIM",
+      "dataReserva": "2026-11-12T15:40:00.000+00:00"
     },
     {
       "id": "356c5ab5-32d3-80d8-886a-eb2e51b0f8b9",
