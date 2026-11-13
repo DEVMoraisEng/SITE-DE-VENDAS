@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:50:49Z",
+  "updated_at": "2026-11-13T12:00:50Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -2589,7 +2589,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "LORYAN MICHEL FORTUNATO DE CARVALHO ",
       "avaliacao": 360000,
       "valorMao": 280000,
       "entregou": "",
@@ -2597,7 +2597,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 295000,
       "reservada": "SIM",
       "dataReserva": "2026-11-12T15:40:00.000+00:00"
     },
@@ -8989,7 +8989,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 3
+      "qtd": 2
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
