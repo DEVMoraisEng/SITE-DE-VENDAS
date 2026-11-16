@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:00:46Z",
+  "updated_at": "2026-11-16T21:10:52Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -8749,7 +8749,7 @@
       "setor": "ACROPOLE",
       "tipo": 2,
       "modelo": "",
-      "cliente": "CAMILA TAVARES",
+      "cliente": "",
       "avaliacao": 358000,
       "valorMao": 285000,
       "entregou": "",
@@ -8757,7 +8757,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 300000,
+      "valorVenda": null,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -8949,7 +8949,7 @@
       "cidade": "GOIÂNIA",
       "link": "https://drive.google.com/drive/folders/1ADoZhPG7PQtos7xii-OcJtyGOhblMz4F?usp=drive_link",
       "obs": "",
-      "qtd": 6
+      "qtd": 7
     },
     {
       "id": "33dc5ab5-32d3-8032-8ba8-c7897dc08d20",
