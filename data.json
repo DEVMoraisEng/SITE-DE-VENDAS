@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:40:51Z",
+  "updated_at": "2026-11-18T14:21:02Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -2529,7 +2529,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "EMILIO NEVES BASTOS FILHO ",
       "avaliacao": 360000,
       "valorMao": 280000,
       "entregou": "",
@@ -2537,7 +2537,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 295000,
       "reservada": "SIM",
       "dataReserva": "2026-11-17T17:10:00.000+00:00"
     },
@@ -8909,7 +8909,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
