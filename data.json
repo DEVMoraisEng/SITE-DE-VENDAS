@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:40:53Z",
+  "updated_at": "2026-11-19T14:01:03Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -7089,7 +7089,7 @@
       "setor": "MARQUES DE ABREU",
       "tipo": 3,
       "modelo": "SIM",
-      "cliente": "",
+      "cliente": "Sandro Henrique Santos Celestino",
       "avaliacao": 370000,
       "valorMao": 294500,
       "entregou": "",
@@ -8837,7 +8837,7 @@
       "cidade": "GOIÂNIA",
       "link": "marquesdeabreu.html",
       "obs": "",
-      "qtd": 6
+      "qtd": 5
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
