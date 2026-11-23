@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T16:51:00Z",
+  "updated_at": "2026-11-23T17:00:34Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -7029,7 +7029,7 @@
       "setor": "MARQUES DE ABREU",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "FERNANDO MENDES CORDEIRO",
       "avaliacao": 290000,
       "valorMao": 261250,
       "entregou": "",
@@ -8837,7 +8837,7 @@
       "cidade": "GOIÂNIA",
       "link": "marquesdeabreu.html",
       "obs": "",
-      "qtd": 5
+      "qtd": 4
     },
     {
       "id": "33dc5ab5-32d3-8092-a813-f5ed47cec3c8",
