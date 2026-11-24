@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T02:40:53Z",
+  "updated_at": "2026-11-24T02:51:00Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -1117,7 +1117,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": 265000,
+      "valorVenda": 278000,
       "reservada": "NÃO",
       "dataReserva": null
     },
@@ -1231,7 +1231,7 @@
       "modelo": "",
       "cliente": "WALLACE SILVA SANTOS",
       "avaliacao": 345000,
-      "valorMao": 270000,
+      "valorMao": 275000,
       "entregou": "",
       "fotos": "",
       "layout": "",
@@ -7397,7 +7397,7 @@
       "layout": "https://drive.google.com/file/d/1RSCzHYXxM9vVZzX1ORz6UwQqGEm27TBd/view?usp=drive_link",
       "localizacao": "https://www.google.com/maps/place/16%C2%B041'01.7%22S+49%C2%B021'04.3%22W/@-16.6838074,-49.3537636,794m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-1",
       "comissao": null,
-      "valorVenda": 280000,
+      "valorVenda": 280670,
       "reservada": "NÃO",
       "dataReserva": null
     },
