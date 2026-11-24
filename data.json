@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T00:40:53Z",
+  "updated_at": "2026-11-24T00:50:56Z",
   "rows": [
     {
       "id": "410c5ab5-32d3-8125-be6c-dd9ce6a4a1ee",
@@ -2309,7 +2309,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "DANIELA NUNES FRANCO",
       "avaliacao": 370000,
       "valorMao": 285000,
       "entregou": "",
@@ -2317,7 +2317,7 @@
       "layout": "",
       "localizacao": "",
       "comissao": null,
-      "valorVenda": null,
+      "valorVenda": 301000,
       "reservada": "SIM",
       "dataReserva": "2026-11-23T12:40:00.000+00:00"
     },
@@ -8909,7 +8909,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 2
+      "qtd": 1
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
