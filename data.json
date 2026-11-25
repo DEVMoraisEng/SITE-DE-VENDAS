@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:20:55Z",
+  "updated_at": "2026-11-25T19:30:58Z",
   "rows": [
     {
       "id": "423c5ab5-32d3-81d2-bb4b-e4665c09f1e6",
@@ -7128,7 +7128,7 @@
       "ref": "M7",
       "setor": "MARQUES DE ABREU",
       "tipo": 3,
-      "modelo": "SIM",
+      "modelo": "NÃO",
       "cliente": "Sandro Henrique Santos Celestino",
       "avaliacao": 370000,
       "valorMao": 294500,
