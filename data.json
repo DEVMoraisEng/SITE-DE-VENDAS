@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:17:40Z",
+  "updated_at": "2026-11-26T14:00:51Z",
   "rows": [
     {
       "id": "423c5ab5-32d3-81d2-bb4b-e4665c09f1e6",
@@ -8728,7 +8728,7 @@
       "ref": "A7",
       "setor": "ACROPOLE",
       "tipo": 2,
-      "modelo": "NÃO",
+      "modelo": "SIM",
       "cliente": "ROSELI DE JESUS LIMA",
       "avaliacao": 350000,
       "valorMao": 280250,
