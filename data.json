@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T17:20:51Z",
+  "updated_at": "2026-11-27T17:30:57Z",
   "rows": [
     {
       "id": "423c5ab5-32d3-81d2-bb4b-e4665c09f1e6",
@@ -2209,7 +2209,7 @@
       "setor": "TERRABELA CERRADO",
       "tipo": 1,
       "modelo": "",
-      "cliente": "",
+      "cliente": "WASHINGTON DA SILVA FERREIRA",
       "avaliacao": 335000,
       "valorMao": 270000,
       "entregou": "",
@@ -8949,7 +8949,7 @@
       "cidade": "SENADOR CANEDO",
       "link": "terrabela.html",
       "obs": "",
-      "qtd": 7
+      "qtd": 6
     },
     {
       "id": "33dc5ab5-32d3-8007-ae34-f15d90cc4115",
